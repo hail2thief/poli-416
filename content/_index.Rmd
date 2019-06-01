@@ -13,4 +13,4 @@ By the end of this course, you will (1) be literate in fundamental economic prin
 
 <figure>
 [![](/images/haitian-flag.jpeg)](/images/haitian-flag.jpeg){height=2%}
-</figure>^[*"Dessalines Ripping the White From the Flag," by Madsen Mompremier*]
+</figure>^[*"Dessalines Ripping the White From the Flag,"* by Madsen Mompremier]
