@@ -12,125 +12,82 @@ library(tibble)
 library(pander)
 ```
 
-<span class="newthought">The public sector is complex.</span> [^courseinfo] Public administrators, managers, and policy makers need to be fluent in the language of economics and need to be able to engage in and understand quantitative analysis of social policies. 
+# Course objectives
 
-In this class, you'll learn how to *speak* and *do* economics.
+<span class="newthought">There are over 50 armed conflicts around the world today.</span> [^courseinfo] Many more countries are affected by low-level, yet persistent, violence that prevents people from living full and free lives. Rather than random chaos, however, political violence often takes specific forms and follows particular patterns.  
+
+
+In this class, you'll learn about *why* violence plagues some places but not others and *how* armed conflicts are fought. We will draw from political science, economics, history, journalism, ethnography, fiction, documentaries, and in-class simulations to develop an understanding of political violence as a theoretical concept and how people around the world experience it. You should expect to do **a lot** of reading in this course. 
+
 
 [^courseinfo]: {-}
   `r blogdown::shortcode("courseinfo")`
 
 
-# Course objectives
+<span class="newthought">By the end of this course,</span> you will (1) be literate in theories of armed conflict and political violence, (2) understand armed conflict as a strategic process involving states, civilians, and armed groups, (3) identify  challenges associated with the study of political violence, and (4) understand the limitations of policy aimed at building peace and order.  
 
-<span class="newthought">By the end of this course,</span> you will (1) be literate in fundamental economic principles, (2) understand the limits of economic theory and free markets, (3) justify government and nonprofit intervention in the economy, and (4) make informed policy recommendations by analyzing and evaluating public sector policies. Specifically, you'll be able to:
-
-- Understand the principles of microeconomics, public economics, and behavioral economics
-- Explain social phenomena using economic vocabulary and reasoning
-- Predict how individuals respond to incentives
-- Evaluate the costs, benefits, and long-term consequences of public and nonprofit sector policies
-- Justify government intervention in the free market and identify when public policies have been unethical or failures
-- Propose and argue for public and nonprofit sector policies
-
-Given these objectives, this course fulfills three of the four learning outcomes for BYU's [Master of Public Administration (MPA)](https://marriottschool.byu.edu/mpa/) program:
-
-- **Quantitative Analysis**: BYU MPA graduates are skilled at evaluating programs and policies. They know how to gather data, correctly analyze it, and employ the analysis to recommend policy and programmatic action in public service organizations.
-- **Public Service Values**: BYU MPA graduates demonstrate an understanding of, passion for, and commitment to public service values, including reverence for the dignity and worth of all people and dedication to ethical governance.
-- **Communication**: BYU MPA graduates effectively convey verbal and written information with the polish and professionalism appropriate for the public service context. They listen to and promote understanding among people with diverse viewpoints.
 
 
 # Course materials
 
-<span class="newthought">Most of the readings in this class are free.</span> 
-
-## Books
-
-We will only use one physical textbook. There are two official textbooks for the class:
-
-- [@core-espp] ^[[*Free!*](https://www.core-econ.org/espp/)]
-- [@Wheelan:2010] ^[\$1.50 used, \$11 new at [Amazon](https://www.amazon.com/Naked-Economics-Undressing-Science-Revised/dp/0393337642/); you need the 2010 edition]
-
-[CORE Econ](https://www.core-econ.org/) is a special new project that aims to make economics education accessible to all, replacing textbooks that cost hundreds of dollars with an open source textbook complete with videos and quizzes and other online resources. It's even been [lauded by The Economist](https://www.economist.com/news/finance-and-economics/21729443-students-are-forced-grapple-real-world-very-beginning-their). 
-
-CORE's original book, [*The Economy*](http://www.core-econ.org/the-economy/), was designed to serve as a 1–2 semester introduction to economics for economics majors. I used it for this class last year, but it was too complex and we only covered half of the chapters. Recognizing this, CORE recently created a version of their materials *specifically* for those interested in public administration and policy. [*Economy, Society, and Public Policy*](https://www.core-econ.org/espp/) is designed for non-economics majors who have no interest in becoming economists, but who want to understand economics and policy. This is an ideal book for our class and I'm so excited to use it. It's still a beta project, and there might be errors and quirks and bumps in the road, but (1) it's free, and (2) it's state of the art and you're some of the first students to ever use it. So live with the quirks :)
-
-[**Register for a student account at the CORE website.**](http://www.core-econ.org/register/)
+<span class="newthought">All of the readings in this class are free.</span> 
 
 ## Articles, book chapters, and other materials
 
-There will also occasionally be additional articles and videos to read and watch. When this happens, links to these other resources will be included on the reading page for that week.
+Most of our readings will come from journal articles, book chapters, and videos. For articles, you will have to look up and download the article on your own, either through [Google Scholar](https://scholar.google.com/) or [the library](https://sc.edu/about/offices_and_divisions/university_libraries/index.php). I'll make book chapters available through this website or on the course Blackboard
+site.  
 
 ## Podcasts
 
-Finally, you'll need to listen to at least one economics-related podcast episode every week. We will spend the first few minutes of every class session discussing current events or recent research related to micro, public, or behavioral economics, and podcasts are one of the best ways to do this.^[You can listen as you commute, wash the dishes, fold your laundry, eat breakfast, or work on homework for other classes!]
+You should listen to podcasts, though doing so is not a requirement for this course. Here are some of my favorite ones that frequently discuss conflict and political violence:  
 
-Here are some of the best ones—subscribe to 3–4 of these:[^podcasts]
 
-- [Planet Money](https://www.npr.org/podcasts/510289/planet-money)
-- [The Indicator](https://www.npr.org/sections/money/567724614/the-indicator)
-- [The Weeds](https://itunes.apple.com/us/podcast/voxs-the-weeds/id1042433083?mt=2)
-- [Freakonomics Radio](https://itunes.apple.com/us/podcast/freakonomics-radio/id354668519?mt=2)
-- [50 Things that Made the Modern Economy](http://www.bbc.co.uk/programmes/p04b1g3c/episodes/downloads)
-- [EconTalk](http://www.econtalk.org/)
-- [The Uncertain Hour](https://www.marketplace.org/topics/uncertain-hour)
-- [The Impact](https://www.vox.com/the-impact)
+- [The Daily](https://www.nytimes.com/column/the-daily)
+- [Radio War Nerd](https://www.patreon.com/radiowarnerd)
+- [War on the Rocks](https://warontherocks.com/)
+- [Revolutions](https://www.revolutionspodcast.com/)
+- [Hardcore History](https://www.dancarlin.com/hardcore-history-series/)
+- [La Silla Vacia (for Spanish speakers)](https://lasillavacia.com/silla-llena/podcasts)
+- [What a Hell of a Way to Die](https://soundcloud.com/hellofawaytodie)
 
-And these shows are excellent, but not always econ/policy-focused (but they're definitely worth checking out, especially if you're interested in behavioral economics and psychology):
 
-- [Hidden Brain](https://www.npr.org/podcasts/510308/hidden-brain)
-- [Stuff Mom Never Told You](https://www.stuffmomnevertoldyou.com/podcasts)
-- [Invisibilia](https://www.npr.org/podcasts/510307/invisibilia)
-- [Rationally Speaking](http://rationallyspeakingpodcast.org/)
-
-[^podcasts]: You can listen to all these shows on your computer, but it's best to listen on your smartphone. 
-
-    On iOS, you can use Apple's built-in Podcasts app, or download a third-party app like [Overcast](https://overcast.fm/) (my personal favorite). 
     
-    On Android, you can use… something, probably.
+## Warning on Violent/Disturbing Content
 
-## R and RStudio
 
-You will do your problem sets and final project with the open source (and free!) programming language [R](https://cran.r-project.org/). You will use [RStudio](https://www.rstudio.com/) as the main program to access R. Think of R as an engine and RStudio as a car dashboard—R handles all the calculations and the actual statistics, while RStudio provides a nice interface for running R code.
-
-R is free, but it can sometimes be a pain to install and configure. To make life easier, you can (and should!) use the free [RStudio.cloud](http://rstudio.cloud/) service, which lets you run a full instance of RStudio in your web browser. This means you won't have to install anything on your computer to get started with R! We will have a shared class workspace in RStudio.cloud that will let you quickly copy templates for labs and problem sets.
-
-RStudio.cloud is convenient, but it can be slow and it is not designed to be able to handle larger datasets, more complicated analysis, or fancier graphics. Over the course of the semester, you'll probably want to get around to installing R, RStudio, and other R packages on your computer and wean yourself off of RStudio.cloud.
-
-You can [find instructions for installing R, RStudio, and all the tidyverse packages here.](/install/)
-
-I also highly recommend subscribing to the [R Weekly newsletter](https://rweekly.org/). This e-mail is sent every Monday and is full of helpful tutorials about how to do stuff with R.
-
-## Online help and Slack
-
-Economics can be difficult. Computer programming can be difficult. Computers are stupid and little errors in your code can cause hours of headache (even if you've been doing this stuff for years!).
-
-Fortunately there are tons of online resources to help you with this. Two of the most important are [StackOverflow](https://stackoverflow.com/) (a Q&A site with hundreds of thousands of answers to all sorts of programming questions) and [RStudio Community](https://community.rstudio.com/) (a forum specifically designed for people using RStudio and the tidyverse (i.e. you)). 
-
-Searching for help with R on Google can be tricky because the program is, um, a single letter. Try searching for "rstats" instead. If you use Twitter, post R-related questions and content with [#rstats](https://twitter.com/search?q=%23rstats).
-
-Additionally, we have a class chatroom at [Slack](https://ripseecon19.slack.com/) where anyone in the class can ask questions and anyone can answer. Ask questions about the readings or problem sets [in the class Slack workspace](https://ripseecon19.slack.com/). I will monitor Slack regularly, and you should also all do so as well. You'll likely have similar questions as your peers, and you'll likely be able to answer other peoples' questions too.
+We will spend a significant amount of time in this course reading, discussing, and watching violent and/or disturbing content.  
 
 
 # Course policies
 
-<span class="newthought">Be nice. Be honest. Don't cheat.</span>
 
-We will also follow the [full list of Marriott School and BYU classroom policies](https://marriottschool.byu.edu/policies/classroom/).
+## Email and Slack
 
-## Counseling and Psychological Services (CAPS)
 
-Life at BYU can be complicated and challenging. You might feel overwhelmed, experience anxiety or depression, or struggle with relationships or family responsibilities. [Counseling and Psychological Services (CAPS)](https://caps.byu.edu/) provides free, *confidential* support for students who are struggling with mental health and emotional challenges. The CAPS office is staffed by professional psychologists who are attuned to the needs of all types of college and professional students. Please do not hesitate to contact CAPS for assistance—getting help is a smart and courageous thing to do.
+<span class="newthought">Slack will be our main mode of communication.</span> We have a class chatroom at Slack where anyone in the class can ask questions and anyone can answer. Ask questions about the readings (e.g., "What does the author mean here...?") or class logistics (e.g., "I can't find the reading") in the class Slack workspace. I will monitor Slack regularly, and you should all do so as well. You'll have similar questions as your peers, and you'll likely be able to answer other peoples' questions too. 
 
-## Basic needs security
+If you would like to speak with me about something that only pertains *to you* (e.g., your grades, academic advice, reading suggestions), you can sign up for office hours on Calendly (link to the right). If there's a time-sensitive emergency (e.g., car exploded) you can email me. Everything else goes in the Slack. 
 
-If you have difficulty affording groceries or accessing sufficient food to eat every day, or if you lack a safe and stable place to live, and you believe this may affect your performance in this course, please contact the [Dean of Students](https://deanofstudents.byu.edu/) for support. Please also consider speaking with your local LDS bishop regarding Church welfare assistance *regardless of whether or not you are LDS*. Additionally, please talk to me if you are comfortable in doing so. This will enable me to provide any resources that I might possess.
 
-## Class conduct and expectations
 
-On the first day of class, we came up with some guidelines for late work and laptop use:
+## Honor Code
 
-- You each have two late passes that enable you to turn in an assignment up to a week late with no penalty. E-mail me when you want to use one of your late passes.
-- Once you are out of late passes (or if you use one and then go beyond the week), you'll have a 10% late penalty per day, up to 50%. 
+<span class="newthought">Be nice. Don't cheat.</span> The Carolinian Creed is in effect in this class and all others at the University. I will treat violations seriously and urge all students to become familiar with its terms set out [here](https://www.sc.edu/about/offices_and_divisions/student_conduct_and_academic_integrity/index.php). If you have doubts, it is your responsibility to ask about the Creed’s application.
+
+
+## Cell Phones and Laptops
+
+
+- Please turn off your phones or put them on silent before class. 
 - Be respectful with your laptop use. You're adults.
+
+
+
+
+## Counseling & Psychiatry Services
+
+Life at USC can be complicated and challenging. You might feel overwhelmed, experience anxiety or depression, or struggle with relationships or family responsibilities. [Counseling and Psychiatry Services](https://sc.edu/about/offices_and_divisions/student_health_services/medical-services/counseling-and-psychiatry/index.php) provides *confidential* support for students who are struggling with mental health and emotional challenges. Please do not hesitate to contact CAPS for assistance—getting help is a smart and good thing to do.
+
 
 
 # Assignments and grades
@@ -140,36 +97,30 @@ On the first day of class, we came up with some guidelines for late work and lap
 ```{r assignments-grades, include=FALSE}
 assignments <- tribble(
   ~Points,  ~Assignment,
-  250     , "Preparation (≈ 8.5 × 29)",
-  8 * 40  , "Problem sets (8 × 40)",
-  40      , "Economic briefing",
-  100     , "Exam 1",
-  100     , "Exam 2",
-  100     , "Exam 3",
-  200     , "Final project"
+  400     , "Pop quizzes (6 to 20)",
+  100  , "Self-assessment (3)",
+  100      , "In-class simulation",
+  400     , "Final exam"
 ) %>%
   mutate(Percent = Points / sum(Points),
          Percent = scales::percent(Percent))
 
 grading <- tribble(
   ~Grade, ~Range, ~Grade1, ~Range1,
-  "A",  "93–100%", "C",  "73–76%",
-  "A−", "90–92%", "C−", "70–72%",
+  "A",  "90–100%", "C",  "73–76%",
   "B+", "87–89%", "D+", "67–69%",
   "B",  "83–86%", "D",  "63–66%",
-  "B−", "80–82%", "D−", "60–62%",
   "C+", "77–79%", "F",  "< 60%"
 )
 ```
 
 ```{r show-assignments-table, echo=FALSE, results="asis"}
-assignments_total <- tibble(Assignment = "Total",
-                            Points = sum(assignments$Points),
+assignments_total <- tibble(Points = sum(assignments$Points),
                             Percent = NA)
 
 bind_rows(assignments, assignments_total) %>% 
-  select(Assignment, Points, Percent) %>% 
-  pandoc.table(justify = "lcc", missing = "—")
+  select(Assignment, Percent) %>% 
+  pandoc.table(justify = "lc", missing = "")
 ```
 
 \
@@ -180,10 +131,14 @@ grading %>%
                col.names = c("Grade", "Range", "Grade", "Range"))
 ```
 
+\
 
-# Red pandas
+<span class="newthought">If you think you received the wrong grade</span>, you will need to submit a memo (hard-copy) giving specific detail about why the grade should be changed. I will then **re-grade the entire assignment**. Your grade might go up, go down, or stay the same, so try to be honest with yourself about whether a grade appeal is reasonable. Please note that I will only accept grade appeals up to two weeks after the posting of a grade.
 
-[^panda] <span class="newthought">Once you have read</span> this entire syllabus and [the assignments page](/assignments/), please [click here](mailto:andrew_heiss@byu.edu) and e-mail me a picture of a red panda. For real. Brownie points if it's animated.
 
-[^panda]: {-}
-  ![Hungry red panda](https://media.giphy.com/media/r7Nbr97FsXxXG/giphy.gif)
+# War Propaganda
+
+[^propaganda] <span class="newthought">Once you have read</span> this entire syllabus and [the assignments page](/assignments/), please e-mail me an image of propaganda from any war or rebel group for 2 bonus points.
+
+[^propaganda]: {-}
+  ![Soviet propaganda](https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2017/07/GettyImages-541320861-1024x683.jpg)
