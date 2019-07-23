@@ -6,9 +6,6 @@ author: "Juan Tellez"
 ^[{-} `r blogdown::shortcode("courseinfo")`] <span class="newthought">This site contains</span> the syllabus, schedule, and assignments for POLI 416: Revolution and Political Violence, held during Fall 2019 at The University of South Carolina.
 
 
-In this course, you will (1) spend a lot of time reading and thinking about the causes and consequences of political violence, (2) become familiar with cutting edge research in the study of war and violence, and (3) delve deeply into three cases of political violence in the contemporary world.
-
-
 
 
 <figure>

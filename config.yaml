@@ -30,7 +30,7 @@ menu:
       url: /reference/
       weight: 4
     - name: Slack
-      url: "https://gitter.im/byustatsf18/"
+      url: "http://poli416.slack.com"
       weight: 5
 params: 
   author: Juan Tellez
@@ -38,9 +38,9 @@ params:
   instructor: 
     name: Juan Tellez
     email: juan.f.tellez@gmail.com
-    url: "/"
-    twitter: beingofbeings
+    url: "https://www.juanftellez.com"
     github: hail2thief
+    twitter: juanftellez14
     office: NUMBER AND ROOM
   logo:
     url: /images/POLI416.png
@@ -51,9 +51,9 @@ params:
     days: "Tuesdays, Thursdays"
     time: "02:50-04:05 PM"
     location: "202 HUMCB"
-    twitter: beingofbeings
     dates: "August 22–December 06, 2019"
     github: "hail2thief"
+    twitter: "juanftellez14"
     copyrightYear: "2019"
     contactDetails: >-
       Office hours: [Sign up here.](https://calendly.com/juan-f-tellez)<br><br>E-mail is the best way to get in contact with me—I will respond to all course-related e-mails within 24 hours.
@@ -66,6 +66,4 @@ params:
   credits: >-
     Course website design adapted/stolen from [Andrew Heiss](https://www.andrewheiss.com/). 
   meta:
-    twitterSite: "@beingofbeings"
-    twitterCreator: "@beingofbeings"
     fbAuthor: ""

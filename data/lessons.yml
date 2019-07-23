@@ -4,12 +4,9 @@ lessons:
 
   - title: "Introduction"
     date: "2019-08-22"
-    reading: "01-reading"
 
   - title: "Reading papers + Slack"
     date: "2019-08-27"
-    reading: "02-reading"
-    class: "02-class"
   
   - title: "*No Class; Prof. Tellez at terrible conference*"
     date: "2019-08-29"
@@ -17,13 +14,9 @@ lessons:
 
   - title: "What is political violence?"
     date: "2019-09-03"
-    reading: "03-reading"
-    class: "03-class"
 
   - title: "New vs. old civil wars"
     date: "2019-09-05"
-    reading: "04-reading"
-    class: "04-class"
   
   - title: '<span class="fake-header-table">Causes of War</span>'
     header: True
@@ -33,47 +26,30 @@ lessons:
 
   - title: "Bargaining II"
     date: "2019-09-12"
-    reading: "05-reading"
-    class: "05-class"
 
   - title: "Motivations: grievance"
     date: "2019-09-17"
-    reading: "06-reading"
-    class: "06-class"
 
   - title: "Grievances II"
     date: "2019-09-19"
-    reading: "07-reading"
-    class: "07-class"
 
   - title: "Political economy of war"
     date: "2019-09-24"
-    reading: "08-reading"
-    class: "08-class"
     
   - title: "Political economy of war II"
     date: "2019-09-26"
-    reading: "09-reading"
-    class: "09-class"
   
   - title: '<span class="fake-header-table">Logic of Political Violence</span>'
     header: True
   
   - title: "How are wars fought?"
     date: " 2019-10-01"
-    reading: "10-reading"
-    class: "10-class"
 
   - title: "Rebel tactics"
     date: "2019-10-03"
-    reading: "11-reading"
-    class: "11-class"
-
 
   - title: "Counterinsurgency"
     date: "2019-10-08"
-    reading: "12-reading"
-    class: "12-class"
 
   - title: "*No class; labor day*"
     date: "2019-10-10"
@@ -81,61 +57,41 @@ lessons:
 
   - title: "**SIMULATION**"
     date: "2019-10-15"
-    reading: "14-reading"
-    class: "14-class"
 
   - title: "more COIN"
     date: "2019-10-17"
-    reading: "15-reading"
-    class: "15-class"
-
+    
   - title: '<span class="fake-header-table">Case Studies</span>'
     header: True
 
   - title: "Case: The Colombian armed conflict"
     date: "2019-10-22"
-    reading: "16-reading"
-    class: "16-class"
-
+    
   - title: "Colombia II"
     date: "2019-10-24"
-    reading: "17-reading"
-    class: "17-class"
-
+    
 
   - title: "Case II: Peru and Shining Path"
     date: "2019-10-29"
-    reading: "18-reading"
-    class: "18-class"
-
+    
   - title: "Shining Path II"
     date: "2019-10-31"
-    reading: "19-reading"
-    class: "19-class"
-
+    
   - title: "Case III: Criminal violence in Central America"
     date: "2019-11-05"
-    reading: "20-reading"
-    class: "20-class"
-
+    
   - title: "Central America II"
     date: "2019-11-07"
-    reading: "21-reading"
-    class: "21-class"
-
+    
   - title: '<span class="fake-header-table">Order, Peace, and Post-Conflict Society</span>'
     header: True
 
   - title: "What is order, anyway? And where does it come from?"
     date: "2019-11-12"
-    reading: "22-reading"
-    class: "22-class"
-
+    
   - title: "Order II"
     date: "2019-11-14"
-    reading: "23-reading"
-    class: "23-class"
-
+   
   - title: "Ending conflicts"
     date: "2019-11-19"
     

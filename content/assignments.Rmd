@@ -10,7 +10,9 @@ slug: assignments
 
 # Self-Assessment of Participation
 
-At three points in the semester, I will ask you to send me an email giving an **honest** self-assessment of your participation in class. Participation will cover (1) your attendance, (2) how much of the weekly readings you are completing, and (3) how much you are talking/answering/asking questions in class. You will give yourself a score from 0 to 10. Note that I reserve the right to reject your score! 
+At three points in the semester, I will ask you to send me an email giving an **honest** and **realistic** assessment of your participation in class. 
+
+Participation will cover (1) your attendance, (2) how much of the weekly readings you are completing, and (3) how much you are talking/answering/asking questions in class. You will give yourself a score from 0 to 10 and provide an explanation of why you deserve that score.^[Note that I reserve the right to reject your score!] 
 
 
 # Pop Quizzes
@@ -28,6 +30,6 @@ One day in class we will simulate a key concept from the study of counterinsurge
 
 # Final Exam
 
-A final exam will be held during exam week (Dec. 12, Thursday, 4:00 p.m., room is TBA).  Make-up exams will be given only to students with medical or personal emergencies.  If an emergency arises, you will need to contact me **before** the exam or you will receive zero credit.
+A final exam will be held during exam week.  Make-up exams will be given only to students with medical or personal emergencies.  If an emergency arises, you will need to contact me **before** the exam or you will receive zero credit.
 
 The final exam will cover all of the material from the course, including both readings and lectures. As the semester progresses, I will populate [the reference page](/reference/) with key concepts and ideas you will need for the final exam. 
