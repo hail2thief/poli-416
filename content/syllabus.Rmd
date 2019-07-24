@@ -14,9 +14,9 @@ library(pander)
 
 # Course objectives
 
-<span class="newthought">There are over 50 armed conflicts in the world today.</span> [^courseinfo] Persistent, low-level forms of violence affect an even broader set of countries, preventing people from living full and free lives. 
+<span class="newthought">There are over 50 ongoing armed conflicts in the world today.</span> [^courseinfo] Persistent, low-level forms of violence affect even more countries, preventing people from living full and free lives. 
 
-In this class, you'll learn about *why* violence plagues some places but not others, *how* the use of violence is shaped by strategic considerations, and *what* consequences violence has for civilians caught in the cross-fire. 
+In this class, you'll learn about *why* violence plagues some places more than others, *how* strategy and local conditions shape the way armed actors wield violence, and *what* consequences violence has for civilians living in the cross-fire. 
 
 
 We will draw from political science, economics, history, journalism, ethnography, fiction, documentaries, and in-class simulations to develop an understanding of political violence as a theoretical concept, and how people around the world experience it. You should expect to do **a lot** of reading in this course. 
@@ -28,10 +28,10 @@ We will draw from political science, economics, history, journalism, ethnography
 
 <span class="newthought">By the end of this course,</span> you will be able to:
 
-1. Identify the structural and historical origins of violence
+1. Identify the structural and historical sources of violence
 2. Think about armed conflict as a strategic process involving states, civilians, and armed groups
-3. Discuss three prominent cases of sustained political violence in the contemporary era
-4. Understand the limitations of policy aimed at building peace and order 
+3. Competently discuss three prominent cases of sustained violence in the contemporary era
+4. Understand the challenges of policy aimed at building peace and order 
 
 
 
@@ -54,7 +54,7 @@ This course will require spending a significant amount of time covering violent 
 
 ## Podcasts
 
-You should listen to podcasts, though doing so is not a requirement for this course. Here are some of my favorite ones that frequently discuss conflict and political violence:  
+You should listen to podcasts, although I won't grade you on it. Here are some of my favorite podcasts that frequently discuss conflict and political violence:  
 
 
 - [The Daily](https://www.nytimes.com/column/the-daily)
@@ -73,9 +73,11 @@ You should listen to podcasts, though doing so is not a requirement for this cou
 ## Email and Slack
 
 
-<span class="newthought">Slack will be our main mode of communication.</span> We have a class chatroom at Slack where anyone in the class can ask questions and anyone can answer. Ask questions about the readings (e.g., "What does the author mean here...?") or class logistics (e.g., "I can't find the reading") in the class Slack workspace. I will monitor Slack regularly, and you should all do so as well. You'll have similar questions as your peers, and you'll likely be able to answer other peoples' questions too. 
+<span class="newthought">Slack will be our main mode of communication.</span> We have a class Slack channel where anyone in the class can ask questions and anyone can answer. Ask questions about the readings (e.g., "What does the author mean here...?") or class logistics (e.g., "I can't find the reading") in the class Slack workspace. 
 
-If you would like to speak with me about something that only pertains *to you* (e.g., your grades, academic advice, reading suggestions), you can sign up for office hours on Calendly (link to the right). If there's a time-sensitive emergency (e.g., car exploded) you can email me. Everything else goes in the Slack. 
+I will monitor Slack regularly, and you should all do so as well. You'll have similar questions as your peers, and you'll likely be able to answer other peoples' questions too. I will also post announcements and interesting/helpful content on Slack as the semester progresses.
+
+If you would like to speak with me about something that only pertains to *you* (e.g., your grades, academic advice, reading suggestions), you can sign up for office hours on [Calendly](https://calendly.com/juan-f-tellez). If there's a time-sensitive emergency (e.g., car exploded) you can email me. Everything else goes in the Slack. 
 
 
 
@@ -94,6 +96,7 @@ If you would like to speak with me about something that only pertains *to you* (
 
 
 ## Counseling & Psychiatry Services
+
 
 Life at USC can be complicated and challenging. You might feel overwhelmed, experience anxiety or depression, or struggle with relationships or family responsibilities. [Counseling and Psychiatry Services](https://sc.edu/about/offices_and_divisions/student_health_services/medical-services/counseling-and-psychiatry/index.php) provides *confidential* support for students who are struggling with mental health and emotional challenges. Please do not hesitate to contact CAPS for assistance—getting help is a smart and good thing to do.
 
@@ -142,7 +145,7 @@ grading %>%
 
 \
 
-<span class="newthought">If you think you received the wrong grade</span>, you will need to submit a memo (hard-copy) giving specific detail about why the grade should be changed. I will then **re-grade the entire assignment**. 
+<span class="newthought">If you think you received the wrong grade</span>, you will need to submit a memo (hard-copy, in-person) giving specific detail about why the grade should be changed. I will then **re-grade the entire assignment**. 
 
 Your grade might go up, go down, or stay the same, so try to be honest with yourself about whether a grade appeal is reasonable. Please note that I will *only accept grade appeals up to two weeks after the posting of a grade*.
 
