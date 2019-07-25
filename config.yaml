@@ -52,8 +52,8 @@ params:
     time: "02:50-04:05 PM"
     location: "202 HUMCB"
     dates: "August 22–December 06, 2019"
-    github: "hail2thief"
-    twitter: "juanftellez14"
+    github: "hail2thief/poli-416"
+    twitter: juanftellez14
     copyrightYear: "2019"
     contactDetails: >-
       Office hours: [Sign up here.](https://calendly.com/juan-f-tellez)
@@ -67,3 +67,5 @@ params:
     Course website design adapted/stolen from [Andrew Heiss](https://www.andrewheiss.com/). 
   meta:
     fbAuthor: ""
+    twitterSite: "@juanftellez14"
+    twitterCreator: "@juanftellez14"

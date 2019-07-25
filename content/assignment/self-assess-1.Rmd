@@ -1,0 +1,32 @@
+---
+title: "Self-assessment 1"
+date: "2019-09-12"
+due_date: "2019-09-12"
+due_time: "11:59 PM"
+editor_options: 
+  chunk_output_type: console
+---
+
+# Instructions
+
+You are going to provide an *accurate* and *honest* assessment of your participation in this class up to this point. Use the following rubric: 
+
+1. Have you attended almost every class (missed very few)?
+  - Yes (*2 points*)
+  - No (*0 points*)
+2. Are you checking the Slack regularly?
+  - Yes (*1 points*)
+  - No (*0 points*)
+3. How much of the readings have you completed?
+  - 100% (*4 points*)
+  - 75–99% (*3 points*)
+  - 50–74% (*2 points*)
+  - 11–49% (*1 points*)
+  - 0–10% (*0 points*)
+4. In terms of class contribution (asking Q's, answering Q's), are you contributing:
+  - Often [once or twice a week] (*3 points*)
+  - Rarely [couple times a month] (*2 points*)
+  - Never contributed (*1 points*)
+  
+
+Send me an email telling me how you score on each question and provide a **brief** (max: 5 sentences) paragraph arguing in favor of your score. 

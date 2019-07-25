@@ -16,10 +16,12 @@ library(pander)
 
 <span class="newthought">There are over 50 ongoing armed conflicts in the world today.</span> [^courseinfo] Persistent, low-level forms of violence affect even more countries, preventing people from living full and free lives. 
 
-In this class, you'll learn about *why* violence plagues some places more than others, *how* strategy and local conditions shape the way armed actors wield violence, and *what* consequences violence has for civilians living in the cross-fire. 
+In this class, you'll learn about *why* violence plagues some places more than others, *how* strategy and local conditions shape the way armed actors wield violence, and *what* consequences violence has for people living in the cross-fire. 
 
 
-We will draw from political science, economics, history, journalism, ethnography, fiction, documentaries, and in-class simulations to develop an understanding of political violence as a theoretical concept, and how people around the world experience it. You should expect to do **a lot** of reading in this course. 
+We will draw from political science, economics, history, journalism, ethnography, fiction, documentaries, and in-class simulations to develop an understanding of political violence as a theoretical concept, and how people around the world experience it. 
+
+You should expect to do **a lot** of reading in this course. 
 
 
 [^courseinfo]: {-}
@@ -28,8 +30,8 @@ We will draw from political science, economics, history, journalism, ethnography
 
 <span class="newthought">By the end of this course,</span> you will be able to:
 
-1. Identify the structural and historical sources of violence
-2. Think about armed conflict as a strategic process involving states, civilians, and armed groups
+1. Identify structural and historical causes of violence
+2. Conceptualize armed conflict as a strategic process involving states, civilians, and armed groups
 3. Competently discuss three prominent cases of sustained violence in the contemporary era
 4. Understand the challenges of policy aimed at building peace and order 
 
@@ -41,7 +43,7 @@ We will draw from political science, economics, history, journalism, ethnography
 
 ## Articles, book chapters, and other materials
 
-Most of our readings will come from journal articles, book chapters, and videos. For articles, you will have to look up and download the article on your own, either through [Google Scholar](https://scholar.google.com/) or [the library](https://sc.edu/about/offices_and_divisions/university_libraries/index.php). I'll make book chapters available through this website or on the course Blackboard
+Most of our readings will come from journal articles, book chapters, and videos. For articles, you will have to look up and download the article *on your own*, either through [Google Scholar](https://scholar.google.com/) or [the library](https://sc.edu/about/offices_and_divisions/university_libraries/index.php). I'll make book chapters available through this website or on the course Blackboard
 site.  
 
 
@@ -119,9 +121,11 @@ assignments <- tribble(
 
 grading <- tribble(
   ~Grade, ~Range, ~Grade1, ~Range1,
-  "A",  "90–100%", "C",  "73–76%",
+  "A",  "93–100%", "C",  "73–76%",
+  "A−", "90–92%", "C−", "70–72%",
   "B+", "87–89%", "D+", "67–69%",
   "B",  "83–86%", "D",  "63–66%",
+  "B−", "80–82%", "D−", "60–62%",
   "C+", "77–79%", "F",  "< 60%"
 )
 ```
@@ -152,7 +156,7 @@ Your grade might go up, go down, or stay the same, so try to be honest with your
 
 # War Propaganda
 
-[^propaganda] <span class="newthought">Once you have read</span> this entire syllabus and [the assignments page](/assignments/), please post some propaganda from any war or rebel group to the Slack (2 bonus points).
+[^propaganda] <span class="newthought">Once you have read</span> this entire syllabus and [the assignments page](/assignments/), please post some propaganda from any war or rebel group to the Slack by September 1st (2 bonus points).
 
 [^propaganda]: {-}
   ![Soviet propaganda](https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2017/07/GettyImages-541320861-1024x683.jpg)
