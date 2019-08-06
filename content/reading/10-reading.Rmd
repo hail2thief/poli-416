@@ -1,17 +1,15 @@
 ---
-title: "Bootstrapping and confidence intervals"
-date: "2018-11-08"
+title: "How are wars fought?"
+date: "2019-10-01"
 citeproc: false
-bibliography: ../../static/bib/references.bib
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+stuff-to-add: >-
+  Something on political polling
 ---
 
 # Required
 
-- <i class="fas fa-book"></i> [9.1–9.8 in *ModernDive*](https://moderndive.com/9-confidence-intervals.html) [@IsmayKim:2018]
-- <i class="fas fa-laptop-code"></i> "Bootstrapping for estimating a parameter," chapter 1 in Mine Çetinkaya-Rundel's [*Inference for Numerical Data* course on DataCamp](https://www.datacamp.com/courses/inference-for-numerical-data)
 
-
-# Recommended
-
-- <i class="fas fa-laptop-code"></i> "Confidence intervals," chapter 4 in Jo Hardin's [*Foundations of Inference* course on DataCamp](https://www.datacamp.com/courses/foundations-of-inference)
+- Ch. XX from Kalyvas, *The Logic of Violence in Civil War*
+- Balcells, *Rivalry and Revenge*[@balcells:2010]

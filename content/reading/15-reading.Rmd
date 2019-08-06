@@ -1,12 +1,13 @@
 ---
-title: "Rebel tactics"
-date: "2019-10-03"
+title: "Colombia II"
+date: "2019-10-24"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 ---
-
+  
 # Required
-
-
-- Condra[@condra:2018], OR Valentino[@valentino:etal:2004], OR Cohen [@cohen:2013]
+  
+  
+- Acemoglu and others, *The Monopoly of Violence*[@acemoglu:etal:2013]
+- Selections from *Diary of a Limpieza*

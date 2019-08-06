@@ -41,79 +41,97 @@ lessons:
     date: "2019-09-19"
     reading: "07-reading"
 
-  - title: "Political economy of war"
+  - title: "War as armed looting"
     date: "2019-09-24"
+    reading: "08-reading"
     
-  - title: "Political economy of war II"
+  - title: "Material incentives to joining the fight"
     date: "2019-09-26"
+    reading: "09-reading"
   
   - title: '<span class="fake-header-table">Logic of Political Violence</span>'
     header: True
   
   - title: "How are wars fought?"
     date: " 2019-10-01"
+    reading: "10-reading"
 
   - title: "Rebel tactics"
     date: "2019-10-03"
+    reading: "11-reading"
 
   - title: "Counterinsurgency"
     date: "2019-10-08"
+    reading: "12-reading"
 
   - title: "*No class; labor day*"
     date: "2019-10-10"
 
 
-  - title: "**SIMULATION**"
+  - title: "**SIMULATION; no reading**"
     date: "2019-10-15"
 
   - title: "more COIN"
     date: "2019-10-17"
+    reading: "13-reading"
     
   - title: '<span class="fake-header-table">Case Studies</span>'
     header: True
 
   - title: "Case: The Colombian armed conflict"
     date: "2019-10-22"
+    reading: "14-reading"
     
   - title: "Colombia II"
     date: "2019-10-24"
+    reading: "15-reading"
     
 
   - title: "Case II: Peru and Shining Path"
     date: "2019-10-29"
+    reading: "16-reading"
     
   - title: "Shining Path II"
     date: "2019-10-31"
+    reading: "17-reading"
     
   - title: "Case III: Criminal violence in Central America"
     date: "2019-11-05"
+    reading: "18-reading"
     
   - title: "Central America II"
     date: "2019-11-07"
+    reading: "19-reading"
     
   - title: '<span class="fake-header-table">Order, Peace, and Post-Conflict Society</span>'
     header: True
 
   - title: "What is order, anyway? And where does it come from?"
     date: "2019-11-12"
+    reading: "20-reading"
     
   - title: "Order II"
     date: "2019-11-14"
+    reading: "21-reading"
    
   - title: "Ending conflicts"
     date: "2019-11-19"
+    reading: "22-reading"
     
   - title: "Does separation work?"
     date: "2019-11-21"
+    reading: "23-reading"
     
   - title: "Legacies of war: what comes after?"
     date: "2019-11-26"
+    reading: "24-reading"
     
   - title: "*No class; Thanksgiving*"
     date: "2019-11-28"
     
   - title: "More on legacies"
     date: "2019-12-03"
+    reading: "25-reading"
     
   - title: "Review for final Exam"
     date: "2019-12-05"

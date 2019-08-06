@@ -1,11 +1,13 @@
 ---
-title: "Inference and regression"
-date: "2018-11-29"
+title: "Counterinsurgency"
+date: "2019-10-08"
 citeproc: false
-bibliography: ../../static/bib/references.bib
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 ---
 
 # Required
 
-Nothing! Class is cancelled!
+
+- [Counterinsurgency field manual](https://www.hsdl.org/?abstract&did=468442), *ASPECTS OF COUNTERINSURGENCY*
+- Condra and Shapiro, *Who takes the blame?*[@condra:shapiro:2012]

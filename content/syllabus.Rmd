@@ -72,14 +72,20 @@ You should listen to podcasts, although I won't grade you on it. Here are some o
 # Course policies
 
 
-## Email and Slack
+## Communicating with me
 
 
-<span class="newthought">Slack will be our main mode of communication.</span> We have a class Slack channel where anyone in the class can ask questions and anyone can answer. Ask questions about the readings (e.g., "What does the author mean here...?") or class logistics (e.g., "I can't find the reading") in the class Slack workspace. 
+<span class="newthought">You should come to office hours.</span> Confusion or questions about the reading are more easily cleared up in person than over email. If you have questions about your grades (see end of syllabus on grade appeals), or need to discuss absences, this should happen in person. You will get *better* help from me in person than over email. You can sign up for office hours [here](https://calendly.com/juan-f-tellez).
 
-I will monitor Slack regularly, and you should all do so as well. You'll have similar questions as your peers, and you'll likely be able to answer other peoples' questions too. I will also post announcements and interesting/helpful content on Slack as the semester progresses.
 
-If you would like to speak with me about something that only pertains to *you* (e.g., your grades, academic advice, reading suggestions), you can sign up for office hours on [Calendly](https://calendly.com/juan-f-tellez). If there's a time-sensitive emergency (e.g., car exploded) you can email me. Everything else goes in the Slack. 
+Of course, you can email if there is some time-pressing emergency (e.g., I accidentally listed the same reading twice on some day). I also understand that some people may commute or have other difficulties coming to office hours. If you **must** email, please: 
+
+1. Be curteous (include subject line, "Dear Prof. Tellez,") and to the point
+2. I do not need to know you are missing a non-exam class
+3. Do not email to ask what you missed during a missed class
+4. Do not ask for extensions on assignments. The answer is no
+5. Do not ask for extra credit opportunities. There are none
+
 
 
 

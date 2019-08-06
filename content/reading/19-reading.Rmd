@@ -1,12 +1,12 @@
 ---
-title: "Rebel tactics"
-date: "2019-10-03"
+title: "El Salvador"
+date: "2019-11-07"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 ---
-
+  
 # Required
-
-
-- Condra[@condra:2018], OR Valentino[@valentino:etal:2004], OR Cohen [@cohen:2013]
+  
+  
+-  Deborah Yashar, *Circumscribing Violence in Post-Civil War Nicaragua*[@yashar:2018]
