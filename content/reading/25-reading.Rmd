@@ -1,6 +1,6 @@
 ---
-title: "Colombia II"
-date: "2019-10-22"
+title: "More on legacies"
+date: "2019-12-03"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
@@ -9,5 +9,4 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 # Required
   
   
-- Acemoglu and others, *The Monopoly of Violence*[@acemoglu:etal:2013]
-- Selections from *Diary of a Limpieza*
+- <i class="far fa-file-pdf"></i> Prem and others, [*End of conflict deforestation in Colombia*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3306715)[@prem:etal:2018]

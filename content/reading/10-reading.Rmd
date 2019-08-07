@@ -11,5 +11,9 @@ stuff-to-add: >-
 # Required
 
 
-- Ch. XX from Kalyvas, *The Logic of Violence in Civil War*
-- Balcells, *Rivalry and Revenge*[@balcells:2010]
+- <i class="fas fa-book"></i> Ch. 7 from Kalyvas, *The Logic of Violence in Civil War*[@kalyvas:2006]
+
+
+# Recommended
+
+- <i class="far fa-file-pdf"></i> Balcells, *Rivalry and Revenge*[@balcells:2010]

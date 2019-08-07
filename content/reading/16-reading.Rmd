@@ -1,6 +1,6 @@
 ---
-title: "Colombia II"
-date: "2019-10-22"
+title: "Civilian resistance to insurgency in Peru"
+date: "2019-10-29"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
@@ -9,5 +9,5 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 # Required
   
   
-- Acemoglu and others, *The Monopoly of Violence*[@acemoglu:etal:2013]
-- Selections from *Diary of a Limpieza*
+- <i class="far fa-file-pdf"></i> Schubiger on *Wartime civilian agency in Peru*[@schubiger:2019]
+- <i class="fas fa-book"></i> Introduction from La Serna, *Corner of the Living*. Stop before the "Methodology" section. [@serna:2012]

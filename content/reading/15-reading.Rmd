@@ -1,5 +1,5 @@
 ---
-title: "Colombia II"
+title: "Colombia: Rebel governance"
 date: "2019-10-24"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
@@ -9,5 +9,5 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 # Required
   
   
-- Acemoglu and others, *The Monopoly of Violence*[@acemoglu:etal:2013]
 - Selections from *Diary of a Limpieza*
+- Maybe my paper, TBA

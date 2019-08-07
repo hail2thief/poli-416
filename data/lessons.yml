@@ -5,7 +5,7 @@ lessons:
   - title: "Introduction"
     date: "2019-08-22"
 
-  - title: "Reading papers + Slack"
+  - title: "Reading papers + concepts"
     date: "2019-08-27"
     reading: "01-reading"
   
@@ -78,7 +78,7 @@ lessons:
   - title: '<span class="fake-header-table">Case Studies</span>'
     header: True
 
-  - title: "Case: The Colombian armed conflict"
+  - title: "Colombia and *parapolitica*"
     date: "2019-10-22"
     reading: "14-reading"
     
@@ -87,7 +87,7 @@ lessons:
     reading: "15-reading"
     
 
-  - title: "Case II: Peru and Shining Path"
+  - title: "Case study: Civilian resistance to Shining Path in Peru"
     date: "2019-10-29"
     reading: "16-reading"
     
@@ -95,7 +95,7 @@ lessons:
     date: "2019-10-31"
     reading: "17-reading"
     
-  - title: "Case III: Criminal violence in Central America"
+  - title: "Case study: Criminal violence in Central America"
     date: "2019-11-05"
     reading: "18-reading"
     
@@ -110,15 +110,15 @@ lessons:
     date: "2019-11-12"
     reading: "20-reading"
     
-  - title: "Order II"
+  - title: "Emergent order during war"
     date: "2019-11-14"
     reading: "21-reading"
    
-  - title: "Ending conflicts"
+  - title: "Ending conflicts: can intervention work?"
     date: "2019-11-19"
     reading: "22-reading"
     
-  - title: "Does separation work?"
+  - title: "Ending conflicts: does separation work?"
     date: "2019-11-21"
     reading: "23-reading"
     

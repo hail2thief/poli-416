@@ -1,5 +1,5 @@
 ---
-title: "Reading papers + Slack"
+title: "Reading papers + concepts"
 date: "2019-08-27"
 citeproc: false
 bibliography: ../../static/bib/references.bib

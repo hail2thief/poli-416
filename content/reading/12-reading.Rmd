@@ -9,5 +9,5 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 # Required
 
 
-- [Counterinsurgency field manual](https://www.hsdl.org/?abstract&did=468442), *ASPECTS OF COUNTERINSURGENCY*
+- [Counterinsurgency field manual](https://www.hsdl.org/?abstract&did=468442), read section titled: *ASPECTS OF COUNTERINSURGENCY*
 - Condra and Shapiro, *Who takes the blame?*[@condra:shapiro:2012]

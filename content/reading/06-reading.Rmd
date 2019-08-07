@@ -2,14 +2,14 @@
 title: "Motivations: grievance"
 date: "2019-09-17"
 citeproc: false
-bibliography: /Users/juanftellez/Dropbox/whistle/master.bib
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 ---
 
 # Required
 
-- Ch.1 from Wood, "*Insurgent Collective Action*"[@wood:2003]
-- Primary source material???
+- <i class="fas fa-book"></i> Ch.1 from Wood, "*Insurgent Collective Action*"[@wood:2003]
+- Primary source material (TBA)
 
 
 # Recommended

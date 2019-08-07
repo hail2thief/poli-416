@@ -9,4 +9,10 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 # Required
 
 
-- Condra[@condra:2018], OR Valentino[@valentino:etal:2004], OR Cohen [@cohen:2013]
+- <i class="far fa-file-pdf"></i> Valentino and others on *Mass killings in civil wars*[@valentino:etal:2004]
+
+
+# Recommended
+
+- <i class="far fa-file-pdf"></i> Condra and others on *electoral violence*[@condra:2018]
+- <i class="far fa-file-pdf"></i> Cohen on *wartime rape*[@cohen:2013]

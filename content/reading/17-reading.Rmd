@@ -1,6 +1,6 @@
 ---
-title: "Colombia II"
-date: "2019-10-22"
+title: "Peru II"
+date: "2019-10-31"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
@@ -9,5 +9,4 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 # Required
   
   
-- Acemoglu and others, *The Monopoly of Violence*[@acemoglu:etal:2013]
-- Selections from *Diary of a Limpieza*
+  - Watch this video on the continuation of the Shining Path and its involvement in Peru's [coca trade](https://www.youtube.com/watch?v=VTpcBD23_HY)

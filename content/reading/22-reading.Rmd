@@ -1,6 +1,6 @@
 ---
-title: "Colombia II"
-date: "2019-10-22"
+title: "Ending conflicts: intervention"
+date: "2019-11-19"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
@@ -9,5 +9,5 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 # Required
   
   
-- Acemoglu and others, *The Monopoly of Violence*[@acemoglu:etal:2013]
-- Selections from *Diary of a Limpieza*
+- <i class="fas fa-book"></i> Stewart and Knaus, *Can intervention work?*[@stewart:knaus:2011]
+- Read about the debate on intervention in South Sudan, [here](https://www.nytimes.com/2017/01/23/world/africa/quandary-in-south-sudan-should-it-lose-its-hard-won-independence.html?_r=0) and [here](https://www.nytimes.com/2017/01/08/opinion/can-african-union-save-south-sudan-from-genocide.html)

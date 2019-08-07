@@ -1,6 +1,6 @@
 ---
-title: "Colombia II"
-date: "2019-10-22"
+title: "Order II"
+date: "2019-11-14"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
@@ -9,5 +9,4 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 # Required
   
   
-- Acemoglu and others, *The Monopoly of Violence*[@acemoglu:etal:2013]
-- Selections from *Diary of a Limpieza*
+- Sanchez de la Sierra, *Taxation in Eastern Congo*[@sanchez:2019]

@@ -1,5 +1,5 @@
 ---
-title: "Colombia: Intro"
+title: "Colombia: *Parapolitica*"
 date: "2019-10-22"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
@@ -9,4 +9,5 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 # Required
 
 
-- selections from Steele book [@steele:2017]
+- <i class="far fa-file-pdf"></i> Acemoglu and others, *The Monopoly of Violence*[@acemoglu:etal:2013]
+- <i class="far fa-file-pdf"></i> Fergusson and others, *The Real Winner's Curse*[@fergusson:etal:2019]

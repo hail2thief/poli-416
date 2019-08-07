@@ -1,0 +1,12 @@
+---
+title: "Ending conflicts: does separation work?"
+date: "2019-11-21"
+citeproc: false
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
+csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+---
+  
+# Required
+  
+  
+- <i class="far fa-file-pdf"></i> Sambanis and Schulhofer-Wohl, *Partition as solution to civil war*[@sambanis:schulhofer:2009]

@@ -2,10 +2,12 @@
 title: "Bargaining in civil wars"
 date: "2019-09-12"
 citeproc: false
-bibliography: /Users/juanftellez/Dropbox/whistle/master.bib
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 ---
+
 
 # Required
 
 - <i class="far fa-file-pdf"></i> Walter, *Bargaining failure and civil war*[@walter:2009]
+- If you have a deck of cards, bring it to class! We will use cards in a simulation. The more decks, the better. 

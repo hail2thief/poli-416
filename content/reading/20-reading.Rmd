@@ -10,4 +10,4 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
   
   
 - Skarbek, *Governance and Prison Gangs*[@skarkbek:2012]
-- Revkin on taxation
+- Revkin, *Taxation by ISIS in Syria*[@revkin:2019]

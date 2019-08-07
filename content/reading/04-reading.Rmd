@@ -2,16 +2,16 @@
 title: "War as bargaining failure"
 date: "2019-09-10"
 citeproc: false
-bibliography: /Users/juanftellez/Dropbox/whistle/master.bib
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 ---
 
 # Required
 
-- <i class="far fa-file-pdf"></i> Muthoo, "*Non-technical intro to bargaining*"[@muthoo:2000]
 - <i class="far fa-file-pdf"></i> Fearon, *Rationalist explanation for war*[@fearon:1995]
 
 # Recommended
 
 - [Video tutorial on bargaining and war](https://www.youtube.com/watch?v=JgmAezD12B8)
+- <i class="far fa-file-pdf"></i> Muthoo, "*Non-technical intro to bargaining*"[@muthoo:2000]
 
