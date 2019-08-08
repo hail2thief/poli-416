@@ -14,7 +14,7 @@ library(pander)
 
 # Course objectives
 
-<span class="newthought">There are over 50 ongoing armed conflicts in the world today.</span> [^courseinfo] Persistent, low-level forms of violence affect even more countries, preventing people from living full and free lives. 
+<span class="newthought">There are over 50 ongoing armed conflicts in the world today.</span> [^courseinfo] Persistent, low-level forms of violence affect even more parts of the world, preventing people from living full and free lives. 
 
 In this class, you'll learn about *why* violence plagues some places more than others, *how* strategy and local conditions shape the way armed actors wield violence, and *what* consequences violence has for people living in the cross-fire. 
 
@@ -30,9 +30,9 @@ You should expect to do **a lot** of reading in this course.
 
 <span class="newthought">By the end of this course,</span> you will be able to:
 
-1. Identify structural and historical causes of violence
+1. Identify structural and historical drivers of violence
 2. Conceptualize armed conflict as a strategic process involving states, civilians, and armed groups
-3. Competently discuss three prominent cases of sustained violence in the contemporary era
+3. Competently discuss three prominent cases of violence in the contemporary era
 4. Understand the challenges of policy aimed at building peace and order 
 
 
@@ -43,8 +43,7 @@ You should expect to do **a lot** of reading in this course.
 
 ## Articles, book chapters, and other materials
 
-Most of our readings will come from journal articles, book chapters, and videos. For articles, you will have to look up and download the article *on your own*, either through [Google Scholar](https://scholar.google.com/) or [the library](https://sc.edu/about/offices_and_divisions/university_libraries/index.php). I'll make book chapters available through this website or on the course Blackboard
-site.  
+Most of our readings will come from journal articles, book chapters, and videos. For articles, you will have to look up and download the article *on your own*, either through [Google Scholar](https://scholar.google.com/) or [the library](https://sc.edu/about/offices_and_divisions/university_libraries/index.php). I'll make book chapters available through this website or on the course Blackboard site.  
 
 
     
@@ -78,11 +77,11 @@ You should listen to podcasts, although I won't grade you on it. Here are some o
 <span class="newthought">You should come to office hours.</span> Confusion or questions about the reading are more easily cleared up in person than over email. If you have questions about your grades (see end of syllabus on grade appeals), or need to discuss absences, this should happen in person. You will get *better* help from me in person than over email. You can sign up for office hours [here](https://calendly.com/juan-f-tellez).
 
 
-Of course, you can email if there is some time-pressing emergency (e.g., I accidentally listed the same reading twice on some day). I also understand that some people may commute or have other difficulties coming to office hours. If you **must** email, please: 
+I also understand that some people may commute or have other difficulties coming to office hours. If you **must** email, please: 
 
 1. Be curteous (include subject line, "Dear Prof. Tellez,") and to the point
 2. I do not need to know you are missing a non-exam class
-3. Do not email to ask what you missed during a missed class
+3. Do not email to ask what you missed during an absence (it's on the syllabus!)
 4. Do not ask for extensions on assignments. The answer is no
 5. Do not ask for extra credit opportunities. There are none
 
@@ -166,3 +165,11 @@ Your grade might go up, go down, or stay the same, so try to be honest with your
 
 [^propaganda]: {-}
   ![Soviet propaganda](https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2017/07/GettyImages-541320861-1024x683.jpg)
+  
+  
+# Credits
+  
+  
+This course site is built using Hugo and Blogdown. I use the [ath-tufte-hugo](https://github.com/andrewheiss/ath-tufte-hugo) theme by [Andrew Heiss](https://www.andrewheiss.com). I also borrow a few teaching ideas from his syllabus.  
+
+In terms of content, I drew inspiration from syllabi by Laia Balcells, Chris Blattman, Chelsea Estancona, Victor Asal, and a few others.  

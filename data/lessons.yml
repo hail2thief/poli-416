@@ -74,6 +74,7 @@ lessons:
   - title: "more COIN"
     date: "2019-10-17"
     reading: "13-reading"
+    assignment: "self-assess-2"
     
   - title: '<span class="fake-header-table">Case Studies</span>'
     header: True
@@ -125,6 +126,7 @@ lessons:
   - title: "Legacies of war: what comes after?"
     date: "2019-11-26"
     reading: "24-reading"
+    assignment: "self-assess-3"
     
   - title: "*No class; Thanksgiving*"
     date: "2019-11-28"
