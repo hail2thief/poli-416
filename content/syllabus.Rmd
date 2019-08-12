@@ -14,14 +14,14 @@ library(pander)
 
 # Course objectives
 
-<span class="newthought">There are over 50 ongoing armed conflicts in the world today.</span> [^courseinfo] Persistent, low-level forms of violence affect even more parts of the world, preventing people from living full and free lives. 
+<span class="newthought">There are more than 50 armed conflicts in the world today.</span> [^courseinfo] Persistent, low-level forms of violence is even more widespread, preventing people from living full and free lives. 
 
-In this class, you'll learn about *why* violence plagues some places more than others, *how* strategy and local conditions shape the way armed actors wield violence, and *what* consequences violence has for people living in the cross-fire. 
+In this class, you'll learn about *why* violence plagues some places more than others, *how* strategic constraints shape the way armed actors wield violence, and *what* consequences violence has for people living in the cross-fire. 
 
 
 We will draw from political science, economics, history, journalism, ethnography, fiction, documentaries, and in-class simulations to develop an understanding of political violence as a theoretical concept, and how people around the world experience it. 
 
-You should expect to do **a lot** of reading in this course. 
+**You should expect to do a lot of reading in this class.**
 
 
 [^courseinfo]: {-}
@@ -43,7 +43,9 @@ You should expect to do **a lot** of reading in this course.
 
 ## Articles, book chapters, and other materials
 
-Most of our readings will come from journal articles, book chapters, and videos. For articles, you will have to look up and download the article *on your own*, either through [Google Scholar](https://scholar.google.com/) or [the library](https://sc.edu/about/offices_and_divisions/university_libraries/index.php). I'll make book chapters available through this website or on the course Blackboard site.  
+Most of our readings will come from journal articles, book chapters, and videos. 
+
+For articles, you will have to look up and download the article *on your own*, either through [Google Scholar](https://scholar.google.com/) or [the library](https://sc.edu/about/offices_and_divisions/university_libraries/index.php). I'll make book chapters available through this website or on the course Blackboard site.  
 
 
     
@@ -172,4 +174,4 @@ Your grade might go up, go down, or stay the same, so try to be honest with your
   
 This course site is built using Hugo and Blogdown. I use the [ath-tufte-hugo](https://github.com/andrewheiss/ath-tufte-hugo) theme by [Andrew Heiss](https://www.andrewheiss.com). I also borrow a few teaching ideas from his syllabus.  
 
-In terms of content, I drew inspiration from syllabi by Laia Balcells, Chris Blattman, Chelsea Estancona, Victor Asal, and a few others.  
+In terms of content, I drew inspiration from syllabus by Laia Balcells, Chris Blattman, Victor Asal, and a few others.  
