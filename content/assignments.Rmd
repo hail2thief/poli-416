@@ -5,7 +5,7 @@ slug: assignments
 
 # Preparation
 
-<span class="newthought">You will get the most out of this class</span> if you (1) attend class, (2) complete all the readings, and (3) engage^[Take detailed notes, do follow-up reading on things, people, places you don't know about, ask for help on the Slack.]  with the readings.
+<span class="newthought">You will get the most out of this class</span> if you (1) attend class, (2) complete all the readings, and (3) engage^[Take detailed notes, do follow-up reading on things, people, places you don't know about]  with the readings.
 
 
 # Self-Assessment of Participation

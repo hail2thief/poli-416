@@ -14,9 +14,9 @@ library(pander)
 
 # Course objectives
 
-<span class="newthought">There are more than 50 armed conflicts in the world today.</span> [^courseinfo] Persistent, low-level forms of violence is even more widespread, preventing people from living full and free lives. 
+<span class="newthought">There are more than 50 armed conflicts in the world today.</span> [^courseinfo] Persistent, low-level violence is even more widespread, preventing people from living full and free lives. 
 
-In this class, you'll learn about *why* violence plagues some places more than others, *how* strategic constraints shape the way armed actors wield violence, and *what* consequences violence has for people living in the cross-fire. 
+In this class, you'll learn about *why* violence plagues some places more than others, how *strategy* shape the way armed actors use violence, and what *consequences* violence has for civilians caught in the cross-fire. 
 
 
 We will draw from political science, economics, history, journalism, ethnography, fiction, documentaries, and in-class simulations to develop an understanding of political violence as a theoretical concept, and how people around the world experience it. 
@@ -33,7 +33,7 @@ We will draw from political science, economics, history, journalism, ethnography
 1. Identify structural and historical drivers of violence
 2. Conceptualize armed conflict as a strategic process involving states, civilians, and armed groups
 3. Competently discuss three prominent cases of violence in the contemporary era
-4. Understand the challenges of policy aimed at building peace and order 
+4. Understand challenges faced by policy aimed at building peace and order 
 
 
 
@@ -107,7 +107,7 @@ I also understand that some people may commute or have other difficulties coming
 ## Counseling & Psychiatry Services
 
 
-Life at USC can be complicated and challenging. You might feel overwhelmed, experience anxiety or depression, or struggle with relationships or family responsibilities. [Counseling and Psychiatry Services](https://sc.edu/about/offices_and_divisions/student_health_services/medical-services/counseling-and-psychiatry/index.php) provides *confidential* support for students who are struggling with mental health and emotional challenges. Please do not hesitate to contact CAPS for assistance—getting help is a smart and good thing to do.
+Life at USC can be complicated and challenging. You might feel overwhelmed, experience anxiety or depression, or struggle with relationships or family responsibilities. [Counseling and Psychiatry Services](https://sc.edu/about/offices_and_divisions/student_health_services/medical-services/counseling-and-psychiatry/index.php) provides *confidential* support for students who are struggling with mental health and emotional challenges. Please do not hesitate to contact CPS for assistance—getting help is a smart and good thing to do.
 
 
 

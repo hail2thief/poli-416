@@ -4,6 +4,7 @@ lessons:
 
   - title: "Introduction"
     date: "2019-08-22"
+    class: "01-class"
 
   - title: "Reading papers + concepts"
     date: "2019-08-27"
