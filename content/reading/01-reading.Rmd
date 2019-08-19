@@ -8,5 +8,6 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Required
 
-- The [syllabus](/syllabus/) and [assignments](/assignments/) pages for this class
-- Read about 5 cases from the [Global Conflict Tracker](https://www.cfr.org/interactive/global-conflict-tracker/?category=us)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> The [syllabus](/syllabus/) and [assignments](/assignments/) pages for this class
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> Read about 5 cases from the [Global Conflict Tracker](https://www.cfr.org/interactive/global-conflict-tracker/?category=us)
+- <i class="far fa-file-pdf"></i> [Amelia Hoover Green, "How to Read Political Science"](/files/amelia-green-how-to-read.pdf)
