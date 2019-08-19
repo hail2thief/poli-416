@@ -9,6 +9,9 @@ output:
 
 
 
+# Things you should know for the Midterm
+
+This will fill up as semester advances.
 
 
 # Things you should know for the Final

@@ -118,9 +118,9 @@ Life at USC can be complicated and challenging. You might feel overwhelmed, expe
 ```{r assignments-grades, include=FALSE}
 assignments <- tribble(
   ~Points,  ~Assignment,
-  400     , "Pop quizzes (6 to 20)",
+  300     , "Pop quizzes (6 to 20)",
   100  , "Self-assessment (3)",
-  100      , "In-class simulation",
+  200      , "Midterm exam",
   400     , "Final exam"
 ) %>%
   mutate(Percent = Points / sum(Points),

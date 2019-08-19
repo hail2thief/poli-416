@@ -23,12 +23,14 @@ I will hold somewhere between 6 and 20 pop quizzes (multiple choice, short-respo
 
 Note that (apart from book chapters) I am not making the readings available on Blackboard; this means you probably won't have time to pull up unread PDFs mid-quiz.^[If you go through the trouble of finding and downloading the readings but not actually reading the papers then my hats off to you. You've beat me.] 
 
-Pop quizzes will cover **the reading that was due for that day**. Uncompleted pop quizzes = 0, and they can't be made up. You can drop the lowest 20% of your pop quiz grades at the end of the course (this includes 0's for absences). 
+Pop quizzes will cover **the reading that was due for that week**. Uncompleted pop quizzes = 0, and they can't be made up. You can drop the lowest 20% of your pop quiz grades at the end of the course (this includes 0's for absences). 
 
 
-# In-class Simulation
+# Midterm Exam
 
-One day in class we will simulate a key concept from the study of counterinsurgency. This simulation will involve the whole class and require active participation. You will get full credit for being present and involved on this day. If you are absent, you will have to write a 2-page paper on a theme related to the simulation. 
+The midterm exam will be take-home. Make-up exams will be given only to students with medical or personal emergencies.  If an emergency arises, you will need to contact me **before** the exam or you will receive zero credit.
+
+The midterm exam will cover material for the course up to that point in the semester, including both readings and lectures. As the semester progresses, I will populate [the reference page](/reference/) with key concepts and ideas you will need for the midterm exam. 
 
 
 # Final Exam
