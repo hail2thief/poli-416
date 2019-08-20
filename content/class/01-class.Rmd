@@ -18,6 +18,6 @@ editor_options:
 No slides today, just the intro.
 
 
-# Getting to know you (first pop quiz)
+# Getting to know you
 
 <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> Go to this [Google form](https://forms.gle/raRsBQsjJNe24wTeA) and tell me about yourself.
