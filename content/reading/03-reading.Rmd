@@ -3,14 +3,14 @@ title: "New vs. old civil wars"
 date: "2019-09-05"
 citeproc: false
 bibliography: ../../static/bib/references.bib
-csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
 ---
 
 # Required
 
-- - <i class="far fa-file-pdf"></i> Kalyvas, *New vs. Old Civil Wars*[@kalyvas:2001]
+- <i class="far fa-file-pdf"></i> [@kalyvas:2001]
 
 
 # Recommended
 
-- [Mary Kaldor, *New and Old Wars*](https://www.amazon.com/New-Old-Wars-Organized-Violence/dp/0804756457)
+- <i class="fas fa-book"></i> [Mary Kaldor, *New and Old Wars*](https://www.amazon.com/New-Old-Wars-Organized-Violence/dp/0804756457)

@@ -3,17 +3,17 @@ title: "What is political violence?"
 date: "2019-09-03"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
-csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
 ---
 
 # Required
 
-- <i class="far fa-file-pdf"></i> Kalyvas, *Jihadi Rebels in Civil War*[@kalyvas:2018]
-- <i class="far fa-file-pdf"></i> Balcells & Kalyvas, *Technologies of Rebellion*[@kalyvas:balcells:2010]
+- <i class="far fa-file-pdf"></i> [@kalyvas:2018]
+- <i class="far fa-file-pdf"></i> [@kalyvas:balcells:2010]
 
 
 
 # Recommended
 
 - <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> The [Wiki on political violence](https://en.wikipedia.org/wiki/Political_violence)
-- <i class="far fa-file-pdf"></i> Sambanis, *What is Civil War?*[@sambanis:2004]
+- <i class="far fa-file-pdf"></i> [@sambanis:2004]
