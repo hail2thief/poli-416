@@ -15,7 +15,7 @@ editor_options:
 # Slides
 
 
-TBA
+[Download the slides from today's lecture](/images/slides/02-how-to-read.pdf)
 
 
 # In-class activity
