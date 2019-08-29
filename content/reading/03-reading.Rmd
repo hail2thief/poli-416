@@ -1,14 +1,14 @@
 ---
-title: "New vs. old civil wars"
+title: "Armed conflict in a changing international system"
 date: "2019-09-05"
 citeproc: false
-bibliography: ../../static/bib/references.bib
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
 ---
 
 # Required
 
-- <i class="far fa-file-pdf"></i> [@kalyvas:2001]
+- <i class="far fa-file-pdf"></i> [@howard:2018]^[Skip the long case studies on El Salvador and Bosnia!]
 
 
 # Recommended
