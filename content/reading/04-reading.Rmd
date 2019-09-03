@@ -3,12 +3,14 @@ title: "War as bargaining failure"
 date: "2019-09-10"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
-csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
 ---
 
 # Required
 
-- <i class="far fa-file-pdf"></i> Fearon, *Rationalist explanation for war*[@fearon:1995]
+- <i class="far fa-file-pdf"></i> [@fearon:1995]
+- If you have a deck of cards, bring it to class! We will use cards in a simulation. The more decks, the better. 
+
 
 # Recommended
 
