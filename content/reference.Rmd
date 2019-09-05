@@ -11,8 +11,18 @@ output:
 
 # Things you should know for the Midterm
 
-This will fill up as semester advances.
 
+
+## You should understand...
+
+
+- ...how the new wave of Jihadi groups are similar and different to other armed actors
+- ...the three different forms of warfare: conventional, SNC, irregular
+- ...how the rate of civil war ocurrence has changed since the Cold War
+- ...how the way conflicts are *ending* has changed since the Cold War
+- ...what international norms dominated during the Cold War, post-Cold War, and post-9/11 periods
+- ...the role of external support in the longevity and probability of success of rebel groups
+- ...what the US and Taliban want out of current negotiations in Afghanistan
 
 # Things you should know for the Final
 
