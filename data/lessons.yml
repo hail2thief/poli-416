@@ -23,6 +23,7 @@ lessons:
   - title: "Armed conflict in a changing international system"
     date: "2019-09-05"
     reading: "03-reading"
+    class: "04-class"
   
   - title: '<span class="fake-header-table">Causes of War</span>'
     header: True

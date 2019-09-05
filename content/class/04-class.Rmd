@@ -1,0 +1,27 @@
+---
+title: "Armed conflict in a changing international system"
+date: "2019-09-05"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+output:
+  blogdown::html_page:
+    template: ../../pandoc/toc-title_html.template
+    toc: true
+editor_options: 
+  chunk_output_type: console
+---
+
+# Slides
+
+
+[Download the slides from today's lecture](/images/slides/04-coldwar-peace.pdf)
+
+
+
+# Links
+
+
+<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Here's the link to The Daily episode we heard today](https://www.nytimes.com/2019/09/03/podcasts/the-daily/us-taliban-afghanistan.html)
+
+

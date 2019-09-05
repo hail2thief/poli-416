@@ -15,6 +15,8 @@ Rather than take attendance or grade participation, I will ask you to send me an
 
 Participation will cover (1) your attendance, (2) how much of the weekly readings you are completing, and (3) how much you are talking/answering/asking questions in class. You will give yourself a score from 0 to 10 and provide an explanation of why you deserve that score based on a rubric that I will make available.^[Note that I reserve the right to reject your score if it's outlandish.] 
 
+Late assessments receive one letter grade off per day late. After the 3rd day you get a zero.
+
 
 # Pop Quizzes
 

@@ -9,22 +9,5 @@ editor_options:
 
 # Instructions
 
-You are going to provide an *accurate* and *honest* assessment of your participation in this class up to this point. Use the following rubric: 
 
-1. In terms of absences for this assessment period, you've had:
-  - 1 or 2 absences (*2 points*)
-  - 3 or 4 absences (*1 points*)
-  - 4 or more absences (*0 points*)
-2. How much of the readings have you completed?
-  - 100% (*4 points*)
-  - 75–99% (*3 points*)
-  - 50–74% (*2 points*)
-  - 11–49% (*1 points*)
-  - 0–10% (*0 points*)
-3. In terms of class contribution (asking Q's, answering Q's), are you contributing:
-  - Often [once or twice a week] (*3 points*)
-  - Rarely [couple times a month] (*2 points*)
-  - Never contributed (*1 points*)
-  
-
-Send me an email telling me how you score on each question and provide a **brief** (max: 5 sentences) paragraph arguing in favor of your score. 
+Fill out this google form, TBA.
