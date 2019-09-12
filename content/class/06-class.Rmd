@@ -1,0 +1,24 @@
+---
+title: "Bargaining in civil wars"
+date: "2019-09-12"
+citeproc: false
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+output:
+  blogdown::html_page:
+    template: ../../pandoc/toc-title_html.template
+    toc: true
+editor_options: 
+  chunk_output_type: console
+---
+
+# Slides
+
+
+TBA
+
+
+# Pop Quiz
+
+
+[Go here to take pop quiz](https://forms.gle/i9etu53VjtJ9ZMB68)
