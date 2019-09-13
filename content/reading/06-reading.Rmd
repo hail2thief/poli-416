@@ -8,8 +8,11 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Required
 
-- <i class="fas fa-book"></i> Ch.1 from Wood, "*Insurgent Collective Action*"[@wood:2003]
-- Primary source material (TBA)
+- <i class="fas fa-book"></i> [Ch.1 from Wood, "*Insurgent Collective Action*"](https://www.dropbox.com/s/jjt6fvd72buwp9p/Wood.pdf?dl=0)[@wood:2003]
+
+
+
+- Primary documents: see email!
 
 
 # Recommended

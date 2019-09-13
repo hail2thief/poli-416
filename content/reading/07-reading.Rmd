@@ -8,7 +8,7 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 
 # Required
 
-- <i class="fas fa-book"></i> Selections from Cockburn, "*Age of Jijhad*"[@cockburn:2016]
+- <i class="fas fa-book"></i> [Selections from Cockburn, "*Age of Jijhad*"](https://www.dropbox.com/s/cy2778yrtwmxshe/cockburn-age%20of%20jihad-regime-change-selection.pdf?dl=0)[@cockburn:2016]
 
 
 # Recommendeded
