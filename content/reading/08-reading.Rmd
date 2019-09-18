@@ -3,11 +3,11 @@ title: "Conflict as armed looting"
 date: "2019-09-24"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
-csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
 ---
 
 # Required
 
 
-- Collier and Hoeffler on *Greed and grievance in civil wars*[@collier:hoeffler:2004]
-- Dube and Vargas on *Commodity shocks in Colombia*[@dube:vargas:2013]
+
+- <i class="far fa-file-pdf"></i>[@dube:vargas:2013]

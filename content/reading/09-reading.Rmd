@@ -3,7 +3,7 @@ title: "Material incentives to joining the fight"
 date: "2019-09-26"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
-csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
 stuff-to-add: >-
   Something on political polling
 ---
@@ -11,4 +11,4 @@ stuff-to-add: >-
 # Required
 
 
-- <i class="far fa-file-pdf"></i> Hall and others, *Wealth, Slaveownership, and Fighting for the Confederacy: An Empirical Study of the American Civil War* [@hall:etal:2019]
+- <i class="far fa-file-pdf"></i> [@hall:etal:2019]
