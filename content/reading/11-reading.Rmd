@@ -3,16 +3,17 @@ title: "Rebel tactics"
 date: "2019-10-03"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
-csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
 ---
 
 # Required
 
 
-- <i class="far fa-file-pdf"></i> Valentino and others on *Mass killings in civil wars*[@valentino:etal:2004]
+- <i class="far fa-file-pdf"></i> [@valentino:etal:2004]
+- <i class="far fa-file-pdf"></i> [@condra:2018]
 
 
 # Recommended
 
-- <i class="far fa-file-pdf"></i> Condra and others on *electoral violence*[@condra:2018]
-- <i class="far fa-file-pdf"></i> Cohen on *wartime rape*[@cohen:2013]
+
+- <i class="far fa-file-pdf"></i> [@cohen:2013]

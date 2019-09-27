@@ -4,14 +4,12 @@ date: "2019-10-01"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
-stuff-to-add: >-
-  Something on political polling
 ---
 
 # Required
 
 
-- <i class="fas fa-book"></i> Ch. 7 from Kalyvas, *The Logic of Violence in Civil War*[@kalyvas:2006]
+- <i class="fas fa-book"></i> [Ch. 7 from Kalyvas, *The Logic of Violence in Civil War*](https://www.dropbox.com/s/yi6honppqb4d2ol/kalyvas-ch7-logic-violence.pdf?dl=0)[@kalyvas:2006]
 
 
 # Recommended
