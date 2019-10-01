@@ -64,14 +64,15 @@ lessons:
   - title: "How are wars fought?"
     date: " 2019-10-01"
     reading: "10-reading"
-
-  - title: "Rebel tactics"
-    date: "2019-10-03"
-    reading: "11-reading"
+    class: "10-class"
 
   - title: "Counterinsurgency"
-    date: "2019-10-08"
+    date: "2019-10-03"
     reading: "12-reading"
+
+  - title: "Rebel tactics"
+    date: "2019-10-08"
+    reading: "11-reading"
 
   - title: "*No class; Fall Break*"
     date: "2019-10-10"

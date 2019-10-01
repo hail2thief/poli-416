@@ -1,6 +1,6 @@
 ---
 title: "Rebel tactics"
-date: "2019-10-03"
+date: "2019-10-08"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
@@ -9,11 +9,8 @@ csl: ../../static/bib/chicago-syllabus-no-bib.csl
 # Required
 
 
-- <i class="far fa-file-pdf"></i> [@valentino:etal:2004]
+- <i class="far fa-file-pdf"></i> [@cohen:2013]
 - <i class="far fa-file-pdf"></i> [@condra:2018]
 
 
 # Recommended
-
-
-- <i class="far fa-file-pdf"></i> [@cohen:2013]
