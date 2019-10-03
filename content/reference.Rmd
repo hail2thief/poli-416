@@ -13,16 +13,42 @@ output:
 
 
 
+## Introduction to the course
 ## You should understand...
 
 
 - ...how the new wave of Jihadi groups are similar and different to other armed actors
-- ...the three different forms of warfare: conventional, SNC, irregular
-- ...how the rate of civil war ocurrence has changed since the Cold War
-- ...how the way conflicts are *ending* has changed since the Cold War
-- ...what international norms dominated during the Cold War, post-Cold War, and post-9/11 periods
-- ...the role of external support in the longevity and probability of success of rebel groups
-- ...what the US and Taliban want out of current negotiations in Afghanistan
+- ...the three different forms of warfare: conventional, SNC, irregular, and what each "looks" like
+- ...how the rate of civil war *ocurrence* and *termination* has changed since the Cold War, and what explains these shifts
+- ...what the "new" vs. "old" civil war debate was about, and whether this distinction really holds up
+
+## On causes of war
+## You should understand...
+
+- ...the bargaining model of war:
+    - why war can be thought of as "bargaining failure"
+    - what factors make bargains difficult to reach, specifically the factors that impact *civil wars*
+- ...the different *kinds* of grievances that sometimes motivate violence
+- ...how *anomie* and changing demographics can contribute to violence
+- ...why identity and ethnicity can become more or less salient in different contexts, and the implications salience has to violence
+- ...what the **security dilemma** is and how it explains spirals of violence between groups
+- ...how colonial rule can exacerbate ethnic tensions and produce conflict
+- ...how Sunni and Shi'a relations were shaped by the US occupation (the Cockburn reading)
+- ...how to situate the participation of wealthy slaveowners in the Confederacy in the "greed" vs. "grievance" debate
+- ...how resource *lootability* and *commodity shocks* can makes conflict more or less likely, and how *opportunity costs* are part of the story
+- ...why the kinds of resources groups have at *the start* of a conflict define how they behave *during* the conflict
+
+
+## How wars are fought
+## You should understand...
+
+
+- ...what irregular warfare looks like, what the identification problem is, and how this impacts relations between civilians and combatants (both state and rebel)
+- ...the distinction Kalyvas draws between *selective* and *indiscriminate* violence, with examples of each
+- ...why indiscriminate violence is thought to be very costly and counterproductive
+- ...when we are likely to see *indiscriminate* vs. *selective* violence
+- ...why civilians would choose to accurately *denounce* someone, falsely *denounce* someone, or keep quiet
+- ...the relationship between territorial control, denouncement, and selective violence (basically that crazy graph)
 
 # Things you should know for the Final
 
