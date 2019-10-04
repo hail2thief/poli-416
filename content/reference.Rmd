@@ -49,6 +49,10 @@ output:
 - ...when we are likely to see *indiscriminate* vs. *selective* violence
 - ...why civilians would choose to accurately *denounce* someone, falsely *denounce* someone, or keep quiet
 - ...the relationship between territorial control, denouncement, and selective violence (basically that crazy graph)
+- ...that COIN varies along a continuum, and be able to describe what that continuum is
+- ...the challenges that counterinsurgents face, the different objectives they wish to accomplish and how these objectives are often in tension with one another
+- ...how troop quality and ability to monitor troops impacts counterinsurgency success, and how states manage trade-offs between troop quality and troop supply
+- ...the general logic of "hearts and minds" approaches to COIN, how states pursue this strategy, and its limitations
 
 # Things you should know for the Final
 
