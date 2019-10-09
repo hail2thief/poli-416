@@ -53,6 +53,10 @@ output:
 - ...the challenges that counterinsurgents face, the different objectives they wish to accomplish and how these objectives are often in tension with one another
 - ...how troop quality and ability to monitor troops impacts counterinsurgency success, and how states manage trade-offs between troop quality and troop supply
 - ...the general logic of "hearts and minds" approaches to COIN, how states pursue this strategy, and its limitations
+- ...the tradeoffs *insurgents* face in using violence to accomplish goals
+- ...why insurgents sometimes seek to disrupt *elections* and how they balance tradeoffs in wielding violence
+- ...how the way that both states and rebel groups recruit new members can impact their interactions with and treatment of civilians
+
 
 # Things you should know for the Final
 
