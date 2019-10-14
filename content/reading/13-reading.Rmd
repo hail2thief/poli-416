@@ -9,4 +9,4 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 # Required
 
 
-- Lyall, *Explaining support for insurgents during wartime in Afghanistan*[@lyall:etal:2013]
+- No reading
