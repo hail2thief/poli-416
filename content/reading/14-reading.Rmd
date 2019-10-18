@@ -3,11 +3,11 @@ title: "Colombia: *Parapolitica*"
 date: "2019-10-22"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
-csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
 ---
 
 # Required
 
 
-- <i class="far fa-file-pdf"></i> Acemoglu and others, *The Monopoly of Violence*[@acemoglu:etal:2013]
-- <i class="far fa-file-pdf"></i> Fergusson and others, *The Real Winner's Curse*[@fergusson:etal:2019]
+- <i class="fas fa-book"></i> Ch.3 in [*Democracy and Displacement in Colombia's Civil War*](https://login.pallas2.tcl.sc.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=1589173&site=eds-live&ebv=EB&ppid=pp_vi). The book is available as an e-book on the school library website. You will need to be on campus or login in remotely to access this reading. Alernatively, just look for the book on the library website!^[@steele:2017]
+-  <i class="far fa-file-pdf"></i> [@acemoglu:etal:2013]
