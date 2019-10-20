@@ -3,11 +3,10 @@ title: "Colombia: Rebel governance"
 date: "2019-10-24"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
-csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
 ---
   
 # Required
   
   
-- Selections from *Diary of a Limpieza*
-- Maybe my paper, TBA
+- [@fergusson:etal:2019]^[Copy the link out from `\url{}` or just google the paper]
