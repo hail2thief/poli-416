@@ -9,4 +9,4 @@ csl: ../../static/bib/chicago-syllabus-no-bib.csl
 # Required
   
   
-- [@fergusson:etal:2019]^[Copy the link out from `\url{}` or just google the paper]
+- [@steele:2011]
