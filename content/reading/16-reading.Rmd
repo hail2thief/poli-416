@@ -9,5 +9,4 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 # Required
   
   
-- <i class="far fa-file-pdf"></i> Schubiger on *Wartime civilian agency in Peru*[@schubiger:2019]
-- <i class="fas fa-book"></i> Introduction from La Serna, *Corner of the Living*. Stop before the "Methodology" section. [@serna:2012]
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> Read Ch. 4, "To Cross the River", from [Corner of the Living, by Miguel La Serna](https://ebookcentral.proquest.com/lib/southcarolina/detail.action?docID=834230)^[As with the Steele book, you will need to log-on to access the e-book]

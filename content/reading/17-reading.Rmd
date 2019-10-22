@@ -9,4 +9,4 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
 # Required
   
   
-  - Watch this video on the continuation of the Shining Path and its involvement in Peru's [coca trade](https://www.youtube.com/watch?v=VTpcBD23_HY)
+ - <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> Read Ch. 5, "To Defend the Mountaintop", from [Corner of the Living, by Miguel La Serna](https://ebookcentral.proquest.com/lib/southcarolina/detail.action?docID=834230)^[As with the Steele book, you will need to log-on to access the e-book]
