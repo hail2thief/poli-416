@@ -141,9 +141,9 @@ grading <- tribble(
 assignments_total <- tibble(Points = sum(assignments$Points),
                             Percent = NA)
 
-bind_rows(assignments, assignments_total) %>% 
-  select(Assignment, Percent) %>% 
-  pandoc.table(justify = "lc", missing = "")
+bind_rows(assignments) %>% 
+  select(Assignment, Points, Percent) %>% 
+  pandoc.table(justify = "lll", missing = "")
 ```
 
 \

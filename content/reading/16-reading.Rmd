@@ -3,10 +3,11 @@ title: "Civilian resistance to insurgency in Peru"
 date: "2019-10-29"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
-csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
 ---
   
 # Required
   
   
 - <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> Read Ch. 4, "To Cross the River", from [Corner of the Living, by Miguel La Serna](https://ebookcentral.proquest.com/lib/southcarolina/detail.action?docID=834230)^[As with the Steele book, you will need to log-on to access the e-book]
+- <i class="far fa-file-pdf"></i> [@starn:1995]
