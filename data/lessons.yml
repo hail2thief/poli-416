@@ -94,10 +94,12 @@ lessons:
   - title: "Colombia and *parapolitica*"
     date: "2019-10-22"
     reading: "14-reading"
+    class: "13-class"
     
   - title: "Colombia and displacement"
     date: "2019-10-24"
     reading: "15-reading"
+    class: "14-class"
     
 
   - title: "Case study: Civilian support for Shining Path in Peru"
