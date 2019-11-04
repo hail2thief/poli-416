@@ -3,11 +3,10 @@ title: "What is order?"
 date: "2019-11-12"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
-csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
 ---
   
 # Required
   
-  
-- Skarbek, *Governance and Prison Gangs*[@skarkbek:2012]
-- Revkin, *Taxation by ISIS in Syria*[@revkin:2019]
+- <i class="far fa-file-pdf"></i> [@olson:1993]
+- <i class="far fa-file-pdf"></i> [@skarkbek:2012]

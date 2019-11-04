@@ -3,10 +3,11 @@ title: "Order II"
 date: "2019-11-14"
 citeproc: false
 bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
-csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
 ---
   
 # Required
   
   
-- Sanchez de la Sierra, *Taxation in Eastern Congo*[@sanchez:2019]
+- <i class="far fa-file-pdf"></i> [@revkin:2019]
+- <i class="fas fa-book"></i> Selection from [@taussig:2005]
