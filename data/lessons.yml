@@ -115,9 +115,10 @@ lessons:
     date: "2019-11-05"
     reading: "18-reading"
     
-  - title: "Central America II"
+  - title: "Case study: Criminal violence in Central America"
     date: "2019-11-07"
     reading: "19-reading"
+    class: "16-class"
     
   - title: '<span class="fake-header-table">Order, Peace, and Post-Conflict Society</span>'
     header: True
