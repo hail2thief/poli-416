@@ -10,4 +10,4 @@ csl: ../../static/bib/chicago-syllabus-no-bib.csl
   
   
 - <i class="far fa-file-pdf"></i> [@revkin:2019]
-- <i class="fas fa-book"></i> Selection from [@taussig:2005]
+- <i class="fas fa-book"></i> [Selection from [@taussig:2005]](https://www.dropbox.com/s/u6oav209cahay5h/Taussig%20-%20Law%20in%20a%20Lawless%20Land%20-%20Scans-compressed.pdf?dl=0)
