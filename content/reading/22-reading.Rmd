@@ -10,4 +10,4 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
   
   
 - <i class="fas fa-book"></i> Stewart and Knaus, *Can intervention work?*[@stewart:knaus:2011]
-- Read about the debate on intervention in South Sudan, [here](https://www.nytimes.com/2017/01/23/world/africa/quandary-in-south-sudan-should-it-lose-its-hard-won-independence.html?_r=0) and [here](https://www.nytimes.com/2017/01/08/opinion/can-african-union-save-south-sudan-from-genocide.html)
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> Read about the debate on intervention in South Sudan, [here](https://www.dropbox.com/s/wo0vmsleu0y5zyo/Quandry.docx?dl=0) and [here](https://www.dropbox.com/s/fji8t6mk1cni9iw/African_Union.pdf?dl=0)
