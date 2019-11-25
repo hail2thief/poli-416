@@ -140,10 +140,10 @@ lessons:
     date: "2019-11-21"
     reading: "23-reading"
     
-  - title: "Legacies of war: what comes after?"
+  - title: "*No class: home assignment!*"
     date: "2019-11-26"
     reading: "24-reading"
-    assignment: "self-assess-3"
+    assignment: "home-assign"
     
   - title: "*No class; Thanksgiving*"
     date: "2019-11-28"
@@ -154,6 +154,7 @@ lessons:
     
   - title: "Review for final Exam"
     date: "2019-12-05"
+    assignment: "self-assess-3"
     
   - title: "**FINAL EXAM at 4pm**"
     date: "2019-12-12"

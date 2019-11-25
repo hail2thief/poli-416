@@ -59,5 +59,6 @@ output:
 
 
 # Things you should know for the Final
+## You should understand...
 
-This will fill up as semester advances.
+- 
