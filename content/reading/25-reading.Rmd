@@ -8,5 +8,5 @@ csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
   
 # Required
   
-  
+- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [The Hell After ISIS](https://www.theatlantic.com/magazine/archive/2016/05/the-hell-after-isis/476391/)
 - <i class="far fa-file-pdf"></i> Prem and others, [*End of conflict deforestation in Colombia*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3306715)[@prem:etal:2018]
