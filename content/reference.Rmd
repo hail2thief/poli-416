@@ -59,6 +59,57 @@ output:
 
 
 # Things you should know for the Final
+
+
+## On the Colombian armed conflict
 ## You should understand...
 
-- 
+
+- ...what paramilitary groups are, how they form, and the tradeoffs states face in relying on them vs. conventional security forces
+- ...the broad strokes of the Colombian armed conflict: main actors, what they want, type of fighting
+- ...what principal-agent problems are and their relevance for understanding paramilitary behavior
+- ...the "land problem", both across the developing world and *specifically* in Colombia (esp. its relation to the armed conflict)
+- ...what displacement is, why displaced people flee and why it's difficult for them to return
+- ...what *strategic* displacement is, why armed actors strategically displace civilians, and how *elections* and *economic factors* play a role in displacement
+
+
+## On the Peruvian armed conflict
+## You should understand...
+
+- ...the broad strokes of the Peruvian armed conflict: main actors, what they want, type of fighting
+- ...the general outline of Shining Path ideology, and how ideology can generally help *and* hurt groups
+- ...the response Shining Path got in Chuschi vs. Huanta and why they got those responses
+- ...and how ideology and context interact to produce the good and bad responses Shining Path got in the La Serna book
+
+
+## On contemporary criminal violence in Central America
+## You should understand...
+
+- ...the three factors making Central America so violent today
+- ...why Guatemala has so much criminal violence, Nicaragua so little, and how the three factors explain this difference in outcomes
+- ...how the quality of policing varies across Nicaragua and Guatemala, what policing looks like in each country
+- ...the differences between the Nicaraguan Revolution and the Guatemalan Civil War and the implications this has for the quality of policing in each country today
+- ...why, if the Nicaragua approach "works", other countries simply don't adopt it
+
+
+## On order and governance
+## You should understand...
+
+- ...some of the public goods that rebels, gangs, and other armed actors provide for civilians in the places where they rule
+- ...Olson's metaphor of the roving and stationary bandit, why each type of bandit does what it does, how time horizons figure into this, why civilians like stationary bandits, and how the metaphor helps us understand why so many armed groups provide governance
+- ...the role gangs play in and outside of prisons, why the state can't easily replace them in that role, and how gangs enforce order/obedience
+- ...what civilians and rebels "get" out of rebel governance, why rebel time horizons vary
+- ...the ways in which rebels go above and beyond simply providing services and often "mimic" states through rituals and images, what purpose this serves
+- ...why ISIS collects taxes even in resource-rich areas
+
+
+## On ending conflicts
+## You should understand...
+
+- ...the general pros and cons of humanitarian intervention
+- ...how US experience in Iraq and Afghanistan has colored current thinking about intervention
+- ...the different forms of intervention, how they are supposed to work, how well they seem to work, and their limitations/costs
+- ...the logic of partition, why proponents think it works, why opponents think it doesn't work
+- ...the logic of power-sharing agreements, how well they seem to work, and why the quality of power-sharing agreements vary
+- ...why wars often recur, with specific reference to our readings/lectures on Sunni-Shi'a relations in Iraq
+- ...the pros and cons of involving civil society in peace-building
