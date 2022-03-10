@@ -1,8 +1,8 @@
 ---
-title: "Rebel tactics"
-date: "2019-10-08"
+title: "Pink Tide"
+date: "2020-02-04"
 citeproc: false
-bibliography: ../../static/bib/references.bib
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
 output:
   blogdown::html_page:
@@ -12,9 +12,19 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Slides
+## Slides
+
+[Slides here](/slides/11-pink-tide.pdf)
 
 
-[Download the slides from today's lecture](/images/slides/11-tactics.pdf).
+
+## Class Activity: Party Breakdown in the United States
 
 
+As a thought experiment, imagine that the kind of *party brand dilution* described in the Lupu reading were to take place in the United States. First:
+
+1. What would such brand dilution look like? What actions would the Democratic and Republican parties have to take to "dilute" their brand? Are there any existing examples of this from history?
+
+2. What factors would "push" the two parties to dilute their brand in such a way? 
+
+3. If enough dilution took place, could you imagine a third party gaining steam in the same way as some of the cases we've observed in Latin America?

@@ -1,0 +1,60 @@
+lessons:
+  - title: '<span class="fake-header-table">Introduction</span>'
+    header: True
+
+  - title: "What are civil wars?"
+    date: "W1 : Mar 29 - Mar 31"
+    class: 
+    reading: "01-reading"
+  
+  - title: "Why fight? War as bargaining failure"
+    date: "W2 : Apr 5 - Apr 7"
+    class: 
+    reading: "02-reading"
+  
+  - title: "Why fight? Material incentives"
+    date: "W3 : Apr 12 - Apr 14"
+    class: 
+    reading: 
+  
+  - title: "Why fight? Material"
+    date: "W4 : Apr 19 - Apr 21"
+    class: 
+    reading: 
+  
+  - title: "Insurgency"
+    date: "W5 : Apr 26 - Apr 28"
+    class: 
+    reading: 
+  
+  - title: '<i class="fas fa-star"></i> **Midterm Exam**'
+    date: "April 28th"
+  
+  - title:  "Counterinsurgency"
+    date: "W6 : May 3 - May 5"
+    class: 
+    reading: 
+  
+  - title: "Case study: civilian resistance"
+    date: "W7 : May 10 - May 12"
+    class: 
+    reading: 
+  
+  - title: "Case study: criminal violence"
+    date: "W8 : May 17 - May 19"
+    class: 
+    reading: 
+  
+  - title:  "Order"
+    date: "W9 : May 24 - May 26"
+    class: 
+    reading: 
+  
+  - title: "How wars end"
+    date: "W10 : May 31 - Jun 2"
+    class: 
+    reading: 
+    
+  - title: '<i class="fas fa-star"></i> **Final Exam**'
+    date: "Wed, June 8 10:30AM-12:30PM"
+ 

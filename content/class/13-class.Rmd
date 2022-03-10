@@ -1,8 +1,8 @@
 ---
-title: "Colombia and *parapolitica*"
-date: "2019-10-22"
+title: "Pink Tide"
+date: "2020-02-04"
 citeproc: false
-bibliography: ../../static/bib/references.bib
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle2/master.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
 output:
   blogdown::html_page:
@@ -12,9 +12,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Slides
+## Slides
 
-
-[Download the slides from today's lecture](/images/slides/12-colombia1.pdf).
-
-
+[Slides here](/slides/12-erosion.pdf)

@@ -1,8 +1,8 @@
 ---
-title: "Armed conflict in a changing international system"
-date: "2019-09-05"
+title: "Inequality"
+date: "2020-02-04"
 citeproc: false
-bibliography: ../../static/bib/references.bib
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
 output:
   blogdown::html_page:
@@ -12,16 +12,24 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Slides
+## Slides
+
+[Slides here](/slides/05-inequality.pdf)
 
 
-[Download the slides from today's lecture](/images/slides/04-coldwar-peace.pdf)
+## Class activity: Rebel propaganda
 
 
-
-# Links
-
-
-<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Here's the link to The Daily episode we heard today](https://www.nytimes.com/2019/09/03/podcasts/the-daily/us-taliban-afghanistan.html)
+Let's look at these two communique's from the Revolutionary Armed Forces of Colombia (FARC), and the Zapatistas from Chiapas, Mexico. 
 
 
+- [Document #20: “Press Release from the Revolutionary Armed Forces of Colombia,” Secretariat of the Central General Command of the FARC-EP (2002)](https://library.brown.edu/create/modernlatinamerica/chapters/chapter-7-colombia/primary-documents-with-accompanying-discussion-questions/press-release-from-the-revolutionary-armed-forces-of-colombia-secretariat-of-the-central-general-command-of-the-farc-ep-mountains-of-colombia-2002/)
+
+- [EZLN Declaration of War (1993)](http://archive.oah.org/special-issues/mexico/zapmanifest.html)
+
+
+Questions for discussion:
+
+1. How do these two groups discuss their motivations for taking up armed struggle? What are their grievances? Who are the culprits?
+
+2. How do these two groups differ in who they claim to represent? Who do they claim to be fighting for?

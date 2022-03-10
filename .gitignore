@@ -2,9 +2,12 @@
 .Rhistory
 .RData
 .Ruserdata
-blogdown
+/blogdown
 .DS_Store # if a windows user, Thumbs.db instead
 public/ # if using Netlify
 public/*
 .DS_Store
 static/images/slides/intro.pdf
+Thumbs.db
+/public/
+/resources/

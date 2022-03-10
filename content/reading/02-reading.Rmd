@@ -1,19 +1,25 @@
 ---
-title: "What is political violence?"
-date: "2019-09-03"
-citeproc: false
-bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
+title: "Week 2"
+citeproc: true
+bibliography: /Users/juan/Dropbox/github/whistle2/master.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
+menu: 
+  readings:
+    parent: Readings
+    weight: 2
+type: docs
+output:
+  blogdown::html_page:
+    toc: true
+editor_options: 
+  chunk_output_type: console
 ---
 
-# Required
 
-- <i class="far fa-file-pdf"></i> [@kalyvas:2018]
-- <i class="far fa-file-pdf"></i> [@kalyvas:balcells:2010]
+## Required
 
 
+- <i class="fas fa-book"></i> [Chapter 1](https://ebookcentral.proquest.com/lib/southcarolina/detail.action?docID=1319691) in [@wiarda:2019]
 
-# Recommended
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> The [Wiki on political violence](https://en.wikipedia.org/wiki/Political_violence)
-- <i class="far fa-file-pdf"></i> [@sambanis:2004]
+- <i class="fas fa-book"></i> [Chapter 2](https://ebookcentral.proquest.com/lib/southcarolina/detail.action?docID=1319691) in [@wiarda:2019]

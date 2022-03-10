@@ -1,8 +1,8 @@
 ---
-title: "Bargaining in civil wars"
-date: "2019-09-12"
+title: "State Capacity"
+date: "2020-02-04"
 citeproc: false
-bibliography: ../../static/bib/references.bib
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
 output:
   blogdown::html_page:
@@ -12,13 +12,26 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Slides
+## Slides
+
+[Slides here](/slides/07-capacity.pdf)
 
 
-[Download the slides from today's lecture](/images/slides/05-bargaining.pdf).
+## Class activity: What should be decentralized?
+
+In groups of 3-4, consider the following:
 
 
-# Pop Quiz
+It might be wrong to think about the value of centralization and decentralization *in general*. Maybe some state functions would be better left to the national government. Other functions might be more useful if decentralized to local governments. 
+
+Look at the following state functions and discuss with your group: who should be in charge of each of these? And why?
 
 
-[Go here to take pop quiz](https://forms.gle/i9etu53VjtJ9ZMB68)
+- Public education
+- Building of highways, roads
+- Maintenance of highways, roads
+- Electrification
+- Garbage collection
+- Transport (buses, trams, etc.)
+- Street cleaning
+- Water distribution

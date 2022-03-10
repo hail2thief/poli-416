@@ -1,0 +1,11 @@
+---
+title: Class details
+menu:
+  class:
+    parent: Class
+    weight: 1
+type: docs
+weight: 1
+---
+
+I'll post relevant materials (slides, in-class activities, etc.) from each class session.

@@ -1,8 +1,8 @@
 ---
-title: "Counterinsurgency"
-date: "2019-10-03"
+title: "Corruption"
+date: "2020-02-04"
 citeproc: false
-bibliography: ../../static/bib/references.bib
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
 output:
   blogdown::html_page:
@@ -14,7 +14,6 @@ editor_options:
 
 # Slides
 
-
-[Download the slides from today's lecture](/images/slides/10-coin.pdf).
+[Slides here](/slides/10-corruption.pdf)
 
 

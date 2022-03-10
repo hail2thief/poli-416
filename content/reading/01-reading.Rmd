@@ -1,18 +1,34 @@
 ---
-title: "Reading papers + concepts"
-date: "2019-08-27"
-citeproc: false
-bibliography: ../../static/bib/references.bib
-csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+title: "Week 1"
+citeproc: true
+bibliography: /Users/juan/Dropbox/github/whistle2/master.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+menu: 
+  readings:
+    parent: Readings
+    weight: 1
+type: docs
+output:
+  blogdown::html_page:
+    toc: true
+editor_options: 
+  chunk_output_type: console
 ---
 
-# Required
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> The [syllabus](/syllabus/) and [assignments](/assignments/) pages for this class
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> Read about 5 cases from the [Global Conflict Tracker](https://www.cfr.org/interactive/global-conflict-tracker/?category=us)
+## Getting to know you
+
+Fill out this [Google Form](https://forms.gle/aBtERABTXeaeruZq6) so I can get to know you. 
+
+
+## Required
+
+- The [syllabus](/syllabus/) and [assignments](/assignment/) pages for this class
+- [@kalyvas:balcells:2010]
+- [@sambanis:2004]
+
+
+## Recommended
+
 - <i class="far fa-file-pdf"></i> [Amelia Hoover Green, "How to Read Political Science"](/files/amelia-green-how-to-read.pdf)
 
-
-# Getting to know you
-
-<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> If you still haven't done it, go to this [Google form](https://forms.gle/raRsBQsjJNe24wTeA) and tell me about yourself.

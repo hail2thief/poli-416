@@ -1,8 +1,8 @@
 ---
-title: "Grievance as motive for violence"
-date: "2019-09-17"
+title: "Informality"
+date: "2020-02-04"
 citeproc: false
-bibliography: ../../static/bib/references.bib
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
 output:
   blogdown::html_page:
@@ -12,9 +12,22 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Slides
+## Slides
+
+[Slides here](/slides/08-informality.pdf)
 
 
-[Download the slides from today's lecture](/images/slides/06-grievances.pdf).
+## Class activity: Informal work and social insurance
 
 
+In groups of 3-4, consider the following:
+
+
+- Contributory programs are tied to taxes (good), but leave out huge and often poorer informal sector (bad)
+- Noncontributory programs alleviate poverty but also increase informality
+- Informality reduces access to public services, cuts down on revenue for the state, and might contribute to poverty
+
+
+1. If you were a policymaker, where would you put your emphasis, and why? How would you balance trying to alleviate poverty *and* reduce informality (or would you even do this)? How would you try to reduce informality?
+
+2. The chicken or the egg question: is it informality that's standing in the way of economic growth, or does economic growth largely drive decision between formal/informal? 

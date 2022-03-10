@@ -1,12 +1,15 @@
 ---
-title: "Reading papers + concepts"
-date: "2019-08-27"
-citeproc: false
-bibliography: ../../static/bib/references.bib
+title: "Early history"
+citeproc: true
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
+menu: 
+  classes:
+    parent: Class Material
+    weight: 2
+type: docs
 output:
   blogdown::html_page:
-    template: ../../pandoc/toc-title_html.template
     toc: true
 editor_options: 
   chunk_output_type: console
@@ -14,11 +17,48 @@ editor_options:
 
 # Slides
 
+[Slides here](/slides/03-history.pdf)
 
-[Download the slides from today's lecture](/images/slides/02-how-to-read.pdf)
 
 
-# In-class activity
+# Class activity
+## Market for governorships
 
-- We're going to go over:
-	- <i class="far fa-file-pdf"></i> [@sambanis:2004]
+Today, we're looking at what happened when the Spanish Crown switched from appointing `governorships` in colonial Peru to selling them to the highest bidder. The motive for switching to sales was the Spanish Crown's *financial troubles* due to foreign wars. 
+
+
+In groups of 2-3, find out the following: 
+
+
+1. Look up the following colonial institutions in Peru: *repartimiento*, *mita*, and *tributo*; what were they, and how did they differ from one another? 
+2. Use the following [data on the sale of governorships in colonial Peru](/files/office-sales.csv). Make a histogram of sales prices. What does the distribution look like? 
+3. Look up a very valuable and very not-valuable province on Google. What does it look like today in terms of development?  
+4.  What factors made a governorship more or less valuable?
+5. What kind of buyers tended to get better/worse prices? 
+6. How are prices changing over time? 
+
+```{r, echo=FALSE,message=FALSE,warning=FALSE,results="asis"}
+library(tidyverse)
+library(pander)
+tibble::tribble(
+      ~original,                                                           ~labels,
+    "audiencia",                                               "Spanish Audiencia",
+    "provincia",                                          "colonial province name",
+         "year",                                                    "year of sale",
+  "name_approx",                                 "name of purchaser (approximate)",
+     "military",                                "military career (or rank)? 1=yes",
+        "noble",           "holds either a knight or other nobility titles? 1=yes",
+      "rprice1",             "real office prices (in pesos) 1 peso=272 maravedies",
+     "lrprice1",                               "log real office prices (in pesos)",
+    "suitindex",    "avg agricultural suitability in province (1=max suitability)",
+           "lz",                                               "log avg elevation",
+     "distlima", "avg distance to Lima (based on center of districts in province)",
+         "mita",                "province to provice forced labor to mines? 1=yes",
+         "mine",                          "gold or silver mine in province? 1=yes",
+     "reparto2",                 "assigned repartimiento quota (in pesos) in 1754",
+    "lreparto2",             "log assigned repartimiento quota (in pesos) in 1754"
+  ) %>% 
+  pandoc.table(caption = "Variable dictionary")
+```
+
+

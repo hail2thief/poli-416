@@ -1,10 +1,12 @@
-# POLI 416: Revolution and Political Violence
+# poli-437
 
 
 
-![](static/images/POLI416.png)
+![](static/images/mexico.png)
 
-This repo contains source code for my undergrad conflict course at the University of South Carolina.
+
+Source code for POLI 437 taught at the University of South Carolina.
+
 
 # Theme
 

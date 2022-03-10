@@ -1,8 +1,8 @@
 ---
-title: "Grievances: US occupation of Iraq"
-date: "2019-09-19"
+title: "Clientelism"
+date: "2020-02-04"
 citeproc: false
-bibliography: ../../static/bib/references.bib
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
 output:
   blogdown::html_page:
@@ -14,7 +14,13 @@ editor_options:
 
 # Slides
 
+[Slides here](/slides/09-clientelism.pdf)
 
-[Download the slides from today's lecture](/images/slides/07-identity.pdf).
+
+# Class activity: Boundaries of clientelism
 
 
+In groups of 3-4, consider the following:
+
+
+> Clientelism can take many forms and doesn't have to be someone literally giving you $20 after you come out of the voting booth. How would you then distinguish clientelism from the "normal" electoral politics we're used to in the US? Specifically, how would you distinguish it from *programmatic politics*, where politicians can run on platforms to provide services/goods, and *pork-barrel politics* where politicians reward constituents or special interests for their support?

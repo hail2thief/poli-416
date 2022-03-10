@@ -1,0 +1,16 @@
+---
+title: References
+slug: reference
+output:
+  blogdown::html_page:
+      toc: TRUE
+---
+
+
+![](/media/mafalda.gif)
+
+
+## Things you should know for the Midterm
+
+
+## Things you should know for the Final

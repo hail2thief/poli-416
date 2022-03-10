@@ -1,8 +1,8 @@
 ---
-title: "War as bargaining failure"
-date: "2019-09-10"
+title: "Crime"
+date: "2021-02-12"
 citeproc: false
-bibliography: ../../static/bib/references.bib
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
 output:
   blogdown::html_page:
@@ -12,46 +12,17 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Slides
+## Slides
+
+[Slides here](/slides/06-crime.pdf)
 
 
-Slides this week was just the simulation!
+## Class activity: Impact of victimization
 
+In groups of 3-4, consider the following:
 
-# In-Class Simulation
+1. Look at all the theories Bateson lists under "WHY MIGHT VICTIMS TURN TO POLITICS?". Which do you find most plausible? Least plausible? Why?
 
+2. Bateson finds victimization increases support for authoritarian rule, violation of civil liberties, etc., in Latin America but *not* the US, Canada, or Africa. Why might this be?
 
-We are going to simulate the [bargaining model of war](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/simulating-the-bargaining-model-of-war/0B4189AA763FDD135F1F4ED68D01CBAC) in class. 
-
-
-## Setup
-
-1. Break up into groups of 3 (Record Keeper, State, Rebels)
-	- Record Keeper needs to be laptop user
-	- Record Keeper go to this [Google Sheet](https://docs.google.com/spreadsheets/d/1BHJT5-jPOHSLAXsv-79VhW5PIEh_jqGCAvv5tX9tlUY/edit?usp=sharing)
-	- Record Keeper download Excel Sheet or open your own copy
-2. Shuffle cards
-3. Deal three cards face down to State, Rebels
-
-
-## Gameplay
-
-1. State and Rebels ante up 1 "coin" in pot
-2. Rebel decides whether to *challenge* State for pot
-3. State decides whether to *resist* challenge
-4. If *resist*, war breaks out:
-    - flip cards over
-    - highest card total (summed face value) wins the war
-5. *IMPORTANT*: if war takes place each player loses 1 coin (war costs)
-6. Reshuffle cards, repeat 5 times
-7. Reveal one additional card, run through (1-6 again)
-
-
-## Record Keeper
-
-1. Record `gov_name` and `rebel_name`: first name, underscore, last name letter (all lower-case, eg: juan_t)
-2. Record how many coins rebel and state won in 5 rounds (`gov_score` and `rebel_score`)
-3. Record how many coins destroyed through war (`war_costs`)
-4. Record how many cards were dealt per player (`cards_face_down`)
-5. Record the `round_type` (look at screen)
-6. Copy-paste your data into the Shared Google Sheet
+3. Citizens in Latin America have little faith that the police will do their job *and* often perceive them as corrupt. And yet many of these same people support giving police freer reign against crime through "mano dura" policies. How can we make sense of this? What does it tell us about the goal of punishment in people's minds?

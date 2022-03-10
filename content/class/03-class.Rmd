@@ -1,12 +1,15 @@
 ---
-title: "What is political violence?"
-date: "2019-09-03"
-citeproc: false
-bibliography: ../../static/bib/references.bib
+title: "Identity"
+citeproc: true
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
+menu: 
+  classes:
+    parent: Class Material
+    weight: 3
+type: docs
 output:
   blogdown::html_page:
-    template: ../../pandoc/toc-title_html.template
     toc: true
 editor_options: 
   chunk_output_type: console
@@ -14,10 +17,17 @@ editor_options:
 
 # Slides
 
+[Slides here](/slides/04-race.pdf)
 
-[Download the slides from today's lecture](/images/slides/03-what-is-violence.pdf)
+
+# Class activity: Indigenous autonomy
 
 
-# In-class activity
+Skim this article by [Foreign Policy](/files/right-to-kill.pdf) on the Kamayura in Brazil. In groups of 3-4, discuss the following: 
 
-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> [Pop Quiz!](https://forms.gle/zMqYwT35xVkeUoCYA)
+1. Should the Brazilian government intervene in any way with the Kamayura's practices? If so, how? Justify your answers. 
+
+1a. If you think no, are there scenarios or things you believe a group *should not be* allowed to do its members?  What are those scenarios, and why?
+
+1b. If you think yes, are there scenarios or things you believe a group *should be* allowed to do its members that would contradict national law? What are those scenarios, and why?
+

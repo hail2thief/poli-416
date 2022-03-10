@@ -1,0 +1,24 @@
+---
+title: Syllabus
+slug: syllabus
+citeproc: true
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+output:
+  blogdown::html_page:
+      toc: TRUE
+---
+
+```{r load-libraries, message=FALSE, warning=FALSE, include=FALSE}
+library(dplyr)
+library(tibble)
+library(pander)
+```
+
+
+
+`r blogdown::shortcode("courseinfo")`
+
+
+
+UNDER CONSTRUCTION.

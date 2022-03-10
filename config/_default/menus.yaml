@@ -1,0 +1,34 @@
+main:
+  - name: Syllabus
+    url: /syllabus/
+    weight: 1
+  - name: Schedule
+    url: /schedule/
+    weight: 2
+  - name: Assignments
+    url: /assignment/
+    weight: 3
+  - name: Reference
+    url: /reference/
+    weight: 4
+  - name: <i class="fab fa-discord"></i> Discord
+    url: 
+    weight: 5
+    
+assignment:
+  - name: Overview
+    weight: 1
+  - name: Homeworks
+    weight: 2
+
+readings:
+  - name: Overview
+    weight: 1
+  - name: Readings
+    weight: 2
+
+classes:
+  - name: Overview
+    weight: 1
+  - name: Class Material
+    weight: 2

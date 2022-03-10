@@ -1,8 +1,8 @@
 ---
-title: "Colombia and displacement"
-date: "2019-10-24"
+title: "Blue Wave"
+date: "2020-02-04"
 citeproc: false
-bibliography: ../../static/bib/references.bib
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
 output:
   blogdown::html_page:
@@ -12,9 +12,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Slides
+## Slides
 
-
-[Download the slides from today's lecture](/images/slides/13-colombia2.pdf).
-
-
+[Slides here](/slides/13-blue-wave.pdf)

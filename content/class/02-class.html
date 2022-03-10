@@ -1,34 +1,138 @@
 ---
-title: "Reading papers + concepts"
-date: "2019-08-27"
-citeproc: false
-bibliography: ../../static/bib/references.bib
+title: "Early history"
+citeproc: true
+bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
+menu: 
+  classes:
+    parent: Class Material
+    weight: 2
+type: docs
 output:
   blogdown::html_page:
-    template: ../../pandoc/toc-title_html.template
     toc: true
 editor_options: 
   chunk_output_type: console
 ---
 
-<!-- BLOGDOWN-HEAD -->
-<!-- /BLOGDOWN-HEAD -->
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
-<h2>Contents</h2>
 <div id="TOC">
 <ul>
 <li><a href="#slides">Slides</a></li>
-<li><a href="#in-class-activity">In-class activity</a></li>
+<li><a href="#class-activity">Class activity</a>
+<ul>
+<li><a href="#market-for-governorships">Market for governorships</a></li>
+</ul></li>
 </ul>
 </div>
 
-<h2 id="slides">Slides</h2>
-<p><a href="/images/slides/02-how-to-read.pdf">Download the slides from today’s lecture</a></p>
-<h2 id="in-class-activity">In-class activity</h2>
-<ul>
-<li>We’re going to go over:
-<ul>
-<li><i class="far fa-file-pdf"></i> <span class="citation">Nicholas Sambanis, “What Is Civil War?: Conceptual and Empirical Complexities of an Operational Definition,” <em>Journal of Conflict Resolution</em> 48, no. 6 (2004): 814–858.</span></li>
-</ul></li>
-</ul>
+<div id="slides" class="section level1">
+<h1>Slides</h1>
+<p><a href="/slides/03-history.pdf">Slides here</a></p>
+</div>
+<div id="class-activity" class="section level1">
+<h1>Class activity</h1>
+<div id="market-for-governorships" class="section level2">
+<h2>Market for governorships</h2>
+<p>Today, we’re looking at what happened when the Spanish Crown switched from appointing <code>governorships</code> in colonial Peru to selling them to the highest bidder. The motive for switching to sales was the Spanish Crown’s <em>financial troubles</em> due to foreign wars.</p>
+<p>In groups of 2-3, find out the following:</p>
+<ol style="list-style-type: decimal">
+<li>Look up the following colonial institutions in Peru: <em>repartimiento</em>, <em>mita</em>, and <em>tributo</em>; what were they, and how did they differ from one another?</li>
+<li>Use the following <a href="/files/office-sales.csv">data on the sale of governorships in colonial Peru</a>. Make a histogram of sales prices. What does the distribution look like?</li>
+<li>Look up a very valuable and very not-valuable province on Google. What does it look like today in terms of development?<br />
+</li>
+<li>What factors made a governorship more or less valuable?</li>
+<li>What kind of buyers tended to get better/worse prices?</li>
+<li>How are prices changing over time?</li>
+</ol>
+<table style="width:65%;">
+<caption>Variable dictionary</caption>
+<colgroup>
+<col width="19%" />
+<col width="45%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">original</th>
+<th align="center">labels</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">audiencia</td>
+<td align="center">Spanish Audiencia</td>
+</tr>
+<tr class="even">
+<td align="center">provincia</td>
+<td align="center">colonial province name</td>
+</tr>
+<tr class="odd">
+<td align="center">year</td>
+<td align="center">year of sale</td>
+</tr>
+<tr class="even">
+<td align="center">name_approx</td>
+<td align="center">name of purchaser
+(approximate)</td>
+</tr>
+<tr class="odd">
+<td align="center">military</td>
+<td align="center">military career (or rank)?
+1=yes</td>
+</tr>
+<tr class="even">
+<td align="center">noble</td>
+<td align="center">holds either a knight or other
+nobility titles? 1=yes</td>
+</tr>
+<tr class="odd">
+<td align="center">rprice1</td>
+<td align="center">real office prices (in pesos)
+1 peso=272 maravedies</td>
+</tr>
+<tr class="even">
+<td align="center">lrprice1</td>
+<td align="center">log real office prices (in
+pesos)</td>
+</tr>
+<tr class="odd">
+<td align="center">suitindex</td>
+<td align="center">avg agricultural suitability
+in province (1=max
+suitability)</td>
+</tr>
+<tr class="even">
+<td align="center">lz</td>
+<td align="center">log avg elevation</td>
+</tr>
+<tr class="odd">
+<td align="center">distlima</td>
+<td align="center">avg distance to Lima (based on
+center of districts in
+province)</td>
+</tr>
+<tr class="even">
+<td align="center">mita</td>
+<td align="center">province to provice forced
+labor to mines? 1=yes</td>
+</tr>
+<tr class="odd">
+<td align="center">mine</td>
+<td align="center">gold or silver mine in
+province? 1=yes</td>
+</tr>
+<tr class="even">
+<td align="center">reparto2</td>
+<td align="center">assigned repartimiento quota
+(in pesos) in 1754</td>
+</tr>
+<tr class="odd">
+<td align="center">lreparto2</td>
+<td align="center">log assigned repartimiento
+quota (in pesos) in 1754</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
