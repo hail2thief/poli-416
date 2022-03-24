@@ -16,19 +16,15 @@ editor_options:
 ---
 
 
-## Getting to know you
-
-Fill out this [Google Form](https://forms.gle/aBtERABTXeaeruZq6) so I can get to know you. 
-
-
 ## Required
 
 - The [syllabus](/syllabus/) and [assignments](/assignment/) pages for this class
 - [@kalyvas:balcells:2010]
-- [@sambanis:2004]
+- [@kalyvas:2018]
 
 
 ## Recommended
 
-- <i class="far fa-file-pdf"></i> [Amelia Hoover Green, "How to Read Political Science"](/files/amelia-green-how-to-read.pdf)
-
+- [Amelia Hoover Green, "How to Read Political Science"](/files/amelia-green-how-to-read.pdf)
+- [@sambanis:2004]
+- [@kalyvas:2001]

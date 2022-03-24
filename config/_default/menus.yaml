@@ -12,7 +12,7 @@ main:
     url: /reference/
     weight: 4
   - name: <i class="fab fa-discord"></i> Discord
-    url: 
+    url: https://discord.com/
     weight: 5
     
 assignment:

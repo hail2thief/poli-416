@@ -1,5 +1,5 @@
 lessons:
-  - title: '<span class="fake-header-table">Introduction</span>'
+  - title: '<span class="fake-header-table">Topics</span>'
     header: True
 
   - title: "What are civil wars?"
@@ -7,53 +7,53 @@ lessons:
     class: 
     reading: "01-reading"
   
-  - title: "Why fight? War as bargaining failure"
+  - title: 'Why civil war? Grievances, identity, ethnicity<br><i class="fas fa-star"></i> **Assignment 1**'
     date: "W2 : Apr 5 - Apr 7"
     class: 
     reading: "02-reading"
   
-  - title: "Why fight? Material incentives"
+  - title: 'Why civil war? Looting and feasibility<br><i class="fas fa-star"></i> **Assignment 2**'
     date: "W3 : Apr 12 - Apr 14"
     class: 
-    reading: 
+    reading: "03-reading"
   
-  - title: "Why fight? Material"
+  - title: "How are wars fought I? Insurgency, recruitment"
     date: "W4 : Apr 19 - Apr 21"
     class: 
-    reading: 
+    reading: "04-reading"
   
-  - title: "Insurgency"
+  - title: "Film + midterm"
     date: "W5 : Apr 26 - Apr 28"
     class: 
-    reading: 
+    reading: "05-reading"
   
   - title: '<i class="fas fa-star"></i> **Midterm Exam**'
     date: "April 28th"
   
-  - title:  "Counterinsurgency"
+  - title:  "How are wars fought II? Counterinsurgency, sexual violence"
     date: "W6 : May 3 - May 5"
     class: 
-    reading: 
+    reading: "06-reading"
   
-  - title: "Case study: civilian resistance"
+  - title: "Why displacement? Case study of Colombia"
     date: "W7 : May 10 - May 12"
     class: 
-    reading: 
+    reading: "07-reading"
   
-  - title: "Case study: criminal violence"
+  - title: "When do civilians resist? Case study of Peru"
     date: "W8 : May 17 - May 19"
     class: 
-    reading: 
+    reading: "08-reading"
   
-  - title:  "Order"
+  - title:  "Why do criminal organizations go to war? Case study of Central America"
     date: "W9 : May 24 - May 26"
     class: 
-    reading: 
+    reading: "09-reading"
   
-  - title: "How wars end"
+  - title: 'How do wars end? Peacekeeping, negotiations<br><i class="fas fa-star"></i> **Assignment 8**'
     date: "W10 : May 31 - Jun 2"
     class: 
-    reading: 
+    reading: "10-reading"
     
   - title: '<i class="fas fa-star"></i> **Final Exam**'
     date: "Wed, June 8 10:30AM-12:30PM"

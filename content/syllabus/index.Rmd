@@ -20,5 +20,146 @@ library(pander)
 `r blogdown::shortcode("courseinfo")`
 
 
+## What is this course about? 
 
-UNDER CONSTRUCTION.
+
+This is an undergraduate course on the study of civil wars, political violence, and other forms of armed conflict. Each week will be organized around a different topic related to the study of civil wars, including why civil wars break out, what tactics insurgents and states use during them, what happens when third-parties intervene, whether negotiations can effectively end wars, and other key questions in the conflict literature. 
+
+
+**Please note**: the course catalog has an antiquated description of the class that sounds like it was written during the Cold War, but that's not what this class is about. 
+
+
+## What will we read/do in this course? 
+
+
+Most of what we read in this course will cover civil wars and political violence as **general phenomena** (e.g., looking across the historical record of civil wars, why do they **tend** to emerge in some places but not others?). But we will also dig into case studies of conflicts I think are especially interesting. The readings will give you a foundation in theories, patterns and interesting puzzles of civil war. 
+
+*All of the readings in this class are free.* You will be able to download them from [this Dropbox folder](https://www.dropbox.com/sh/pide0ytvjrnbp0q/AADaIbprAmBQERw4UwWleAVba?dl=0). 
+
+
+In addition to reading, we will also spend a significant amount of time in this class **working with data** on political violence, in class and through homework. We will explore general patterns and trends, think about how to measure different concepts related to political violence, and see to what extent different theories of political violence are supported by evidence. 
+
+
+*Note: the class assumes no prior experience with data but you will need regular access to a computer.*
+
+
+By the end of this course, you will be able to:
+
+1. Identify structural and historical drivers of violence
+2. Conceptualize armed conflict as a strategic process involving states, civilians, and armed groups
+3. Explore, analyze, and interpret data bearing on political violence
+
+
+
+
+### Google Sheets
+
+
+All homeworks requiring data will be done in Google Sheets or Excel. [Google Sheets](http://sheets.google.com/) is free to use with a Google account, and I will do all data analysis tutorials in Google Sheets. However, you can easily follow along in Excel if that's what you prefer.
+
+
+
+### Warning on Violent/Disturbing Content
+
+
+This course will require spending a significant amount of time covering violent and/or disturbing material, which can be difficult to read about or watch. I will do my best to flag especially graphic content but ask that you please consider this in deciding whether to take the course. 
+
+
+### Podcasts
+
+You should listen to podcasts, although I won't grade you on it. Below are some of my favorite podcasts that frequently discuss conflict and political violence:  
+
+
+- [The Daily](https://www.nytimes.com/column/the-daily)
+- [Radio War Nerd](https://www.patreon.com/radiowarnerd)
+- [War on the Rocks](https://warontherocks.com/)
+- [Revolutions](https://www.revolutionspodcast.com/)
+- [Hardcore History](https://www.dancarlin.com/hardcore-history-series/)
+- [La Silla Vacia (for Spanish speakers)](https://open.spotify.com/show/3xMHYVOqztKPH6IOr4AaCo)
+- [What a Hell of a Way to Die](https://soundcloud.com/hellofawaytodie)
+- [Hexapodia](https://podcasts.apple.com/us/podcast/hexapodia-is-the-key-insight-by-noah-smith-brad-delong/id1552990332)
+- [The Red Line](https://www.theredlinepodcast.com/)
+
+
+
+
+## How can I get help or get in contact with the instructors?
+
+
+*Discord will be our main mode of communication*. We have a class Discord server where anyone in the class can ask questions and anyone can answer. Ask questions about data (e.g., "how do I summarize multiple variables at once?") or class logistics (e.g., "I can't find the reading") in the class Discord. The TA and I will monitor Discord regularly, and you should all do so as well. You'll have similar questions as your peers, and you'll likely be able to answer other peoples' questions too.
+
+
+*If you need one-on-one help you can also reach out to the TA*. The TA is:
+
+- Mark Reedy: Kerr 663; OH: Monday, 3-5pm
+
+
+
+*If you would like to speak with me about something that only pertains to you* (e.g., your grades, academic advice), you can sign up for office hours on [Calendly](https://calendly.com/juan-f-tellez). If there's a time-sensitive issue you can email me. Everything else goes in the Discord so that others can see and access help. 
+
+
+### Honor Code
+
+Be nice. Don't cheat. The [Code of Academic Conduct](https://ossja.ucdavis.edu/code-academic-conduct) is in effect in this class and all others at the University. I will treat violations seriously. If you have doubts, it is your responsibility to ask about the Code’s application.
+
+
+### Counseling & Psychiatry Services
+
+
+Life at Davis can be complicated and challenging. You might feel overwhelmed, experience anxiety or depression, or struggle with relationships or family responsibilities. [UC Davis Counseling Services](https://shcs.ucdavis.edu/services/counseling-services) provide *confidential* support for students who are struggling with mental health and emotional challenges. Please do not hesitate to contact them for assistance—getting help is a smart and good thing to do.
+
+
+
+## Assignments and grades
+
+You can find descriptions for all the assignments on the [assignments page](/assignment/).
+
+
+```{r assignments-grades, include=FALSE}
+assignments <- tribble(
+  ~Percent, ~Assignment,
+  .5, "Homeworks (8)",
+  .25, "Midterm Exam",
+  .25, "Final Exam"
+) %>%
+  mutate(Percent = scales::percent(Percent))
+
+grading <- tribble(
+  ~Grade, ~Range, ~Grade1, ~Range1,
+  "A",  "93–100%", "C",  "73–76%",
+  "A−", "90–92%", "C−", "70–72%",
+  "B+", "87–89%", "D+", "67–69%",
+  "B",  "83–86%", "D",  "63–66%",
+  "B−", "80–82%", "D−", "60–62%",
+  "C+", "77–79%", "F",  "< 60%"
+)
+```
+
+```{r show-assignments-table, echo=FALSE, results="asis"}
+assignments_total <- tibble(Assignment = "Total",
+                                Percent = scales::percent(1))
+
+bind_rows(assignments, assignments_total) %>% 
+  select(Assignment, Percent) %>% 
+  pandoc.table(justify = "lc", missing = "—")
+```
+
+
+```{r show-grades-table, echo=FALSE, results="asis"}
+grading %>%
+  pandoc.table(justify = "lclc", 
+               col.names = c("Grade", "Range", "Grade", "Range"))
+```
+
+
+
+
+
+
+## War propaganda
+
+
+Once you have read this entire syllabus and [the assignments page](/assignments/), post propaganda from any war or rebel group to the Discord by April 7th (I'll bump up your final grade by half a percentage point).
+
+
+![](https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2017/07/GettyImages-541320861-1024x683.jpg)

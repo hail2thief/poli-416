@@ -1,12 +1,12 @@
 ---
-title: "Week 2"
+title: "Week 5"
 citeproc: true
 bibliography: /Users/juan/Dropbox/github/whistle2/master.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
 menu: 
   readings:
     parent: Readings
-    weight: 2
+    weight: 5
 type: docs
 output:
   blogdown::html_page:
@@ -16,8 +16,4 @@ editor_options:
 ---
 
 
-## Required
 
-- [Chapter 1 in @wood:2003]
-- [@denny:walter:2014]
-- [@fearon:1995]

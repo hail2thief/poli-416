@@ -3,11 +3,11 @@ title: "Schedule"
 slug: schedule
 ---
 
-Every weekly session has three sections. 
+Every weekly session has three sections. [All readings can be accessed here.](https://www.dropbox.com/sh/pide0ytvjrnbp0q/AADaIbprAmBQERw4UwWleAVba?dl=0)
 
-<!-- <i class="fas fa-book-reader"></i> [**Reading**](/reading/): This page contains the reading, slides, and other material from that week's class. <br/> -->
-<!-- <i class="fas fa-chalkboard-teacher"></i> [**Class**](/class/): This page contains worked examples relevant to what we cover each week. <br/> -->
-<!-- <i class="fas fa-laptop-code"></i> [**Homework**](/assignment/): This page contains any problem sets or memo topics for the week.  -->
+<i class="fas fa-book-reader"></i> [**Reading**](/reading/): This page contains the reading, slides, and other material from that week's class. <br/>
+<i class="fas fa-chalkboard-teacher"></i> [**Class**](/class/): This page contains worked examples relevant to what we cover each week. <br/>
+<i class="fas fa-laptop-code"></i> [**Homework**](/assignment/): This page contains any homework for the week.
 
 
 ---

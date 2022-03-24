@@ -1,5 +1,5 @@
 ---
-title: "Problem set 1"
+title: "Homework 1"
 due_date: "2021-01-26"
 due_time: "11:59 PM"
 type: docs
@@ -18,63 +18,4 @@ menu:
 
 ## Instructions
 
-
-> You must submit all assignments either as a *PDF document*. Answer all questions carefully and neatly. Use section headings to distinguish what question you are answering. If the question involves a graph, copy/paste the graph into your document and *make sure the graph has a title and informative axes labels.*
-
-
-<!-- ## Tutorial -->
-
-<!-- [Here's the video from class where I walked through Google Sheets](https://www.youtube.com/watch?v=oeryF4_mSls).  -->
-
-
-## Task 1: Office-selling and long-run growth in Colonial Peru
-
-
-1. Let's finish up our in-class assignment. [Download this data on governorship prices and contemporary development in Peru](/files/sales-dev.csv). Using a pivot table, calculate the **average** level of `toilethouse` and `schoolyears` for each `district` in the data. Plot the relationship between the two new variables that you calculated, and include a trend-line. What is the relationship between the two? Describe it in simple terms. Would you say these variables are good measures of how developed a district is? Why or why not?
-
-
-2. Now, also with a pivot table, calculate the **average** of a contemporary development outcome (e.g., schooling, toilets, or household consumption) and of logged wartime sales prices for each `colonial province` in the data. Plot the relationship between average logged wartime sales prices (x-axis) and the development outcome you picked (y-axis), and include a trend-line. What does the relationship look like? Do districts that fetched higher prices in colonial times tend to be better off or worse off today?
-
-
-3. What does this suggest about the effect that *selling governorships* had on the quality of governance?
-
-
-```{r, echo=FALSE,message=FALSE,warning=FALSE,results="asis"}
-library(tidyverse)
-library(pander)
-tibble::tribble(
-      ~original,                                                                    ~labels,
-    "provincia",                                                   "colonial province name",
-     "district",                                               "contemporary district name",
-   "meanpriceh",                             "avg log office price per capita during peace",
-    "meanprice",                               "avg log office price per capita during war",
-  "toilethouse",                            "share of households in district with indoor toilets",
-  "schoolyears",                          "highest educational level attained (0-21 years)",
-     "lhhequiv", "log of equivalent household consumption minus transfers in normal prices"
-  )%>% 
-  pandoc.table(caption = "Variable dictionary")
-```
-
-
-
-
-## Task 2: Acrostic poem
-
-
-Choose a country in Latin America that you are curious about. For each letter in your first name, find a noun that starts with the same letter as your name. Use whatever source you want (the readings, Wikipedia, etc.). Write one sentence for each letter in your first name explaining the significance of that noun. Be specific. Example:
-
-- J is for Jefferson, a Founding Father who helped write the Declaration of Independence and an influential thinker in American political thought. 
-- A is for apple, as in "as American as apple pie", a common saying in the US to describe something quintessentially American^[Definitely don't spend too much time on this; fine to use a nickname if your first name is long.]
-
-
-
-## Task 3: Economic trajectory in your country
-
-
-Download [*this data*](/files/gdp-capita-lac.csv)^[GDP per capita over time in Latin America (source: The World Bank)], and open it in Google Sheets or Excel. 
-
-
-1. Find out *how* Gross Domestic Product (GDP) is measured, and give me a short description in laymen's terms. 
-2. For the country you picked above, plot GDP per capita (y-axis) over years (x-axis). We call this a *time-series*. Make sure to only plot your own country!
-3. Identify the biggest change from one year to the next; maybe a sudden increase, or a big drop. Use Google to find out what *probably* happened around that time and tell me about it in 2-3 sentences.^[If there are no interesting increases/decreases in your data, tell me about a period of relative prosperity or decline in your country.]
-
+TBD
