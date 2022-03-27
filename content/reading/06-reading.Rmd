@@ -19,7 +19,11 @@ editor_options:
 
 - [<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> Counterinsurgency field manual](https://www.hsdl.org/?abstract&did=468442), read section titled: *ASPECTS OF COUNTERINSURGENCY* (Pages 1:19 through 1:29, look at bottom-right of page)
 - [@condra:shapiro:2012]
-- [@berman:etal:2011]
+- [@valentino:etal:2004]
 - [@siegel:2011]
-- [@cohen:2013]
 
+
+## Recommended
+
+
+- [@berman:etal:2011]
