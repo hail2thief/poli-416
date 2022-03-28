@@ -20,4 +20,11 @@ editor_options:
 
 - [Chapter 1 in @wood:2003]
 - [@denny:walter:2014]
+
+
+## Recommended
+
+
 - [@fearon:1995]
+- [@sanin:wood:2014]
+- Chapter 3 in [@cockburn:2016]
