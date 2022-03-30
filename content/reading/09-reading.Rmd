@@ -15,7 +15,10 @@ editor_options:
   chunk_output_type: console
 ---
 
+[All readings can be accessed here.](https://www.dropbox.com/sh/pide0ytvjrnbp0q/AADaIbprAmBQERw4UwWleAVba?dl=0)
+
+
 ## Required
 
 
-- [Chapters on Guatemala and Nicaragua, @yashar:2018]
+- [Chapters on Guatemala and Nicaragua in @yashar:2018]

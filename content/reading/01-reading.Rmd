@@ -15,16 +15,18 @@ editor_options:
   chunk_output_type: console
 ---
 
+[All readings can be accessed here.](https://www.dropbox.com/sh/pide0ytvjrnbp0q/AADaIbprAmBQERw4UwWleAVba?dl=0)
+
 
 ## Required
 
 - The [syllabus](/syllabus/) and [assignments](/assignment/) pages for this class
 - [@kalyvas:balcells:2010]
-- [@kalyvas:2018]
+- @kalyvas:2018
 
 
 ## Recommended
 
 - [Amelia Hoover Green, "How to Read Political Science"](/files/amelia-green-how-to-read.pdf)
-- [@sambanis:2004]
-- [@kalyvas:2001]
+- @sambanis:2004
+- @kalyvas:2001

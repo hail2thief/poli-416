@@ -15,6 +15,8 @@ editor_options:
   chunk_output_type: console
 ---
 
+[All readings can be accessed here.](https://www.dropbox.com/sh/pide0ytvjrnbp0q/AADaIbprAmBQERw4UwWleAVba?dl=0)
+
 ## Required
 
 - [<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> Counterinsurgency field manual](https://www.hsdl.org/?abstract&did=468442), read section titled: *ASPECTS OF COUNTERINSURGENCY* (Pages 1:19 through 1:29, look at bottom-right of page)
