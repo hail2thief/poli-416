@@ -21,4 +21,10 @@ editor_options:
 
 - [@collier:hoeffler:2004]
 - [@dube:vargas:2013]
+- [@carter:etal:2019]
+
+
+## Recommended
+
 - [@hall:etal:2019]
+
