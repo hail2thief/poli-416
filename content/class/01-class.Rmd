@@ -1,11 +1,11 @@
 ---
-title: "Intro to the course"
+title: "Week 1"
 citeproc: true
-bibliography: /Users/JuamnTellez/Dropbox/github/whistle/master.bib
+bibliography: /Users/juan/Dropbox/github/whistle2/master.bib
 csl: ../../static/bib/chicago-syllabus-no-bib.csl
 menu: 
   classes:
-    parent: Class Material
+    parent: Class materials
     weight: 1
 type: docs
 output:
@@ -17,26 +17,47 @@ editor_options:
 
 ## Slides
 
-[Slides here](/slides/02-how-to-read.pdf)
 
-
-<!-- ## Getting to know you -->
-
-<!-- <i class="fa fa-external-link-square-alt" aria-hidden="true"></i> If you haven't done it yet, go to this [Google form](https://forms.gle/JExGB5o3PTCEhdQC7) and tell me about yourself. -->
+<!-- [Slides here](/slides/02-how-to-read.pdf) -->
 
 
 ## Class activity
 
 
-We're looking at this piece by [[@carlin:etal:2014]](https://www.researchgate.net/profile/Ryan_Carlin/publication/274969560_Natural_Disaster_and_Democratic_Legitimacy_The_Public_Opinion_Consequences_of_Chile%27s_2010_Earthquake_and_Tsunami/links/559d3d8308ae76bed0bb218b.pdf). 
-
-<!-- The claim they're wanting to test is whether Chile's devastating 2010 earthquake reduced citizens' trust in local government. To test this they use a survey fielded after the earthquake, where they assess whether *people who suffered damage from the earthquake (destruction of property, injury, etc.) exhibit lower trust in local government than people not hit by the earthquake*.  -->
+We're working with [this dataset](/files/balcells-kalyvas.csv) from [@kalyvas:balcells:2010]. 
 
 
-In groups, think about the following: 
+The variables in the dataset:
 
-1. What is the *causal claim* the authors are trying to test? 
-2. What exactly is the argument as to why earthquakes decrease support for democracy?
-3. Are all people in Chile equally likely to be affected by earthquake/Tsunami? Who is likely to be more/less affected? 
-4. What kinds of confounding variables^[Remember a confounding variable is a variable that *causes* both our X and Y variable, like years married in the affairs example from class.] should we be worried about here?
-5. Support for local government is measured on a 0 (no support) to 1 (full support) scale. How would you interpret the coefficient on page 10?
+
+```{r, echo = FALSE, warning = FALSE, results='asis', message=FALSE}
+library(tidyverse)
+tribble(~Variable, ~Description, 
+        "countryname", "Name of country",
+        "year_start", "Year war began",
+        "month_start", "Month war began",
+        "year_end", "Year war ended",
+        "month_end", "Month war ended",
+        "conflict_name", "Name of conflict",
+        "region", "Region",
+        "gdp_capita", "GDP per capita (logged)",
+        "rough_terrain", "Percent of country mountainous (logged)",
+        "military_personnel_percapita", "military personnel per capita",
+        "marxist", "Are rebels Marxist?",
+        "technologyrebellion", "Technology of rebellion?",
+        "ethnicwar", "Is this an ethnic war?") %>% 
+  pander::pandoc.table(caption = "Variable dictionary", 
+                              align = "ll", 
+                       col.names = c("Variable", "Description"))
+```
+
+
+
+### Questions
+
+1. How many conflicts began in 1992?
+2. What was the **longest** war in years of fighting? The **shortest**?
+    a. 🔥 Challenge 🔥: Can you incorporate the **month** variable? 
+3. How many conflicts have there been in **each** region of the world?
+    a. 🔥 Challenge 🔥: How many conflicts in each region **of each** warfare type?
+4. Pick a conflict and look it up. Does the warfare type the authors assigned match well? If you can find a picture that is suggestive of the type, post it in the Discord. 

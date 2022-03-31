@@ -28,7 +28,7 @@ readings:
     weight: 2
 
 classes:
-  - name: Overview
+  - name: Class details
     weight: 1
-  - name: Class Material
+  - name: Class materials
     weight: 2
