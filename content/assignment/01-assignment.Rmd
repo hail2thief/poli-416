@@ -1,7 +1,5 @@
 ---
 title: "Homework 1"
-due_date: "2021-01-26"
-due_time: "11:59 PM"
 type: docs
 output:
   blogdown::html_page:
@@ -18,4 +16,46 @@ menu:
 
 ## Instructions
 
-TBD
+
+
+Answer the questions (below), and keep track of your answers somewhere (a notepad?). You will input your answers into Canvas. **Figure out the answers *BEFORE* opening Canvas**, otherwise you'll run out of time. 
+
+
+
+## Data
+
+
+You're going to work with data from the Uppsala Conflict Data Program at The Department of Peace and Conflict Research, Uppsala University in Oslo, Norway. The dataset is called the Geo-referenced Event Dataset (GED) which, as the title hints, provides detailed geo-referenced information on violent events around the world. 
+
+- <i class="fas fa-download"></i> [UCDP GED Dataset](https://www.dropbox.com/s/erpkt3kar4moa93/ucdp-ged.csv?dl=1)
+
+
+```{r, warning=FALSE, echo=FALSE, message=FALSE, results='asis'}
+library(tidyverse)
+# dictionary
+tribble(~Variable, ~Description, 
+        "id", "Unique event identifer",
+        "year", "Year event began",
+        "month", "Month event began",
+        "day", "Day event began",
+        "country", "Country of event",
+        "type_of_violence", "UCDP violence type\n(1 = state vs. rebel\n2 = rebel vs. rebel\n3 = violence against civilians)",
+        "conflict_name", "Name of conflict",
+        "side_a", "Side A",
+        "side_b", "Side B",
+        "source_article", "Article event came from",
+        "latitude", "Latitude",
+        "longitude", "Longitude",
+        "low_death_estimate", "Low estimate of number of deaths",
+        "high_death_estimate", "High estimate of number of deaths",
+        "best_death_estimate", "Best estimate (sum of all)") %>% 
+  pander::pandoc.table()
+
+```
+
+
+
+## Questions
+
+
+

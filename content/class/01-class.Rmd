@@ -15,11 +15,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Slides
-
-
-<!-- [Slides here](/slides/02-how-to-read.pdf) -->
-
 
 ## Class activity
 
