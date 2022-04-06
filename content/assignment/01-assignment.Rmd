@@ -14,6 +14,12 @@ menu:
 
 
 
+## Tutorial
+
+
+Here's a [brief, kinda awkward tutorial](https://www.dropbox.com/s/6kc0g0xobuazlx2/filter-summary.mov?dl=0) on how to use Filter and Summary Statistics in Google Sheets. 
+
+
 ## Instructions
 
 
@@ -25,9 +31,9 @@ Answer the questions (below), and keep track of your answers somewhere (a notepa
 ## Data
 
 
-You're going to work with data from the Uppsala Conflict Data Program at The Department of Peace and Conflict Research, Uppsala University in Oslo, Norway. The dataset is called the Geo-referenced Event Dataset (GED) which, as the title hints, provides detailed geo-referenced information on violent events around the world. 
+You're going to work with a random sample from the Uppsala Conflict Data Program at The Department of Peace and Conflict Research, Uppsala University in Oslo, Norway. The dataset is called the Geo-referenced Event Dataset (GED) which, as the title hints, provides detailed geo-referenced information on violent events around the world. 
 
-- <i class="fas fa-download"></i> [UCDP GED Dataset](https://www.dropbox.com/s/erpkt3kar4moa93/ucdp-ged.csv?dl=1)
+- Download this: <i class="fas fa-download"></i> [UCDP GED Dataset](https://www.dropbox.com/s/6tthe5o22lgglkp/ucdp-ged-small.csv?dl=1)
 
 
 ```{r, warning=FALSE, echo=FALSE, message=FALSE, results='asis'}
@@ -58,4 +64,23 @@ tribble(~Variable, ~Description,
 ## Questions
 
 
+Using the dataset, answer the following questions:
 
+
+1. How many violent events took place in Israel in 2004?
+
+
+2. How **many more** violent events took place in Afghanistan during the Summer (June, July, August) than in the Winter (December, January, February)? 
+
+
+3. How many people died (according to "best estimate") in the worst event of state-based violence?
+
+
+4. In what country was the most (according to "best estimate") violent event of non-state violence perpetrated? 
+
+
+5. Find a violent event that took place on your birthday (if there are none, try adding/subtracting a day, or month, until you find one). Look up the long/lat coordinates of that event on Google Maps. Using either street view or, if street view is not available, whatever images you can find near the location of the event: 
+
+- take a screencap and save the image (you will upload to Canvas).  
+- Where did the event take place? What was the conflict about? Be VERY brief.
+- VERY *briefly* describe what the location of the event looks like: nothing structured, just your reactions to what you're seeing in the area. What do you see? What does it look like? 
