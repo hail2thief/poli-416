@@ -15,6 +15,18 @@ editor_options:
   chunk_output_type: console
 ---
 
+
+# Slides
+
+
+- [Grievance slides](/slides/02-grievances.pdf)
+
+- [Identity slides](/slides/02-identity.pdf)
+
+
+
+# Readings
+
 [All readings can be accessed here.](https://www.dropbox.com/sh/pide0ytvjrnbp0q/AADaIbprAmBQERw4UwWleAVba?dl=0)
 
 
