@@ -1,0 +1,172 @@
+---
+title: "Homework 2"
+type: docs
+output:
+  blogdown::html_page:
+    toc: true
+editor_options: 
+  chunk_output_type: console
+menu:
+  assignment:
+    parent: Homeworks
+    weight: 1
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+<div id="TOC">
+<ul>
+<li><a href="#tutorial">Tutorial</a></li>
+<li><a href="#instructions">Instructions</a></li>
+<li><a href="#task-1-ethnicity-and-identity">Task 1: Ethnicity and identity</a>
+<ul>
+<li><a href="#variables-and-color-palette">Variables and color palette</a></li>
+</ul></li>
+<li><a href="#task-2-rebel-contraband">Task 2: Rebel contraband</a></li>
+</ul>
+</div>
+
+<div id="tutorial" class="section level2">
+<h2>Tutorial</h2>
+<!-- Here's a [brief, kinda awkward tutorial](https://www.dropbox.com/s/6kc0g0xobuazlx2/filter-summary.mov?dl=0) on how to use Filter and Summary Statistics in Google Sheets.  -->
+</div>
+<div id="instructions" class="section level2">
+<h2>Instructions</h2>
+<p>Answer the questions (below), and keep track of your answers somewhere (a notepad?). You will input your answers into Canvas. <strong>Figure out the answers <em>BEFORE</em> opening Canvas</strong>, otherwise you’ll run out of time.</p>
+</div>
+<div id="task-1-ethnicity-and-identity" class="section level2">
+<h2>Task 1: Ethnicity and identity</h2>
+<p>Where does ethnic identity come from? In the US, we are used to thinking about identity in terms of physical appearance – we think that physical traits predict what ethnicity someone “belongs” to. Let’s look at this idea in a different context: Latin America.</p>
+<p>We are going to work with a big survey of 4 countries fielded in 2014 by the Latin American Public Opinion Project. <a href="/files/lapop-race.csv">Download the dataset here</a>.</p>
+<p>Each row in the dataset is a person who answered the survey. The table below tells you what each variable means. For the <code>skin color</code> variable see the palette at the bottom of this page.</p>
+<ol style="list-style-type: decimal">
+<li><p>Look at the color palette below, and try to find a shade that is decently close to yours<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>. Filter the data so you are only looking at respondents who match the skin tone you chose. Now, use a pivot table to make a <em>bar chart</em> of <code>etid</code> to look at the distribution of racial categories for people with this particular skin-tone identify with. Save the image (you will submit).</p></li>
+<li><p>Briefly: what are your overall reactions? Are you surprised by how people with this skin tone identify?</p></li>
+<li><p>How big are ethnic disparities in these countries? Let’s look at education. About how many more years of schooling, on average, do respondents who identify as White have than respondents who identify as Indigenous <strong>in Mexico</strong>?</p></li>
+</ol>
+<div id="variables-and-color-palette" class="section level3">
+<h3>Variables and color palette</h3>
+<table style="width:44%;">
+<colgroup>
+<col width="15%" />
+<col width="29%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">original</th>
+<th align="center">labels</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">r_id</td>
+<td align="center">Respondent ID</td>
+</tr>
+<tr class="even">
+<td align="center">pais</td>
+<td align="center">Country</td>
+</tr>
+<tr class="odd">
+<td align="center">etid</td>
+<td align="center">Ethnicity</td>
+</tr>
+<tr class="even">
+<td align="center">ed</td>
+<td align="center">Years of Schooling</td>
+</tr>
+<tr class="odd">
+<td align="center">colorr</td>
+<td align="center">Skin Color</td>
+</tr>
+</tbody>
+</table>
+<div class="figure">
+<img src="/images/lapop-palette.png" alt="" />
+<p class="caption">LAPOP color palette</p>
+</div>
+</div>
+</div>
+<div id="task-2-rebel-contraband" class="section level2">
+<h2>Task 2: Rebel contraband</h2>
+<p>How do rebels fund their movements? You are going to work with the <a href="/files/contraband.csv">Rebel Contraband Dataset</a>. Each observation in this dataset is a year in which a rebel group was engaged in conflict with the state.</p>
+<p>Using the dataset, answer the following questions:</p>
+<ol start="4" style="list-style-type: decimal">
+<li><p>Across the whole dataset, approximately what percent of conflict-years relied on extortion?</p></li>
+<li><p>Looking only in Latin America and the Caribbean, what percent of conflict-years relied on smuggling?</p></li>
+<li><p>How have smuggling trends changed over time? Use a pivot table to find the percent of conflicts with smuggling for each year in the data using a pivot table. Plot the results as a line graph and screencap the image (you will upload).</p></li>
+<li><p>Some rebels rely on <strong>forced recruitment</strong> (meaning: they force people to join their group and fight). Prior to looking at the data: would you guess groups that forcibly recruit are <em>more</em> or <em>less</em> likely to rely on extortion to fund their movement? Briefly speculate.</p></li>
+<li><p>Now, look at the data. Use a pivot table to find the percent of rebel groups that use extortion, comparing groups that do and don’t rely on forced recruitment. Which is more likely to use extortion groups that do use forced recruitment, or groups that don’t use forced recruitment, and by how much?</p></li>
+</ol>
+<table style="width:71%;">
+<colgroup>
+<col width="26%" />
+<col width="44%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">Variable</th>
+<th align="center">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">country</td>
+<td align="center">Country</td>
+</tr>
+<tr class="even">
+<td align="center">year</td>
+<td align="center">Year</td>
+</tr>
+<tr class="odd">
+<td align="center">sidea</td>
+<td align="center">Side A in conflict (UCDP)</td>
+</tr>
+<tr class="even">
+<td align="center">sideb</td>
+<td align="center">Side B in conflict (UCDP)</td>
+</tr>
+<tr class="odd">
+<td align="center">region</td>
+<td align="center">Region of the world</td>
+</tr>
+<tr class="even">
+<td align="center">extortion</td>
+<td align="center">Did group use extortion? (1 =
+yes, 0 = no)</td>
+</tr>
+<tr class="odd">
+<td align="center">smuggling</td>
+<td align="center">Did group use smuggling (1 =
+yes, 0 = no)</td>
+</tr>
+<tr class="even">
+<td align="center">RESOURCE_ACTION</td>
+<td align="center">Did group use ACTION to
+acquire RESOURCE? (1 = yes, 0
+= no)</td>
+</tr>
+<tr class="odd">
+<td align="center">external_support</td>
+<td align="center">Did group receive external
+support from foreign
+government? (1 = yes, 0 = no)</td>
+</tr>
+<tr class="even">
+<td align="center">forcedrecruit</td>
+<td align="center">Did group forcibly recruit
+members? (1 = yes, 0 = no)</td>
+</tr>
+<tr class="odd">
+<td align="center">abduction</td>
+<td align="center">Did group abduct new members?
+(1 = yes, 0 = no)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>I know these are cartoonishly absurd colors that don’t really match human skin. But it’s what LAPOP uses…<a href="#fnref1" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>

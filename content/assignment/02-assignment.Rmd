@@ -1,0 +1,117 @@
+---
+title: "Homework 2"
+type: docs
+output:
+  blogdown::html_page:
+    toc: true
+editor_options: 
+  chunk_output_type: console
+menu:
+  assignment:
+    parent: Homeworks
+    weight: 1
+---
+
+
+
+## Tutorial
+
+
+<!-- Here's a [brief, kinda awkward tutorial](https://www.dropbox.com/s/6kc0g0xobuazlx2/filter-summary.mov?dl=0) on how to use Filter and Summary Statistics in Google Sheets.  -->
+
+
+## Instructions
+
+
+
+Answer the questions (below), and keep track of your answers somewhere (a notepad?). You will input your answers into Canvas. **Figure out the answers *BEFORE* opening Canvas**, otherwise you'll run out of time. 
+
+
+
+
+## Task 1: Ethnicity and identity
+
+
+Where does ethnic identity come from? In the US, we are used to thinking about identity in terms of physical appearance --  we think that physical traits predict what ethnicity someone "belongs" to. Let's look at this idea in a different context: Latin America. 
+
+
+We are going to work with a big survey of 4 countries fielded in 2014 by the Latin American Public Opinion Project. [Download the dataset here](/files/lapop-race.csv).
+
+Each row in the dataset is a person who answered the survey. The table below tells you what each variable means. For the `skin color` variable see the palette at the bottom of this page.
+
+
+1. Look at the color palette below, and try to find a shade that is decently close to yours^[I know these are cartoonishly absurd colors that don't really match human skin. But it's what LAPOP uses...]. Filter the data so you are only looking at respondents who match the skin tone you chose. Now, use a pivot table to make a *bar chart* of `etid` to look at the distribution of racial categories for people with this particular skin-tone identify with. Save the image (you will submit). 
+
+
+2. Briefly: what are your overall reactions? Are you surprised by how people with this skin tone identify?
+
+
+3. How big are ethnic disparities in these countries? Let's look at education. About how many more years of schooling, on average, do respondents who identify as White have than respondents who identify as Indigenous **in Mexico**?
+
+
+
+### Variables and color palette
+
+
+```{r, echo=FALSE,message=FALSE,warning=FALSE,results="asis"}
+library(tidyverse)
+library(pander)
+tibble::tribble(
+                    ~original,                   ~labels,
+                    "r_id", "Respondent ID",
+                       "pais",                                           "Country",
+                       "etid",                                         "Ethnicity",
+                         "ed",                                "Years of Schooling",
+                     "colorr",                                        "Skin Color") %>% 
+  pandoc.table()
+```
+
+
+![LAPOP color palette](/images/lapop-palette.png)
+
+
+
+
+
+## Task 2: Rebel contraband
+
+
+How do rebels fund their movements? You are going to work with the [Rebel Contraband Dataset](/files/contraband.csv). Each observation in this dataset is a year in which a rebel group was engaged in conflict with the state. 
+
+
+Using the dataset, answer the following questions:
+
+
+4. Across the whole dataset, approximately what percent of conflict-years relied on extortion? 
+
+5. Looking only in Latin America and the Caribbean, what percent of conflict-years relied on smuggling?
+
+
+6. How have smuggling trends changed over time? Use a pivot table to find the percent of conflicts with smuggling for each year in the data using a pivot table. Plot the results as a line graph and screencap the image (you will upload). 
+
+
+
+7. Some rebels rely on **forced recruitment** (meaning: they force people to join their group and fight). Prior to looking at the data: would you guess groups that forcibly recruit are *more* or *less* likely to rely on extortion to fund their movement? Briefly speculate. 
+
+
+8. Now, look at the data. Use a pivot table to find the percent of rebel groups that use extortion, comparing groups that do and don't rely on forced recruitment. Which is more likely to use extortion groups that do use forced recruitment, or groups that don't use forced recruitment, and by how much? 
+
+
+
+
+```{r, echo=FALSE,message=FALSE,warning=FALSE,results="asis"}
+tribble(~Variable, ~Description, 
+        "country", "Country",
+        "year",  "Year",
+        "sidea", "Side A in conflict (UCDP)",
+        "sideb", "Side B in conflict (UCDP)",
+        "region", "Region of the world",
+        "extortion", "Did group use extortion?\n(1 = yes, 0 = no)",
+        "smuggling", "Did group use smuggling\n(1 = yes, 0 = no)", 
+        "RESOURCE_ACTION", "Did group use ACTION to acquire RESOURCE?\n(1 = yes, 0 = no)",
+        "external_support", "Did group receive external support from foreign government?\n(1 = yes, 0 = no)",
+        "forcedrecruit", "Did group forcibly recruit members?\n(1 = yes, 0 = no)",
+        "abduction", "Did group abduct new members?\n(1 = yes, 0 = no)") %>% 
+  pandoc.table()
+```
+
