@@ -1,0 +1,111 @@
+---
+title: "Week 3"
+citeproc: true
+bibliography: /Users/juan/Dropbox/github/whistle2/master.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+menu: 
+  classes:
+    parent: Class materials
+    weight: 3
+type: docs
+output:
+  blogdown::html_page:
+    toc: true
+editor_options: 
+  chunk_output_type: console
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+<div id="TOC">
+<ul>
+<li><a href="#data">Data</a></li>
+<li><a href="#questions">Questions</a></li>
+<li><a href="#variable-dictionary">Variable dictionary</a></li>
+</ul>
+</div>
+
+<div id="data" class="section level2">
+<h2>Data</h2>
+<p>We’re going to work with data from <span class="citation"><a href="#ref-fearon:laitin:2003" role="doc-biblioref">James D. Fearon and David D. Laitin, <span>“Ethnicity, Insurgency, and Civil War,”</span> <em>American Political Science Review</em> 97, no. 1 (2003): 75–90</a>.</span></p>
+<ul>
+<li>Download this: <i class="fas fa-download"></i> <a href="https://www.dropbox.com/s/a4clodqxj4rqj2i/fearon.csv?dl=1">Fearon data</a></li>
+</ul>
+</div>
+<div id="questions" class="section level2">
+<h2>Questions</h2>
+<ol style="list-style-type: decimal">
+<li><p>How mountainous is each region, on average?</p></li>
+<li><p>How many observations do we have for each region?</p></li>
+<li><p>What percent of countries are reliant on oil? What about just in the MENA?</p></li>
+<li><p>How much more or less likely are countries with oil to have civil war onset?</p></li>
+</ol>
+</div>
+<div id="variable-dictionary" class="section level2">
+<h2>Variable dictionary</h2>
+<table style="width:61%;">
+<colgroup>
+<col width="15%" />
+<col width="45%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">Variable</th>
+<th align="center">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">onset</td>
+<td align="center">Did a civil war begin this
+year? (1 = yes, 0 = no)</td>
+</tr>
+<tr class="even">
+<td align="center">pop</td>
+<td align="center">Population</td>
+</tr>
+<tr class="odd">
+<td align="center">polity2</td>
+<td align="center">Revised POLITY score (measure
+of democracy)</td>
+</tr>
+<tr class="even">
+<td align="center">gdp_cap</td>
+<td align="center">GDP per capita (2001 COW
+energy data)</td>
+</tr>
+<tr class="odd">
+<td align="center">region</td>
+<td align="center">Region of the world</td>
+</tr>
+<tr class="even">
+<td align="center">mtnest</td>
+<td align="center">Estimated percent mountainous
+terrain</td>
+</tr>
+<tr class="odd">
+<td align="center">elevdiff</td>
+<td align="center">Highest - lowest elevation,
+meters</td>
+</tr>
+<tr class="even">
+<td align="center">oil</td>
+<td align="center">Does country have more than
+1/3 oil exports? (1 = yes, 0 =
+no)</td>
+</tr>
+<tr class="odd">
+<td align="center">ef</td>
+<td align="center">Ethnic fractionalization index
+(probability that two randomly
+drawn individuals are not from
+the same ethnic group)</td>
+</tr>
+<tr class="even">
+<td align="center">numlang</td>
+<td align="center">Number of languages spoken in
+country</td>
+</tr>
+</tbody>
+</table>
+</div>
