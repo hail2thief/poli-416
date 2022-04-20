@@ -19,10 +19,11 @@ lessons:
     reading: "03-reading"
     assignment: "02-assignment"
   
-  - title: "How are wars fought? Insurgency, recruitment"
+  - title: 'How are wars fought? Insurgency<br><i class="fas fa-star"></i> **Assignment 3**'
     date: "W4 : Apr 19 - Apr 21"
     class: 
     reading: "04-reading"
+    assignment: "03-assignment"
   
   - title: "Film + midterm"
     date: "W5 : Apr 26 - Apr 28"

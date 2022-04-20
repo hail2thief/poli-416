@@ -22,3 +22,9 @@ editor_options:
 - [Chapter 7 in @kalyvas:2006]
 - [@weinstein:2005]
 - [@cohen:2013]
+
+
+## Recommended
+
+- [@kalyvas:kocher:2007a]
+- [@kocher:etal:2011]

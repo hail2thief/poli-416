@@ -1,0 +1,85 @@
+---
+title: "Homework 3"
+type: docs
+output:
+  blogdown::html_page:
+    toc: true
+editor_options: 
+  chunk_output_type: console
+menu:
+  assignment:
+    parent: Homeworks
+    weight: 3
+---
+
+
+
+
+## Instructions
+
+
+
+Answer the questions (below), and keep track of your answers somewhere (a notepad?). You will input your answers into Canvas. **Figure out the answers *BEFORE* opening Canvas**, otherwise you'll run out of time. 
+
+
+
+
+## The Vietnam War
+
+
+Here, you'll be working with hamlet level data on territorial control, selective violence, indiscriminate violence during the Vietnam War. Using the data (variable dictionary below), answer the following questions: 
+
+
+- Download this: <i class="fas fa-download"></i> [Vietnam HES data](/files/vietnam.csv)
+
+
+
+1. what was the Strategic Hamlet Program during the Vietnam War? Look it up, describe in two sentences. 
+
+
+2. How many bomb sorties were launched against the most attacked hamlet in Vietnam? 
+
+
+
+3. Look at the percent of hamlets that are in each control category. Overall, who had more control, the rebels, or the government?  
+
+
+
+4. about how many more bomb sorties were aimed at places that had full rebel control than places where the government only had partial control? 
+
+
+
+5. Now, make a cross-tabulation of the control variable and the variable measuring selective violence. About how many cases of selective violence where there in hamlets where the government had full control? 
+
+
+6. Where did rebels use more selective violence, where they had partial control or full control? And about how much more?
+
+
+
+7. How different where the hamlets were Vietcong used selective violence than the hamlets they didn't use selective violence? Compare the average levels of urban, population, development index, and buddhism in places with and without selective violence. 
+
+
+
+8. do anything else with this data. Tell me what you did and what you found. 
+
+
+
+
+```{r, echo=FALSE,message=FALSE,warning=FALSE,results="asis"}
+library(tidyverse)
+library(pander)
+tribble(~Variable, ~Description, 
+        "hamlet_id", "9-digit HES identifier",
+        "month", "Month",
+        "selective_terror", "Did Vietcong use selective violence?",
+        "control", "Who controlled hamlet?\n(1 = full state, 2 = partial state, 3 = contested, 4 = partial rebel, 5 = full rebel)",
+        "bombed", "How many bombing sorties in hamlet?",
+        "urban", "Is hamlet mostly urban?\n(1 = yes, 0 = no)",
+        "pop", "Hamlet population",
+        "border", "Distance to closest international border",
+        "dev_index", "Development index (low to high)",
+        "buddhist", "Predominantly Buddhist hamlet?\n(1 = yes, 0 = no)",
+        "vietnamese", "Predominantly Vietnamese hamlet?\n(1 = yes, 0 = no)") %>% 
+  pandoc.table()
+```
+

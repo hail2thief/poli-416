@@ -1,0 +1,112 @@
+---
+title: "Homework 3"
+type: docs
+output:
+  blogdown::html_page:
+    toc: true
+editor_options: 
+  chunk_output_type: console
+menu:
+  assignment:
+    parent: Homeworks
+    weight: 3
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+<div id="TOC">
+<ul>
+<li><a href="#instructions">Instructions</a></li>
+<li><a href="#the-vietnam-war">The Vietnam War</a></li>
+</ul>
+</div>
+
+<div id="instructions" class="section level2">
+<h2>Instructions</h2>
+<p>Answer the questions (below), and keep track of your answers somewhere (a notepad?). You will input your answers into Canvas. <strong>Figure out the answers <em>BEFORE</em> opening Canvas</strong>, otherwise you’ll run out of time.</p>
+</div>
+<div id="the-vietnam-war" class="section level2">
+<h2>The Vietnam War</h2>
+<p>Here, you’ll be working with hamlet level data on territorial control, selective violence, indiscriminate violence during the Vietnam War. Using the data (variable dictionary below), answer the following questions:</p>
+<ul>
+<li>Download this: <i class="fas fa-download"></i> <a href="/files/vietnam.csv">Vietnam HES data</a></li>
+</ul>
+<ol style="list-style-type: decimal">
+<li><p>what was the Strategic Hamlet Program during the Vietnam War? Look it up, describe in two sentences.</p></li>
+<li><p>How many bomb sorties were launched against the most attacked hamlet in Vietnam?</p></li>
+<li><p>Look at the percent of hamlets that are in each control category. Overall, who had more control, the rebels, or the government?</p></li>
+<li><p>about how many more bomb sorties were aimed at places that had full rebel control than places where the government only had partial control?</p></li>
+<li><p>Now, make a cross-tabulation of the control variable and the variable measuring selective violence. About how many cases of selective violence where there in hamlets where the government had full control?</p></li>
+<li><p>Where did rebels use more selective violence, where they had partial control or full control? And about how much more?</p></li>
+<li><p>How different where the hamlets were Vietcong used selective violence than the hamlets they didn’t use selective violence? Compare the average levels of urban, population, development index, and buddhism in places with and without selective violence.</p></li>
+<li><p>do anything else with this data. Tell me what you did and what you found.</p></li>
+</ol>
+<table style="width:72%;">
+<colgroup>
+<col width="26%" />
+<col width="45%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">Variable</th>
+<th align="center">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">hamlet_id</td>
+<td align="center">9-digit HES identifier</td>
+</tr>
+<tr class="even">
+<td align="center">month</td>
+<td align="center">Month</td>
+</tr>
+<tr class="odd">
+<td align="center">selective_terror</td>
+<td align="center">Did Vietcong use selective
+violence?</td>
+</tr>
+<tr class="even">
+<td align="center">control</td>
+<td align="center">Who controlled hamlet? (1 =
+full state, 2 = partial state,
+3 = contested, 4 = partial
+rebel, 5 = full rebel)</td>
+</tr>
+<tr class="odd">
+<td align="center">bombed</td>
+<td align="center">How many bombing sorties in
+hamlet?</td>
+</tr>
+<tr class="even">
+<td align="center">urban</td>
+<td align="center">Is hamlet mostly urban? (1 =
+yes, 0 = no)</td>
+</tr>
+<tr class="odd">
+<td align="center">pop</td>
+<td align="center">Hamlet population</td>
+</tr>
+<tr class="even">
+<td align="center">border</td>
+<td align="center">Distance to closest
+international border</td>
+</tr>
+<tr class="odd">
+<td align="center">dev_index</td>
+<td align="center">Development index (low to
+high)</td>
+</tr>
+<tr class="even">
+<td align="center">buddhist</td>
+<td align="center">Predominantly Buddhist hamlet?
+(1 = yes, 0 = no)</td>
+</tr>
+<tr class="odd">
+<td align="center">vietnamese</td>
+<td align="center">Predominantly Vietnamese
+hamlet? (1 = yes, 0 = no)</td>
+</tr>
+</tbody>
+</table>
+</div>

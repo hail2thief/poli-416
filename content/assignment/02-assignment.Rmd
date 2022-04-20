@@ -9,7 +9,7 @@ editor_options:
 menu:
   assignment:
     parent: Homeworks
-    weight: 1
+    weight: 2
 ---
 
 
