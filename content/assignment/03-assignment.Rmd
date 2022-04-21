@@ -27,7 +27,7 @@ Answer the questions (below), and keep track of your answers somewhere (a notepa
 ## The Vietnam War
 
 
-Here, you'll be working with hamlet level data on territorial control, selective violence, indiscriminate violence during the Vietnam War. Using the data (variable dictionary below), answer the following questions: 
+Here, you'll be working with hamlet level data on territorial control, selective violence, indiscriminate violence during the Vietnam War. Each row is a hamlet in a given month in the year 1969. Using the data (variable dictionary below), answer the following questions. **Note: for questions 1-7 below, just ignore the month variable**. 
 
 
 - Download this: <i class="fas fa-download"></i> [Vietnam HES data](/files/vietnam.csv)
@@ -37,19 +37,19 @@ Here, you'll be working with hamlet level data on territorial control, selective
 1. what was the Strategic Hamlet Program during the Vietnam War? Look it up, describe in two sentences. 
 
 
-2. How many bomb sorties were launched against the most attacked hamlet in Vietnam? 
+2. How many bomb sorties were launched against the most attacked hamlet in Vietnam? (Hint: think about what summary statistic you want to answer the question of "how many" -- it's not an average!). 
 
 
 
-3. Look at the percent of hamlets that are in each control category. Overall, who had more control, the rebels, or the government?  
+3. Look at how many hamlets that are in each control category. Overall, who had more control, the rebels, or the government?  
 
 
 
-4. about how many more bomb sorties were aimed at places that had full rebel control than places where the government only had partial control? 
+4. About how many more bomb sorties were aimed at places that had full rebel control than places where the government only had partial control? 
 
 
 
-5. Now, make a cross-tabulation of the control variable and the variable measuring selective violence. About how many cases of selective violence where there in hamlets where the government had full control? 
+5. About how many cases of selective violence where there in hamlets where the government had full control? 
 
 
 6. Where did rebels use more selective violence, where they had partial control or full control? And about how much more?
