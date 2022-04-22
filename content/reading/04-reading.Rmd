@@ -15,6 +15,21 @@ editor_options:
   chunk_output_type: console
 ---
 
+
+
+# Slides
+
+
+- [Insurgency slides](/slides/04-tactics.pdf)
+
+- [Recruitment slides](/slides/04-recruitment.pdf)
+
+
+
+
+# Readings
+
+
 [All readings can be accessed here.](https://www.dropbox.com/sh/pide0ytvjrnbp0q/AADaIbprAmBQERw4UwWleAVba?dl=0)
 
 ## Required
