@@ -27,7 +27,9 @@ Answer the questions (below), and keep track of your answers somewhere (a notepa
 ## The Vietnam War
 
 
-Here, you'll be working with hamlet level data on territorial control, selective violence, indiscriminate violence during the Vietnam War. Each row is a hamlet in a given month in the year 1969. Using the data (variable dictionary below), answer the following questions. **Note: for questions 1-7 below, just ignore the month variable**. 
+Here, you'll be working with hamlet level data on territorial control, selective violence, indiscriminate violence during the Vietnam War. Each row is a hamlet in a given month in the year 1969. Using the data (variable dictionary below), answer the following questions. 
+
+Note: in 2-7 below you'll need to find how many X (bombs, hamlets, etc.) **total** happened in some unit (e.g., hamlets, area of control, etc.). But remember you have multiple months of observations per unit. So you'll need to add up all the X (e.g., bombs) in the unit (e.g., hamlet) to answer the question.
 
 
 - Download this: <i class="fas fa-download"></i> [Vietnam HES data](/files/vietnam.csv)
