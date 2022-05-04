@@ -1,0 +1,111 @@
+---
+title: "Homework 4"
+type: docs
+output:
+  blogdown::html_page:
+    toc: true
+editor_options: 
+  chunk_output_type: console
+menu:
+  assignment:
+    parent: Homeworks
+    weight: 4
+---
+
+
+
+
+## Instructions
+
+
+
+Answer the questions (below), and keep track of your answers somewhere (a notepad?). You will input your answers into Canvas. **Figure out the answers *BEFORE* opening Canvas**, otherwise you'll run out of time. 
+
+
+
+## US Army Enlistment
+
+
+Let's look at this data which gives us county-level information on military service rates across the USA (variable dictionary below). 
+
+- Download this: <i class="fas fa-download"></i> [Military service data](/files/williams.csv)
+
+
+
+
+```{r, echo=FALSE,message=FALSE,warning=FALSE,results="asis"}
+library(tidyverse)
+library(pander)
+tribble(~Variable, ~Description, 
+        "fip", "ID for county",
+        "state", "Name of state",
+        "county", "Name of county",
+        "base", "Is there a military base in this county?\n(1 = yes, 0 = no)",
+        "ms_pre_2001", "Average num. of people in county who served in military (pre-2001)", 
+        "ms_post_2001", "Average num. of people in county who served in military (post-2001)", 
+        "pop2010", "County population",
+        "black_2010", "Percent of county who is Black",
+        "hispanic_2010", "Percent of county who is Hispanic",
+        "hs_grad_2010", "Percent of county with a high school degree",
+        "median_household_income_2010", "Median household income in county",
+        "unemployment_rate_2010", "Unemployment rate in county",
+        "poverty_2010", "Poverty rate in county") %>% 
+  pandoc.table()
+```
+
+
+
+1. Which county had the highest post-2001 military service? 
+
+
+
+2. A big problem with (1): that county might have the highest military service because many people enlisted there, **or** it might just be that there's a lot of people who live in that county and that's inflating the military service variable. Create a per-capita enlistment variable called `rate` that divides post-2001 enlistment by county population. Which county has the highest enlistment **rate**?
+
+
+3. What is the relationship between a county’s unemployment rate and its a military service? Plot them together (x-axis = unemployment rate) and add a trend line so you can see the general trend. Roughly, what is that trend? 
+
+
+4. Look at the military bases variable. How many military bases does the state with the most bases have? 
+
+
+
+## iCasualties data
+
+
+Let's look at this data on virtually all American casualties in the Iraq and Afghanistan wars (variable dictionary below). Each row here is a soldier who died in one of these two wars. 
+
+- Download this: <i class="fas fa-download"></i> [iCasualties data](/files/casualties.csv)
+
+
+5. Pick a random row/observation — look up the soldier online. What happened to this person? 
+
+
+6. About what percent of casualties are the result of non-hostile actions (things like accidents, friendly fire, etc.)? Look at the `source` variable. 
+
+
+7. What was the most common `cause` of death for US soldiers?
+
+
+8. do anything else with either dataset. Tell me what you did and what you found.
+
+
+```{r, echo=FALSE,message=FALSE,warning=FALSE,results="asis"}
+library(tidyverse)
+library(pander)
+tribble(~Variable, ~Description, 
+        "date", "Date of death",
+        "name", "Name of soldier",
+        "rank", "Rank of soldier",
+        "nationality", "Nationality of soldier",
+        "branch", "Branch of military",
+        "age", "Age at death",
+        "country", "Country (Iraq or Afghanistan)",
+        "province", "Province where soldier died",
+        "where", "City/locale where soldier died",
+        "source", "Source of death (hostile or non-hostile)",
+        "cause", "Cause of death",
+        "state", "Home state of soldier",
+        "city", "Home city/town of soldier",
+        "state_pop_2010", "Population in state (2010)") %>% 
+  pandoc.table()
+```

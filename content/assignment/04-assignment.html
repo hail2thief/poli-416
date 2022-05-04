@@ -1,0 +1,199 @@
+---
+title: "Homework 4"
+type: docs
+output:
+  blogdown::html_page:
+    toc: true
+editor_options: 
+  chunk_output_type: console
+menu:
+  assignment:
+    parent: Homeworks
+    weight: 4
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+<div id="TOC">
+<ul>
+<li><a href="#instructions">Instructions</a></li>
+<li><a href="#us-army-enlistment">US Army Enlistment</a></li>
+<li><a href="#icasualties-data">iCasualties data</a></li>
+</ul>
+</div>
+
+<div id="instructions" class="section level2">
+<h2>Instructions</h2>
+<p>Answer the questions (below), and keep track of your answers somewhere (a notepad?). You will input your answers into Canvas. <strong>Figure out the answers <em>BEFORE</em> opening Canvas</strong>, otherwise you’ll run out of time.</p>
+</div>
+<div id="us-army-enlistment" class="section level2">
+<h2>US Army Enlistment</h2>
+<p>Let’s look at this data which gives us county-level information on military service rates across the USA (variable dictionary below).</p>
+<ul>
+<li>Download this: <i class="fas fa-download"></i> <a href="/files/williams.csv">Military service data</a></li>
+</ul>
+<table style="width:89%;">
+<colgroup>
+<col width="43%" />
+<col width="45%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">Variable</th>
+<th align="center">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">fip</td>
+<td align="center">ID for county</td>
+</tr>
+<tr class="even">
+<td align="center">state</td>
+<td align="center">Name of state</td>
+</tr>
+<tr class="odd">
+<td align="center">county</td>
+<td align="center">Name of county</td>
+</tr>
+<tr class="even">
+<td align="center">base</td>
+<td align="center">Is there a military base in
+this county? (1 = yes, 0 = no)</td>
+</tr>
+<tr class="odd">
+<td align="center">ms_pre_2001</td>
+<td align="center">Average num. of people in
+county who served in military
+(pre-2001)</td>
+</tr>
+<tr class="even">
+<td align="center">ms_post_2001</td>
+<td align="center">Average num. of people in
+county who served in military
+(post-2001)</td>
+</tr>
+<tr class="odd">
+<td align="center">pop2010</td>
+<td align="center">County population</td>
+</tr>
+<tr class="even">
+<td align="center">black_2010</td>
+<td align="center">Percent of county who is Black</td>
+</tr>
+<tr class="odd">
+<td align="center">hispanic_2010</td>
+<td align="center">Percent of county who is
+Hispanic</td>
+</tr>
+<tr class="even">
+<td align="center">hs_grad_2010</td>
+<td align="center">Percent of county with a high
+school degree</td>
+</tr>
+<tr class="odd">
+<td align="center">median_household_income_2010</td>
+<td align="center">Median household income in
+county</td>
+</tr>
+<tr class="even">
+<td align="center">unemployment_rate_2010</td>
+<td align="center">Unemployment rate in county</td>
+</tr>
+<tr class="odd">
+<td align="center">poverty_2010</td>
+<td align="center">Poverty rate in county</td>
+</tr>
+</tbody>
+</table>
+<ol style="list-style-type: decimal">
+<li><p>Which county had the highest post-2001 military service?</p></li>
+<li><p>A big problem with (1): that county might have the highest military service because many people enlisted there, <strong>or</strong> it might just be that there’s a lot of people who live in that county and that’s inflating the military service variable. Create a per-capita enlistment variable called <code>rate</code> that divides post-2001 enlistment by county population. Which county has the highest enlistment <strong>rate</strong>?</p></li>
+<li><p>What is the relationship between a county’s unemployment rate and its a military service? Plot them together (x-axis = unemployment rate) and add a trend line so you can see the general trend. Roughly, what is that trend?</p></li>
+<li><p>Look at the military bases variable. How many military bases does the state with the most bases have?</p></li>
+</ol>
+</div>
+<div id="icasualties-data" class="section level2">
+<h2>iCasualties data</h2>
+<p>Let’s look at this data on virtually all American casualties in the Iraq and Afghanistan wars (variable dictionary below). Each row here is a soldier who died in one of these two wars.</p>
+<ul>
+<li>Download this: <i class="fas fa-download"></i> <a href="/files/casualties.csv">iCasualties data</a></li>
+</ul>
+<ol start="5" style="list-style-type: decimal">
+<li><p>Pick a random row/observation — look up the soldier online. What happened to this person?</p></li>
+<li><p>About what percent of casualties are the result of non-hostile actions (things like accidents, friendly fire, etc.)? Look at the <code>source</code> variable.</p></li>
+<li><p>What was the most common <code>cause</code> of death for US soldiers?</p></li>
+<li><p>do anything else with either dataset. Tell me what you did and what you found.</p></li>
+</ol>
+<table style="width:69%;">
+<colgroup>
+<col width="23%" />
+<col width="45%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">Variable</th>
+<th align="center">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">date</td>
+<td align="center">Date of death</td>
+</tr>
+<tr class="even">
+<td align="center">name</td>
+<td align="center">Name of soldier</td>
+</tr>
+<tr class="odd">
+<td align="center">rank</td>
+<td align="center">Rank of soldier</td>
+</tr>
+<tr class="even">
+<td align="center">nationality</td>
+<td align="center">Nationality of soldier</td>
+</tr>
+<tr class="odd">
+<td align="center">branch</td>
+<td align="center">Branch of military</td>
+</tr>
+<tr class="even">
+<td align="center">age</td>
+<td align="center">Age at death</td>
+</tr>
+<tr class="odd">
+<td align="center">country</td>
+<td align="center">Country (Iraq or Afghanistan)</td>
+</tr>
+<tr class="even">
+<td align="center">province</td>
+<td align="center">Province where soldier died</td>
+</tr>
+<tr class="odd">
+<td align="center">where</td>
+<td align="center">City/locale where soldier died</td>
+</tr>
+<tr class="even">
+<td align="center">source</td>
+<td align="center">Source of death (hostile or
+non-hostile)</td>
+</tr>
+<tr class="odd">
+<td align="center">cause</td>
+<td align="center">Cause of death</td>
+</tr>
+<tr class="even">
+<td align="center">state</td>
+<td align="center">Home state of soldier</td>
+</tr>
+<tr class="odd">
+<td align="center">city</td>
+<td align="center">Home city/town of soldier</td>
+</tr>
+<tr class="even">
+<td align="center">state_pop_2010</td>
+<td align="center">Population in state (2010)</td>
+</tr>
+</tbody>
+</table>
+</div>
