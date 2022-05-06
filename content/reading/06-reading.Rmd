@@ -21,7 +21,8 @@ editor_options:
 
 - [<i class="fa fa-external-link-square-alt" aria-hidden="true"></i> Counterinsurgency field manual](https://www.hsdl.org/?abstract&did=468442), read section titled: *ASPECTS OF COUNTERINSURGENCY* (Pages 1:19 through 1:29, look at bottom-right of page)
 - [@siegel:2011]
-- [@bdm:dickson:2007]
+- ~~[@bdm:dickson:2007]~~
+- [@carey:mitchell:2017]
 
 
 
@@ -30,5 +31,6 @@ editor_options:
 - [@valentino:etal:2004]
 - [@berman:etal:2011]
 - [@condra:shapiro:2012]
-
+- [@bdm:2005a]
+- [@bdm:2005]
 
