@@ -1,0 +1,104 @@
+---
+title: "Homework 5"
+type: docs
+output:
+  blogdown::html_page:
+    toc: true
+editor_options: 
+  chunk_output_type: console
+menu:
+  assignment:
+    parent: Homeworks
+    weight: 5
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+<div id="TOC">
+<ul>
+<li><a href="#instructions">Instructions</a></li>
+<li><a href="#displacement-in-colombia">Displacement in Colombia</a></li>
+</ul>
+</div>
+
+<div id="instructions" class="section level2">
+<h2>Instructions</h2>
+<p>Answer the questions (below), and keep track of your answers somewhere (a notepad?). You will input your answers into Canvas. <strong>Figure out the answers <em>BEFORE</em> opening Canvas</strong>, otherwise you’ll run out of time.</p>
+</div>
+<div id="displacement-in-colombia" class="section level2">
+<h2>Displacement in Colombia</h2>
+<p>Let’s look at this survey data from Colombia, which captures responses from people living in very rural areas that have been affected by the conflict, and includes both people who were and weren’t displaced during the war (variable dictionary below). Every row here is a person who completed the survey.</p>
+<ul>
+<li>Download this: <i class="fas fa-download"></i> <a href="/files/displace.csv">Displacement survey</a></li>
+</ul>
+<table style="width:67%;">
+<colgroup>
+<col width="20%" />
+<col width="45%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">Variable</th>
+<th align="center">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">sex</td>
+<td align="center">Respondent sex</td>
+</tr>
+<tr class="even">
+<td align="center">hhsize</td>
+<td align="center">Number of people in household</td>
+</tr>
+<tr class="odd">
+<td align="center">age_num</td>
+<td align="center">Respondent age</td>
+</tr>
+<tr class="even">
+<td align="center">displace</td>
+<td align="center">Was respondent displaced? (1 =
+yes, 0 = no)</td>
+</tr>
+<tr class="odd">
+<td align="center">yrs_dis</td>
+<td align="center">Number of years that
+respondent has been displaced</td>
+</tr>
+<tr class="even">
+<td align="center">other_victim</td>
+<td align="center">Was respondent victim of other
+violence beside displacement?
+(1 = yes, 0 = no)</td>
+</tr>
+<tr class="odd">
+<td align="center">endorse_coca</td>
+<td align="center">Should coca production be
+legalized?</td>
+</tr>
+<tr class="even">
+<td align="center">rest_yn</td>
+<td align="center">Is respondent seeking
+restitution of property lost
+during diplacement (1 = yes, 0
+= no)?</td>
+</tr>
+<tr class="odd">
+<td align="center">dis_return</td>
+<td align="center">Has respondent returned to
+community they were displaced
+from? (1 = yes, 0 = no)</td>
+</tr>
+</tbody>
+</table>
+<ol style="list-style-type: decimal">
+<li><p>How many years has the average person in the sample been displaced?</p></li>
+<li><p>How large (number of people) is the largest household in the sample?</p></li>
+<li><p>What is the relationship between how old a respondent is and how long they have been displaced? Make a scatterplot (points) with respondent age on x-axis and years since displacement on the y axis, and add a trend line. Save the plot, you will submit it.</p></li>
+<li><p>In general, people who are older tend to have been displaced _____</p></li>
+<li><p>About what percent of respondents who were displaced have <strong>ALSO</strong> been the victim of another form of violence beside displacement? Calculate the percent of respondents who have been victims of other forms of violence, filtering so you only look at respondents who have been displaced.</p></li>
+<li><p>About what percent of the sample would favor the legalization of coca production? Take “strong approve” and “approve” to both mean they would favor legalization.</p></li>
+<li><p>About what percent of respondents are seeking restitution of their lost property?</p></li>
+<li><p>Now, compare the proportion of men and women who have managed to return to their community of origin. About how much more likely (how many percentage points more) are men to have returned to their origin community than women?</p></li>
+</ol>
+</div>

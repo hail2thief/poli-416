@@ -39,10 +39,11 @@ lessons:
     reading: "06-reading"
     assignment: "04-assignment"
   
-  - title: "Why displacement? Case study of Colombia"
+  - title: 'Why displacement? Case study of Colombia<br><i class="fas fa-star"></i> **Assignment 5**'
     date: "W7 : May 10 - May 12"
     class: 
     reading: "07-reading"
+    assignment: "05-assignment"
   
   - title: "When do civilians resist? Case study of Peru"
     date: "W8 : May 17 - May 19"
