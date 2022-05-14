@@ -16,6 +16,15 @@ editor_options:
 ---
 
 
+# Slides
+
+
+- [Tuesday slides](/slides/06-colombia-I.pdf)
+- [Thursday slides](/slides/06-colombia-II.pdf)
+
+
+# Reading
+
 [All readings can be accessed here.](https://www.dropbox.com/sh/pide0ytvjrnbp0q/AADaIbprAmBQERw4UwWleAVba?dl=0)
 
 ## Required
