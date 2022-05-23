@@ -15,6 +15,16 @@ editor_options:
   chunk_output_type: console
 ---
 
+
+# Slides
+
+
+- [Tuesday slides](/slides/07-peru-I.pdf)
+- [Thursday slides](/slides/07-peru-II.pdf)
+
+
+# Reading
+
 [All readings can be accessed here.](https://www.dropbox.com/sh/pide0ytvjrnbp0q/AADaIbprAmBQERw4UwWleAVba?dl=0)
 
 ## Required
