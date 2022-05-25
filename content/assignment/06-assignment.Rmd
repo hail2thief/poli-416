@@ -1,5 +1,5 @@
 ---
-title: "Homework 5"
+title: "Homework 6"
 type: docs
 output:
   blogdown::html_page:
@@ -9,7 +9,7 @@ editor_options:
 menu:
   assignment:
     parent: Homeworks
-    weight: 5
+    weight: 6
 ---
 
 
