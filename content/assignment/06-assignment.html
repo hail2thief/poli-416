@@ -19,7 +19,7 @@ menu:
 <li><a href="#instructions">Instructions</a>
 <ul>
 <li><a href="#task-1-elephant-in-the-room">Task 1: Elephant in the room</a></li>
-<li><a href="#task-2-corruption-and-crime">Task 2: corruption and crime</a></li>
+<li><a href="#task-2-catching-corruption">Task 2: Catching corruption</a></li>
 </ul></li>
 </ul>
 </div>
@@ -29,7 +29,7 @@ menu:
 <p>Answer the questions (below), and keep track of your answers somewhere (a notepad?). You will input your answers into Canvas. <strong>Figure out the answers <em>BEFORE</em> opening Canvas</strong>, otherwise you’ll run out of time.</p>
 <div id="task-1-elephant-in-the-room" class="section level3">
 <h3>Task 1: Elephant in the room</h3>
-<p>Look at the political cartoon below, from 1996, depicting Colombian presidential candidate Ernesto Samper. Do some digging around online, and in 3-5 sentences discuss the meaning and intention of each cartoon. Some guiding questions:</p>
+<p>Look at the political cartoon below, from 1996, depicting Colombian presidential candidate Ernesto Samper. Do some digging around online, and in 3-5 sentences (TOTAL) discuss the meaning and intention of <strong>each</strong> cartoon. Some guiding questions:</p>
 <ul>
 <li>What is each cartoon referencing? What point is the author trying to emphasize in each cartoon?</li>
 <li>Why an elephant? Why is it behind Samper?</li>
@@ -41,72 +41,32 @@ menu:
 <img src="/images/samper-y-el-elefante.jpg" alt="" />
 <p class="caption">Cartoon by Oscar Osuna, El Espectador, Bogotá, febrero 16 de 1996, Biblioteca Luis Ángel Arango</p>
 </div>
+<p><img src="/images/vladdo-samper.jpg" width="700" height="790"></p>
+<p>Cartoon by Vladimir Florez (“Vladdo”), 1996</p>
+<ol style="list-style-type: decimal">
+<li><p>Describe first cartoon.</p></li>
+<li><p>Explain second cartoon.</p></li>
+</ol>
 </div>
-<div id="task-2-corruption-and-crime" class="section level3">
-<h3>Task 2: corruption and crime</h3>
-<p>Let’s look at this survey data from Colombia, which captures responses from people living in very rural areas that have been affected by the conflict, and includes both people who were and weren’t displaced during the war (variable dictionary below). Every row here is a person who completed the survey.</p>
+<div id="task-2-catching-corruption" class="section level3">
+<h3>Task 2: Catching corruption</h3>
+<p>Here we will use a dataset to learn about detecting fraud/corruption in data. This dataset is payment data of a division of a West Coast utility company. The variable of interest is <strong>Amount</strong>, which is the amount the company paid for different services.</p>
 <ul>
-<li>Download this: <i class="fas fa-download"></i> <a href="/files/displace.csv">Displacement survey</a></li>
+<li>Download this: <i class="fas fa-download"></i> <a href="/files/benford.csv">Benford’s Law data</a></li>
 </ul>
-<table style="width:67%;">
-<colgroup>
-<col width="20%" />
-<col width="45%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="center">Variable</th>
-<th align="center">Description</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="center">sex</td>
-<td align="center">Respondent sex</td>
-</tr>
-<tr class="even">
-<td align="center">hhsize</td>
-<td align="center">Number of people in household</td>
-</tr>
-<tr class="odd">
-<td align="center">age_num</td>
-<td align="center">Respondent age</td>
-</tr>
-<tr class="even">
-<td align="center">displace</td>
-<td align="center">Was respondent displaced? (1 =
-yes, 0 = no)</td>
-</tr>
-<tr class="odd">
-<td align="center">yrs_dis</td>
-<td align="center">Number of years that
-respondent has been displaced</td>
-</tr>
-<tr class="even">
-<td align="center">other_victim</td>
-<td align="center">Was respondent victim of other
-violence beside displacement?
-(1 = yes, 0 = no)</td>
-</tr>
-<tr class="odd">
-<td align="center">endorse_coca</td>
-<td align="center">Should coca production be
-legalized?</td>
-</tr>
-<tr class="even">
-<td align="center">rest_yn</td>
-<td align="center">Is respondent seeking
-restitution of property lost
-during diplacement (1 = yes, 0
-= no)?</td>
-</tr>
-<tr class="odd">
-<td align="center">dis_return</td>
-<td align="center">Has respondent returned to
-community they were displaced
-from? (1 = yes, 0 = no)</td>
-</tr>
-</tbody>
-</table>
+<p>State corruption plays a big role in the success of criminal organizations. Some of this corruption involves data and numbers (e.g., payments for services, money laundering, etc.). What tools do regulators have to detect corruption and fraud in data? One simple (but kinda clever) tool relies on <em>Benford’s Law</em>.</p>
+<ol start="3" style="list-style-type: decimal">
+<li>Google what Benford’s Law is and it’s role in the detection of fraud. In your own words, briefly describe how someone could use Benford’s Law to detect irregulariities in data.</li>
+</ol>
+<p>Let’s use Benford’s Law on the dataset above. Examples of Benford’s Law usually rely on the distribution of the first digit in a number, but you can also use the first two digits. With the dataset:</p>
+<ul>
+<li><p>Create a column called <code>first_digits</code> that shows the first two digits in the <code>Amount</code> column. You will need to use the function <code>LEFT()</code> (look it up!).</p></li>
+<li><p>Next, using a pivot table, COUNT the number of times each pair of first digits appears in the dataset. This is identical to what you did before where you tallied ethnic identity categories.</p></li>
+</ul>
+<ol start="4" style="list-style-type: decimal">
+<li><p>How many times was there an amount that began with the digits “35”?</p></li>
+<li><p>Finally, make a barplot with the digits on the x-axis and the number of times each digit appears on the y-axis. It should <em>mostly</em> (but not quite) look like the Benford’s Law distribution. Save this – you will submit it.</p></li>
+<li><p>Eyeball the plot: there is a point near the middle of the distribution that clearly violates Benford’s Law – it’s a pair of digits that is present an abnormal amount of times in the data. What pair of digits is it? Write them as a number (e.g., 23).</p></li>
+</ol>
 </div>
 </div>

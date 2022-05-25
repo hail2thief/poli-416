@@ -28,7 +28,7 @@ Answer the questions (below), and keep track of your answers somewhere (a notepa
 ### Task 1: Elephant in the room
 
 
-Look at the political cartoon below, from 1996, depicting Colombian presidential candidate Ernesto Samper. Do some digging around online, and in 3-5 sentences discuss the meaning and intention of each cartoon. Some guiding questions:
+Look at the political cartoon below, from 1996, depicting Colombian presidential candidate Ernesto Samper. Do some digging around online, and in 3-5 sentences (TOTAL) discuss the meaning and intention of **each** cartoon. Some guiding questions:
 
 - What is each cartoon referencing? What point is the author trying to emphasize in each cartoon?
 - Why an elephant? Why is it behind Samper? 
@@ -39,32 +39,45 @@ Look at the political cartoon below, from 1996, depicting Colombian presidential
 ![Cartoon by Oscar Osuna, El Espectador, Bogotá, febrero 16 de 1996, Biblioteca Luis Ángel Arango](/images/samper-y-el-elefante.jpg)
 
 
+<img src="/images/vladdo-samper.jpg" width="700" height="790">
 
-
-### Task 2: corruption and crime
-
-
-Let's look at this survey data from Colombia, which captures responses from people living in very rural areas that have been affected by the conflict, and includes both people who were and weren't displaced during the war (variable dictionary below). Every row here is a person who completed the survey.
-
-- Download this: <i class="fas fa-download"></i> [Displacement survey](/files/displace.csv)
+Cartoon by Vladimir Florez ("Vladdo"), 1996
 
 
 
+1. Describe first cartoon. 
 
-```{r, echo=FALSE,message=FALSE,warning=FALSE,results="asis"}
-library(tidyverse)
-library(pander)
-tribble(~Variable, ~Description, 
-        "sex", "Respondent sex",
-        "hhsize", "Number of people in household",
-        "age_num", "Respondent age",
-        "displace", "Was respondent displaced?\n(1 = yes, 0 = no)",
-        "yrs_dis", "Number of years that respondent has been displaced",
-        "other_victim", "Was respondent victim of other violence beside displacement?\n(1 = yes, 0 = no)",
-        "endorse_coca", "Should coca production be legalized?",
-        "rest_yn", "Is respondent seeking restitution of property lost during diplacement\n(1 = yes, 0 = no)?",
-        "dis_return", "Has respondent returned to community they were displaced from?\n(1 = yes, 0 = no)") %>% 
-  pandoc.table()
-```
 
+2. Explain second cartoon. 
+
+
+
+### Task 2: Catching corruption
+
+
+Here we will use a dataset to learn about detecting fraud/corruption in data. This dataset is payment data of a division of a West Coast utility company. The variable of interest is **Amount**, which is the amount the company paid for different services. 
+
+
+- Download this: <i class="fas fa-download"></i> [Benford's Law data](/files/benford.csv)
+
+
+State corruption plays a big role in the success of criminal organizations. Some of this corruption involves data and numbers (e.g., payments for services, money laundering, etc.). What tools do regulators have to detect corruption and fraud in data? One simple (but kinda clever) tool relies on *Benford's Law*. 
+
+
+3. Google what Benford's Law is and it's role in the detection of fraud. In your own words, briefly describe how someone could use Benford's Law to detect irregulariities in data. 
+
+
+Let's use Benford's Law on the dataset above. Examples of Benford's Law usually rely on the distribution of the first digit in a number, but you can also use the first two digits. With the dataset:
+
+- Create a column called `first_digits` that shows the first two digits in the `Amount` column. You will need to use the function `LEFT()` (look it up!). 
+
+- Next, using a pivot table, COUNT the number of times each pair of first digits appears in the dataset. This is identical to what you did before where you tallied ethnic identity categories. 
+
+4. How many times was there an amount that began with the digits "35"?
+
+
+5. Finally, make a barplot with the digits on the x-axis and the number of times each digit appears on the y-axis. It should *mostly* (but not quite) look like the Benford's Law distribution. Save this -- you will submit it. 
+
+
+6. Eyeball the plot: there is a point near the middle of the distribution that clearly violates Benford's Law -- it's a pair of digits that is present an abnormal amount of times in the data. What pair of digits is it? Write them as a number (e.g., 23). 
 
