@@ -21,6 +21,5 @@ editor_options:
 
 ## Required
 
-- [@walter:etal:2021]
-- [@mattes:savun:2010]
-- [@sambanis:schulhofer:2009]
+- [@atran:axelrod:2008]
+- [@matanock:garcia:2017]
