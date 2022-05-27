@@ -15,6 +15,15 @@ editor_options:
   chunk_output_type: console
 ---
 
+
+# Slides
+
+
+- [Week's slides (both days)](/slides/08-crime-I.pdf)
+
+
+# Reading
+
 [All readings can be accessed here.](https://www.dropbox.com/sh/pide0ytvjrnbp0q/AADaIbprAmBQERw4UwWleAVba?dl=0)
 
 
