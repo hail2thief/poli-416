@@ -60,6 +60,7 @@ lessons:
     date: "W10 : May 31 - Jun 2"
     class: 
     reading: "10-reading"
+    assignment: "07-assignment"
     
   - title: '<i class="fas fa-star"></i> **Final Exam**'
     date: "Wed, June 8 10:30AM-12:30PM"
