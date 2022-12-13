@@ -11,19 +11,19 @@ lessons:
     date: "W2 : Apr 5 - Apr 7"
     class: "02-class"
     reading: "02-reading"
-    assignment: "01-assignment"
+    #assignment: "01-assignment"
   
   - title: 'Why civil war? Looting and feasibility<br><i class="fas fa-star"></i> **Assignment 2**'
     date: "W3 : Apr 12 - Apr 14"
     class: "03-class"
     reading: "03-reading"
-    assignment: "02-assignment"
+    #assignment: "02-assignment"
   
   - title: 'How are wars fought? Insurgency<br><i class="fas fa-star"></i> **Assignment 3**'
     date: "W4 : Apr 19 - Apr 21"
     class: 
     reading: "04-reading"
-    assignment: "03-assignment"
+    #assignment: "03-assignment"
   
   - title: "Film + midterm"
     date: "W5 : Apr 26 - Apr 28"
@@ -37,13 +37,13 @@ lessons:
     date: "W6 : May 3 - May 5"
     class: 
     reading: "06-reading"
-    assignment: "04-assignment"
+    #assignment: "04-assignment"
   
   - title: 'Why displacement? Case study of Colombia<br><i class="fas fa-star"></i> **Assignment 5**'
     date: "W7 : May 10 - May 12"
     class: 
     reading: "07-reading"
-    assignment: "05-assignment"
+    #assignment: "05-assignment"
   
   - title: "When do civilians resist? Case study of Peru"
     date: "W8 : May 17 - May 19"
@@ -54,13 +54,13 @@ lessons:
     date: "W9 : May 24 - May 26"
     class: 
     reading: "09-reading"
-    assignment: "06-assignment"
+    #assignment: "06-assignment"
   
   - title: 'How do wars end? Barriers to negotiation<br><i class="fas fa-star"></i> **Assignment 7**'
     date: "W10 : May 31 - Jun 2"
     class: 
     reading: "10-reading"
-    assignment: "07-assignment"
+    #assignment: "07-assignment"
     
   - title: '<i class="fas fa-star"></i> **Final Exam**'
     date: "Wed, June 8 10:30AM-12:30PM"

@@ -13,75 +13,75 @@ output:
 ## Things you should know for the Midterm
 
 
-- ...how the new wave of Jihadi groups are similar and different to other armed actors in the past
-- ...the three different forms of warfare: conventional, SNC, irregular, and what each "looks" like
-- ...the role of the Cold War in how civil wars are fought, and the role of the superpowers in that era
-- ...what the "new" vs. "old" civil war debate was about
-- ...the different *kinds* of grievances that motivate violence
-- ...how *anomie* and changing demographics can contribute to violence
-- ...why identity and ethnicity can become more or less salient in different contexts, and the implications salience has to violence
-- ...what the **security dilemma** is and how it explains spirals of violence between groups
-- ...the ways in which ethnic wars are different from non-ethnic wars
-- ...why identity groups, and ethnic groups in particular, might be especially good at mobilizing for war
-- ...how colonial rule can exacerbate ethnic tensions and produce conflict
-- ...how Sunni and Shi'a relations were shaped by the US occupation, and why the US feared holding elections (the Cockburn reading)
-- ...the relationship between resources and conflict, and the characteristics that make some resources particularly likely to generate conflict
-- ...what the greed vs. grievance debate is about
-- ...how resource *lootability* and *commodity shocks* can makes conflict more or less likely, and how *opportunity costs* are part of the story
-- ...how different elements of geography influences civil war
-- ...how terrain, identity, and grievances can interact to generate conflict
-- ...why it is so difficult, based on the factors that predict where violence occurs, to determine whether greed or grievance is what motivates rebel actors
-- ...the difference between selective and indiscriminate violence, the relative efficacy of each, and the factors that produce each kind
-- ...the role of collaboration and denunciation in how civil wars are fought
-- ...how territorial control, collaboration, and denunciation combine to produce either selective or indiscriminate violence
-- ...the dilemmas rebels face in recruiting new members, and the strategies they pursue to recruit
-- ...the relationship between natural resources endowments, rebel recruitment, and violence
-- ...the relationship between social cohesion and wartime sexual violence
+<!-- - ...how the new wave of Jihadi groups are similar and different to other armed actors in the past -->
+<!-- - ...the three different forms of warfare: conventional, SNC, irregular, and what each "looks" like -->
+<!-- - ...the role of the Cold War in how civil wars are fought, and the role of the superpowers in that era -->
+<!-- - ...what the "new" vs. "old" civil war debate was about -->
+<!-- - ...the different *kinds* of grievances that motivate violence -->
+<!-- - ...how *anomie* and changing demographics can contribute to violence -->
+<!-- - ...why identity and ethnicity can become more or less salient in different contexts, and the implications salience has to violence -->
+<!-- - ...what the **security dilemma** is and how it explains spirals of violence between groups -->
+<!-- - ...the ways in which ethnic wars are different from non-ethnic wars -->
+<!-- - ...why identity groups, and ethnic groups in particular, might be especially good at mobilizing for war -->
+<!-- - ...how colonial rule can exacerbate ethnic tensions and produce conflict -->
+<!-- - ...how Sunni and Shi'a relations were shaped by the US occupation, and why the US feared holding elections (the Cockburn reading) -->
+<!-- - ...the relationship between resources and conflict, and the characteristics that make some resources particularly likely to generate conflict -->
+<!-- - ...what the greed vs. grievance debate is about -->
+<!-- - ...how resource *lootability* and *commodity shocks* can makes conflict more or less likely, and how *opportunity costs* are part of the story -->
+<!-- - ...how different elements of geography influences civil war -->
+<!-- - ...how terrain, identity, and grievances can interact to generate conflict -->
+<!-- - ...why it is so difficult, based on the factors that predict where violence occurs, to determine whether greed or grievance is what motivates rebel actors -->
+<!-- - ...the difference between selective and indiscriminate violence, the relative efficacy of each, and the factors that produce each kind -->
+<!-- - ...the role of collaboration and denunciation in how civil wars are fought -->
+<!-- - ...how territorial control, collaboration, and denunciation combine to produce either selective or indiscriminate violence -->
+<!-- - ...the dilemmas rebels face in recruiting new members, and the strategies they pursue to recruit -->
+<!-- - ...the relationship between natural resources endowments, rebel recruitment, and violence -->
+<!-- - ...the relationship between social cohesion and wartime sexual violence -->
 
 
-## Things you should know for the Final
+<!-- ## Things you should know for the Final -->
 
 
-- ...the relevant characteristics of insurgency, how insurgents fight
-- ...the different approaches to counterinsurgency
-- ...what the USAF counterinsurgency manual recommends concerning the use of force, the importance of legitimacy, the key paradoxes of counterinsurgency, why sharing of risk with civilians is important
-- ...why a counterinsurgents aims in wartime are often at odds
-- ...why states might be at a disadvantage when it comes to the backlash from civilian casualties
-- ...the tradeoffs involved with maintaining high standards of troop quality, the tools the military has to expand its troop supply
-- ...what "hearts and minds" approaches are and how insurgents adapt to these approaches
-- ...the major puzzle in the literature concerning decapitation
-- ...what Siegel argues the effects of repression will depend on
-- ...how domestic audiences can shape (and distort) how states fight insurgencies
-- ...what pro-government militias are, the trade-offs states face in relying on them, and the difference between informal and semi-formal militias
-- ...roughly, what the Strategic Hamlet Program was during the Vietnam War
-- ...from the homework, what the most common cause of death was for US soldiers in Iraq/Afghanistan
-- ...how drone attacks changed over the course of the war in Afghanistan and the consequences of that change (according to the NYT podcast we listened to)
-- ...how land access, land conflicts, and land inequality figure into the Colombian conflict
-- ...roughy speaking, the broad origins of the guerrillas and paramilitaries in Colombia
-- ...the role of the coca trade in the Colombian conflict
-- ...the broad categories of displacement, and broad patterns of displacement in the world (e.g., which form is most common)
-- ...why return is so difficult for the displaced
-- ...the distinction Steele draws between strategic and "by-product" displacement, and her argument as to why rebels displace
-- ...the three displacement strategies according to Lichtenheld, and why combatants use each strategy
-- ...how forced relocation can serve a "signaling" purpose in war
-- ...how displacement can be motivated by wartime opportunism
-- ...what rebel ideology is, what functions it serves, how it shapes violence, why groups develop ideologies, and the major wartime ideologies in the civil war literature
-- ...what the "cause" versus "instrumental" debate is with respect to ideology in war
-- ...how the "cause" versus "instrumental" debate plays out in the Buffalo shooter's manifesto (class discussion)
-- ...broady speaking, the Shining Path's ideology and why it was (sometimes) mismatched for Peruvian society
-- ...what civilian support for SP looked like
-- ...why civilians sometimes formed rondas campesinas in Peru
-- ...how La Serna describes SP attempts to win over the two towns in his book, why things go well in one place (but not the other)
-- ...how Benford's Law is used in fraud detection (homework)
-- ...the countries that constitute the Northern Triangle and why there is so much interest in this subregion
-- ...the three factors in Yashar's book that explain high levels of violence in Central America; how Yashar applies these three factors in Guatemala and Nicaragua
-- ...the origin, destination, and general route(s) drugs move through in the Americas; also how these routes have changed over time
-- ...the problem with the quality of data that we have on drug routes
-- ...how to compare and contrast the quality of the state (esp. the police, courts, prisons) in Guatemala and Nicaragua; how civilians respond to weak police capacity
-- ...how the legacies of civil wars in Guatemala and Nicaragua led the country on different paths when it comes to crime and violence
-- ...what the cost of war implies about the incentive for both sides to reach a peaceful agreement
-- ...what commitment and information problems are relevant in conflict resolution and how agreements are typically designed to reduce these problems
-- ...the trade-off in who to include in the negotiating table and the debate over whether to encourage the public to participate in peace processes versus simply relying on elite bargains
-- ...the policy provisions typically included in peace agreements, and the general debate/trade-offs involved in those provisions
-- ...Axelrod and Atran's claims about Sacred Values, their role in negotiations, and their recommendations for negotiators working on these issues
-- ...the general story of the peace process in Colombia, the referendum, how it became politicized, why Matanock and Garcia argue that it failed, and what they recommend based on that experience
+<!-- - ...the relevant characteristics of insurgency, how insurgents fight -->
+<!-- - ...the different approaches to counterinsurgency -->
+<!-- - ...what the USAF counterinsurgency manual recommends concerning the use of force, the importance of legitimacy, the key paradoxes of counterinsurgency, why sharing of risk with civilians is important -->
+<!-- - ...why a counterinsurgents aims in wartime are often at odds -->
+<!-- - ...why states might be at a disadvantage when it comes to the backlash from civilian casualties -->
+<!-- - ...the tradeoffs involved with maintaining high standards of troop quality, the tools the military has to expand its troop supply -->
+<!-- - ...what "hearts and minds" approaches are and how insurgents adapt to these approaches -->
+<!-- - ...the major puzzle in the literature concerning decapitation -->
+<!-- - ...what Siegel argues the effects of repression will depend on -->
+<!-- - ...how domestic audiences can shape (and distort) how states fight insurgencies -->
+<!-- - ...what pro-government militias are, the trade-offs states face in relying on them, and the difference between informal and semi-formal militias -->
+<!-- - ...roughly, what the Strategic Hamlet Program was during the Vietnam War -->
+<!-- - ...from the homework, what the most common cause of death was for US soldiers in Iraq/Afghanistan -->
+<!-- - ...how drone attacks changed over the course of the war in Afghanistan and the consequences of that change (according to the NYT podcast we listened to) -->
+<!-- - ...how land access, land conflicts, and land inequality figure into the Colombian conflict -->
+<!-- - ...roughy speaking, the broad origins of the guerrillas and paramilitaries in Colombia -->
+<!-- - ...the role of the coca trade in the Colombian conflict -->
+<!-- - ...the broad categories of displacement, and broad patterns of displacement in the world (e.g., which form is most common) -->
+<!-- - ...why return is so difficult for the displaced -->
+<!-- - ...the distinction Steele draws between strategic and "by-product" displacement, and her argument as to why rebels displace -->
+<!-- - ...the three displacement strategies according to Lichtenheld, and why combatants use each strategy -->
+<!-- - ...how forced relocation can serve a "signaling" purpose in war -->
+<!-- - ...how displacement can be motivated by wartime opportunism -->
+<!-- - ...what rebel ideology is, what functions it serves, how it shapes violence, why groups develop ideologies, and the major wartime ideologies in the civil war literature -->
+<!-- - ...what the "cause" versus "instrumental" debate is with respect to ideology in war -->
+<!-- - ...how the "cause" versus "instrumental" debate plays out in the Buffalo shooter's manifesto (class discussion) -->
+<!-- - ...broady speaking, the Shining Path's ideology and why it was (sometimes) mismatched for Peruvian society -->
+<!-- - ...what civilian support for SP looked like -->
+<!-- - ...why civilians sometimes formed rondas campesinas in Peru -->
+<!-- - ...how La Serna describes SP attempts to win over the two towns in his book, why things go well in one place (but not the other) -->
+<!-- - ...how Benford's Law is used in fraud detection (homework) -->
+<!-- - ...the countries that constitute the Northern Triangle and why there is so much interest in this subregion -->
+<!-- - ...the three factors in Yashar's book that explain high levels of violence in Central America; how Yashar applies these three factors in Guatemala and Nicaragua -->
+<!-- - ...the origin, destination, and general route(s) drugs move through in the Americas; also how these routes have changed over time -->
+<!-- - ...the problem with the quality of data that we have on drug routes -->
+<!-- - ...how to compare and contrast the quality of the state (esp. the police, courts, prisons) in Guatemala and Nicaragua; how civilians respond to weak police capacity -->
+<!-- - ...how the legacies of civil wars in Guatemala and Nicaragua led the country on different paths when it comes to crime and violence -->
+<!-- - ...what the cost of war implies about the incentive for both sides to reach a peaceful agreement -->
+<!-- - ...what commitment and information problems are relevant in conflict resolution and how agreements are typically designed to reduce these problems -->
+<!-- - ...the trade-off in who to include in the negotiating table and the debate over whether to encourage the public to participate in peace processes versus simply relying on elite bargains -->
+<!-- - ...the policy provisions typically included in peace agreements, and the general debate/trade-offs involved in those provisions -->
+<!-- - ...Axelrod and Atran's claims about Sacred Values, their role in negotiations, and their recommendations for negotiators working on these issues -->
+<!-- - ...the general story of the peace process in Colombia, the referendum, how it became politicized, why Matanock and Garcia argue that it failed, and what they recommend based on that experience -->
