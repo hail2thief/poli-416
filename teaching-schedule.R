@@ -4,8 +4,8 @@ library(lubridate)
 library(tidyverse)
 
 # class start date
-schedule = tibble(dates = seq(from = ymd("2022-03-28"), 
-                              to = ymd("2022-06-09"),
+schedule = tibble(dates = seq(from = ymd("2023-01-10"), 
+                              to = ymd("2023-03-17"),
                               by = 'days'), 
                   day = wday(dates, 
                              label = TRUE)) %>% 
@@ -14,7 +14,7 @@ schedule = tibble(dates = seq(from = ymd("2022-03-28"),
 # format for schedule.yaml
 schedForm = schedule %>% 
   # get week
-  mutate(week = isoweek(dates) - 12) %>% 
+  mutate(week = isoweek(dates) - 1) %>% 
   # get nice date format
   mutate(dates = paste0(month(dates, abbr = TRUE, label = TRUE), " ",
                         day(dates))) %>% 

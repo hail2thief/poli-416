@@ -26,21 +26,18 @@ library(pander)
 This is an undergraduate course on the study of civil wars, political violence, and other forms of armed conflict. Each week will be organized around a different topic related to the study of civil wars, including why civil wars break out, what tactics insurgents and states use during them, what happens when third-parties intervene, whether negotiations can effectively end wars, and other key questions in the conflict literature. 
 
 
-**Please note**: the course catalog has an antiquated description of the class that sounds like it was written during the Cold War, but that's not what this class is about. 
+**Note**: the course catalog has an antiquated description of the class. 
 
 
 ## What will we read/do in this course? 
 
 
-Most of what we read in this course will cover civil wars and political violence as **general phenomena** (e.g., looking across the historical record of civil wars, why do they **tend** to emerge in some places but not others?). But we will also dig into case studies of conflicts I think are especially interesting. The readings will give you a foundation in theories, patterns and interesting puzzles of civil war. 
+Most of what we read in this course will cover civil wars and political violence as **general phenomena** (e.g., looking across the historical record of civil wars, why do they **tend** to emerge in some places but not others?). But we will also read case studies of conflicts I think are especially interesting.
 
 *All of the readings in this class are free.* You will be able to download them from [this Dropbox folder](https://www.dropbox.com/sh/pide0ytvjrnbp0q/AADaIbprAmBQERw4UwWleAVba?dl=0). 
 
 
-In addition to reading, we will also spend a significant amount of time in this class **working with data** on political violence, in class and through homework. We will explore general patterns and trends, think about how to measure different concepts related to political violence, and see to what extent different theories of political violence are supported by evidence. 
-
-
-*Note: the class assumes no prior experience with data but you will need regular access to a computer.*
+In addition to reading, we will also spend a significant amount of time in this class **working with data** on political violence, through homework. We will explore general patterns and trends, think about how to measure different concepts related to political violence, and see to what extent different theories of political violence are supported by evidence. *Note: the class assumes no prior experience with data but you will need regular access to a computer.*
 
 
 By the end of this course, you will be able to:
@@ -50,6 +47,7 @@ By the end of this course, you will be able to:
 3. Explore, analyze, and interpret data bearing on political violence
 
 
+<!-- **Note: A great thing about this class is that we get to dig into conflict processes across a wide range of countries and time periods. One downside of this is that there is lots of context that we don't get to develop for each case. Thankfully, we have the internet, and I expect you to do  -->
 
 
 ### Google Sheets
@@ -62,7 +60,7 @@ All homeworks requiring data will be done in Google Sheets or Excel. [Google She
 ### Warning on Violent/Disturbing Content
 
 
-This course will require spending a significant amount of time covering violent and/or disturbing material, which can be difficult to read about or watch. I will do my best to flag especially graphic content but ask that you please consider this in deciding whether to take the course. 
+This course will involve spending a significant amount of time covering violent and/or disturbing material, which can be difficult to read about or watch. I will do my best to flag especially graphic content but ask that you please consider this in deciding whether to take the course. 
 
 
 ### Podcasts
@@ -86,16 +84,25 @@ You should listen to podcasts, although I won't grade you on it. Below are some 
 ## How can I get help or get in contact with the instructors?
 
 
-*Discord will be our main mode of communication*. We have a class Discord server where anyone in the class can ask questions and anyone can answer. Ask questions about data (e.g., "how do I summarize multiple variables at once?") or class logistics (e.g., "I can't find the reading") in the class Discord. The TA and I will monitor Discord regularly, and you should all do so as well. You'll have similar questions as your peers, and you'll likely be able to answer other peoples' questions too.
+*Slack will be our main mode of communication*. We have a class Slack chanel where anyone in the class can ask questions and anyone can answer. Ask questions about data (e.g., "how do I summarize multiple variables at once?") or class logistics (e.g., "I can't find the reading") in the class Slack. The TA and I will monitor Slack regularly, and you should all do so as well. You'll have similar questions as your peers, and you'll likely be able to answer other peoples' questions too.
 
 
-*If you need one-on-one help you can also reach out to the TA*. The TA is:
+*If you need one-on-one help you can also reach out to the TAs*. The TAs are:
 
 - Mark Reedy: Kerr 663; OH: Monday, 3-5pm, mreedy@ucdavis.edu
 
 
 
 *If you would like to speak with me about something that only pertains to you* (e.g., your grades, academic advice), you can sign up for office hours on [Calendly](https://calendly.com/juan-f-tellez). If there's a time-sensitive issue you can email me. Everything else goes in the Discord so that others can see and access help. 
+
+
+
+## Are lectures recorded?
+
+
+Class lectures are not recorded. Students are not allowed to record class lecture with video or audio. The only exception is students with registered SDC accommodations.
+
+
 
 
 ### Honor Code
@@ -112,7 +119,7 @@ Life at Davis can be complicated and challenging. You might feel overwhelmed, ex
 
 ## Assignments and grades
 
-You can find descriptions for all the assignments on the [assignments page](/assignment/).
+You can find descriptions for all the assignments and assignment policies on the [assignments page](/assignment/).
 
 
 ```{r assignments-grades, include=FALSE}
@@ -155,11 +162,10 @@ grading %>%
 
 
 
-
 ## War propaganda
 
 
-Once you have read this entire syllabus and [the assignments page](/assignments/), post propaganda from any war or rebel group to the Discord by April 7th (I'll bump up your final grade by half a percentage point).
+Once you have read this entire syllabus and [the assignments page](/assignments/), post propaganda from any war or rebel group to the Slack by January 20th (I'll round up your final grade to the nearest percentage point).
 
 
 ![](https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2017/07/GettyImages-541320861-1024x683.jpg)

@@ -24,7 +24,7 @@ design:
     text_color_light: true
 
 cta_note:
-  label: Spring 2022<br>Department of Political Science<br>University of California, Davis
+  label: Winter 2023<br>Department of Political Science<br>University of California, Davis
 ---
 
-An undergraduate course on civil wars and political violence
+Undergraduate course on civil wars and political violence

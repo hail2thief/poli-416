@@ -3,65 +3,53 @@ lessons:
     header: True
 
   - title: "What are civil wars?"
-    date: "W1 : Mar 29 - Mar 31"
-    class: "01-class"
+    date: "W1 : Jan 10 - Jan 12"
     reading: "01-reading"
   
-  - title: 'Why civil war? Grievances, identity, ethnicity<br><i class="fas fa-star"></i> **Assignment 1**'
-    date: "W2 : Apr 5 - Apr 7"
-    class: "02-class"
+  - title: "Why rebel? Grievances, identity, ethnicity <br> ⭐ **HW 1** ⭐"
+    date: "W2 : Jan 17 - Jan 19"
     reading: "02-reading"
     #assignment: "01-assignment"
   
-  - title: 'Why civil war? Looting and feasibility<br><i class="fas fa-star"></i> **Assignment 2**'
-    date: "W3 : Apr 12 - Apr 14"
-    class: "03-class"
+  - title: "Why rebel? Looting and feasibility  <br> ⭐ **HW 2** ⭐"
+    date: "W3 : Jan 24 - Jan 26"
     reading: "03-reading"
     #assignment: "02-assignment"
   
-  - title: 'How are wars fought? Insurgency<br><i class="fas fa-star"></i> **Assignment 3**'
-    date: "W4 : Apr 19 - Apr 21"
-    class: 
+  - title: "How are wars fought? Insurgent tactics  <br> ⭐ **HW 3** ⭐"
+    date: "W4 : Jan 31 - Feb 2"
     reading: "04-reading"
     #assignment: "03-assignment"
   
-  - title: "Film + midterm"
-    date: "W5 : Apr 26 - Apr 28"
-    class: 
+  - title: "📝 **Midterm** 📝 + film"
+    date: "W5 : Feb 7 - Feb 9"
     reading: "05-reading"
   
-  - title: '<i class="fas fa-star"></i> **Midterm Exam**'
-    date: "April 28th"
-  
-  - title:  'How are wars fought? Counterinsurgency<br><i class="fas fa-star"></i> **Assignment 4**'
-    date: "W6 : May 3 - May 5"
-    class: 
+  - title: "How are wars fought? Counterinsurgency  <br> ⭐ **HW 4** ⭐"
+    date: "W6 : Feb 14 - Feb 16"
     reading: "06-reading"
     #assignment: "04-assignment"
   
-  - title: 'Why displacement? Case study of Colombia<br><i class="fas fa-star"></i> **Assignment 5**'
-    date: "W7 : May 10 - May 12"
-    class: 
+  - title: "Why are civilians displaced? Case study of Colombia  <br> ⭐ **HW 5** ⭐"
+    date: "W7 : Feb 21 - Feb 23"
     reading: "07-reading"
     #assignment: "05-assignment"
   
-  - title: "When do civilians resist? Case study of Peru"
-    date: "W8 : May 17 - May 19"
-    class: 
+  - title: "When do civilians resist? Case study of Peru  <br> ⭐ **HW 6** ⭐"
+    date: "W8 : Feb 28 - Mar 2"
     reading: "08-reading"
-  
-  - title:  'Why do criminal organizations go to war? Case study of Central America<br><i class="fas fa-star"></i> **Assignment 6**'
-    date: "W9 : May 24 - May 26"
-    class: 
-    reading: "09-reading"
     #assignment: "06-assignment"
   
-  - title: 'How do wars end? Barriers to negotiation<br><i class="fas fa-star"></i> **Assignment 7**'
-    date: "W10 : May 31 - Jun 2"
-    class: 
+  - title: "When do criminal organizations go to war? Case study of Central America  <br> ⭐ **HW 7** ⭐"
+    date: "W9 : Mar 7 - Mar 9"
+    reading: "09-reading"
+    #assignment: "07-assignment" 
+  
+  - title: "How do wars end? Barriers to negotiation  <br> ⭐ **HW 8** ⭐"
+    date: "W10 : Mar 14 - Mar 16"
     reading: "10-reading"
-    #assignment: "07-assignment"
+    #assignment: "08-assignment"
     
-  - title: '<i class="fas fa-star"></i> **Final Exam**'
-    date: "Wed, June 8 10:30AM-12:30PM"
+  - title: '📝 **Final Exam** 📝'
+    date: "Mar 24 8:30 PM 🤷"
  

@@ -74,7 +74,7 @@ privacy_pack: false
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
 edit_page:
-  repo_url: 'https://github.com/hail2thief/lapol.juanftellez.com'
+  repo_url: 'https://github.com/hail2thief/poli-416'
   content_dir: ''
   repo_branch: master
   editable:
@@ -103,13 +103,13 @@ instructor:
 
 course:
   number: "POLI 126"
-  semester: "Spring 2022"
+  semester: "Winter 2023"
   days: "T,TH"
-  time: "1:40PM-3:00 PM"
+  time: "1:30PM-3:00 PM"
   location: "Olson Hall 206"
-  dates: "March 28–June 9, 2022"
-  github: "hail2thief/poli-437"
-  copyrightYear: "2022"
+  dates: "January 10–March 18, 2022"
+  github: "hail2thief/poli-416"
+  copyrightYear: "2022-2023"
 
 university: 
   name: University of California, Davis
