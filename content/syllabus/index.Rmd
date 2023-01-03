@@ -162,10 +162,10 @@ grading %>%
 
 
 
-## War propaganda
+## Crazy moments in IR
 
 
-Once you have read this entire syllabus and [the assignments page](/assignments/), post propaganda from any war or rebel group to the Slack by January 20th (I'll round up your final grade to the nearest percentage point).
+Once you have read this entire syllabus and [the assignments page](/assignments/), I want you to find an image or screenshot of text from a "crazy moment" in international relations / world events / world history (inspired by this [Twitter account on American politics](https://twitter.com/ampol_moment)). Almost anything counts as long as the event: 1) takes place outside the US or 2) if it involves the US, concerns American foreign policy. Post it to the Slack by January 20th and I'll round up your final grade to the nearest percentage point.
 
 
-![](https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2017/07/GettyImages-541320861-1024x683.jpg)
+![Bolivian president Evo Morales gifts the pope a 'hammer and sickle' cross (2014)](/media/evo-pope-cross.jpeg)
