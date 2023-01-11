@@ -84,16 +84,13 @@ You should listen to podcasts, although I won't grade you on it. Below are some 
 ## How can I get help or get in contact with the instructors?
 
 
-*Slack will be our main mode of communication*. We have a class Slack chanel where anyone in the class can ask questions and anyone can answer. Ask questions about data (e.g., "how do I summarize multiple variables at once?") or class logistics (e.g., "I can't find the reading") in the class Slack. The TA and I will monitor Slack regularly, and you should all do so as well. You'll have similar questions as your peers, and you'll likely be able to answer other peoples' questions too.
+*Ask for help on Slack*. We have a class Slack chanel where anyone in the class can ask questions and anyone can answer. Ask questions about data (e.g., "how do I summarize multiple variables at once?") or class logistics (e.g., "I can't find the reading") in the class Slack. The TA and I will monitor Slack regularly, and you should all do so as well. You'll have similar questions as your peers, and you'll likely be able to answer other peoples' questions too.
 
 
-*If you need one-on-one help you can also reach out to the TAs*. The TAs are:
-
-- Mark Reedy: Kerr 663; OH: Monday, 3-5pm, mreedy@ucdavis.edu
+*Go to Office Hours*. The TA's office hours and my office hours are available on the home page and at the top of this page. 
 
 
-
-*If you would like to speak with me about something that only pertains to you* (e.g., your grades, academic advice), you can sign up for office hours on [Calendly](https://calendly.com/juan-f-tellez). If there's a time-sensitive issue you can email me. Everything else goes in the Discord so that others can see and access help. 
+*If you would like to speak with me about something that only pertains to you* (e.g., your grades, academic advice), you can sign up for my office hours on [Calendly](https://calendly.com/juan-f-tellez). If there's a time-sensitive issue you can email me. Everything else goes in the Slack so that others can see and access help. 
 
 
 
