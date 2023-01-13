@@ -20,8 +20,13 @@ editor_options:
 # Slides
 
 
-[Class slides can be downloaded here](/slides/02-civwar.pdf)
+[Class slides can be downloaded here](../../files/slides/01-civwar.pdf)
 
+<object data="../../files/slides/01-civwar.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="../../files/slides/01-civwar.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../../files/slides/01-civwar.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 # Readings
 
