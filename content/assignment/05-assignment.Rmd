@@ -6,10 +6,10 @@ output:
     toc: true
 editor_options: 
   chunk_output_type: console
-menu:
-  assignment:
-    parent: Homeworks
-    weight: 5
+# menu:
+#   assignment:
+#     parent: Homeworks
+#     weight: 5
 ---
 
 
