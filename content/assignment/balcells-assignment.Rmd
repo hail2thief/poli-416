@@ -6,10 +6,10 @@ output:
     toc: true
 editor_options: 
   chunk_output_type: console
-# menu:
-#   assignment:
-#     parent: Homeworks
-#     weight: 1
+menu:
+  assignment:
+    parent: Homeworks
+    weight: 1
 ---
 
 
@@ -21,21 +21,25 @@ editor_options:
 Answer the questions (below), and keep track of your answers somewhere (a notepad?). You will input your answers into Canvas. **Figure out the answers *BEFORE* opening Canvas**, otherwise you'll run out of time. 
 
 
-Skills: 
+Skills used: 
 
-- counting categories
+- counting categories / percentages
 - creating variables
-- sorting
+- sorting / filtering
+
+
+
+[My awkward Google Sheets video tutorials are here](https://www.dropbox.com/sh/rsj9qm67se619pm/AAD1wPt84O8yaIfSPcwN9edua?dl=0)
 
 
 
 ## Data
 
 
-You're going to work with data from the Kalyvas and Balcells article we read last week. The dataset contains information on major civil wars around the world. 
+You're going to work with replication data from the Kalyvas and Balcells article we read last week. The dataset contains information on major civil wars around the world. 
 
 
-- Download this: <i class="fas fa-download"></i> [Kalyvas and Balcells](static/files/balcells-kalyvas.csv)
+- Download this: <i class="fas fa-download"></i> [Kalyvas and Balcells](/files/balcells-kalyvas.csv)
 
 
 ```{r, warning=FALSE, echo=FALSE, message=FALSE, results='asis'}
@@ -68,21 +72,22 @@ Using the dataset, answer the following questions:
 1. Choose a civil war of each **technology type** identified by the authors and look it up on Wikipedia. Provide a non-technical, 3 sentence description of each war. (total = 3 wars, 3 sentences each). 
 
 
-2. Calculate how long each civil war has lasted (year ended - year started. Note: not all civil wars have ended / have an end date). What is the longest lasting civil war, for which an end date is available?
+2. Create a variable that tells you how long each civil war has lasted, in years (year ended - year started. Note: not all civil wars have ended / have an end date). What is the longest lasting civil war for which an end date is available?
+
 
 3. What is the shortest civil war in Latin America?
 
 
-3. What percent of civil wars are ethnic civil wars?
+4. Count the percent of wars that are categorized as ethnic wars. What percent of civil wars are ethnic civil wars?
 
 
-4. Which region has the fewest number of listed civil wars? 
+5. Count the number of civil wars by region of the world. Which region has the fewest number of listed civil wars?  
 
 
-5. About what percent of civil wars are Marxist?
+6. Count the percent of wars that are categorized as Marxist. About what percent of civil wars in the sub-Saharan Africa are Marxist? 
 
 
-6. Which country had the largest army involved in a civil war?
+7. Sort the data: Which country had the largest army involved in a civil war?
 
 
-7. Which country in Eurasia had the smallest army fight a civil war?
+8. Sort the data: Which country in Eurasia had the smallest army fight a civil war?
