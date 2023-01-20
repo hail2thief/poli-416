@@ -19,10 +19,9 @@ editor_options:
 # Slides
 
 
-TBD
-<!-- - [Grievance slides](/slides/02-grievances.pdf) -->
+- [Grievance slides](../../files/slides/02-grievances.pdf)
 
-<!-- - [Identity slides](/slides/02-identity.pdf) -->
+- [Identity slides](../../files/slides/02-identity.pdf)
 
 
 
