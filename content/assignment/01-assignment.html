@@ -1,15 +1,15 @@
 ---
-title: "Homework 1"
+title: "Homework 2"
 type: docs
 output:
   blogdown::html_page:
     toc: true
 editor_options: 
   chunk_output_type: console
-# menu:
-#   assignment:
-#     parent: Homeworks
-#     weight: 1
+menu:
+  assignment:
+    parent: Homeworks
+    weight: 2
 ---
 
 <script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
@@ -25,7 +25,13 @@ editor_options:
 
 <div id="tutorial" class="section level2">
 <h2>Tutorial</h2>
-<p>Here’s a <a href="https://www.dropbox.com/s/6kc0g0xobuazlx2/filter-summary.mov?dl=0">brief, kinda awkward tutorial</a> on how to use Filter and Summary Statistics in Google Sheets.</p>
+<p>Skills used:</p>
+<ul>
+<li>grouped summary counts</li>
+<li>grouped summary statistics</li>
+<li>plotting</li>
+</ul>
+<p><a href="https://www.dropbox.com/sh/rsj9qm67se619pm/AAD1wPt84O8yaIfSPcwN9edua?dl=0">My awkward Google Sheets video tutorials are here</a></p>
 </div>
 <div id="instructions" class="section level2">
 <h2>Instructions</h2>
@@ -33,14 +39,14 @@ editor_options:
 </div>
 <div id="data" class="section level2">
 <h2>Data</h2>
-<p>You’re going to work with a random sample from the Uppsala Conflict Data Program at The Department of Peace and Conflict Research, Uppsala University in Oslo, Norway. The dataset is called the Geo-referenced Event Dataset (GED) which, as the title hints, provides detailed geo-referenced information on violent events around the world.</p>
+<p>You’re going to work with a random sample from the Uppsala Conflict Data Program at The Department of Peace and Conflict Research, Uppsala University in Oslo, Norway. The dataset is called the Geo-referenced Event Dataset (GED) which provides detailed geo-referenced information on violent events around the world.</p>
 <ul>
 <li>Download this: <i class="fas fa-download"></i> <a href="https://www.dropbox.com/s/6tthe5o22lgglkp/ucdp-ged-small.csv?dl=1">UCDP GED Dataset</a></li>
 </ul>
-<table style="width:75%;">
+<table style="width:71%;">
 <colgroup>
 <col width="30%" />
-<col width="44%" />
+<col width="40%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -71,10 +77,7 @@ editor_options:
 </tr>
 <tr class="even">
 <td align="center">type_of_violence</td>
-<td align="center">UCDP violence type (1 = state
-vs. rebel 2 = rebel vs. rebel
-3 = violence against
-civilians)</td>
+<td align="center">UCDP violence type</td>
 </tr>
 <tr class="odd">
 <td align="center">conflict_name</td>
@@ -112,7 +115,7 @@ deaths</td>
 </tr>
 <tr class="odd">
 <td align="center">best_death_estimate</td>
-<td align="center">Best estimate (sum of all)</td>
+<td align="center">Best estimate</td>
 </tr>
 </tbody>
 </table>
@@ -120,17 +123,21 @@ deaths</td>
 <div id="questions" class="section level2">
 <h2>Questions</h2>
 <p>Using the dataset, answer the following questions:</p>
+<p>All of these events are geo-located, meaning they have latitude and longitude coordinates that identify their location in the world. Find a violent event that took place on your birthday (if there are none, try adding/subtracting a day, or month, until you find one).</p>
 <ol style="list-style-type: decimal">
-<li><p>How many violent events took place in Israel in 2004?</p></li>
-<li><p>How <strong>many more</strong> violent events took place in Afghanistan during the Summer (June, July, August) than in the Winter (December, January, February)?</p></li>
-<li><p>How many people died (according to “best estimate”) in the worst event of state-based violence?</p></li>
-<li><p>In what country was the most (according to “best estimate”) violent event of non-state violence perpetrated?</p></li>
-<li><p>Find a violent event that took place on your birthday (if there are none, try adding/subtracting a day, or month, until you find one). Look up the long/lat coordinates of that event on Google Maps. Using either street view or, if street view is not available, whatever images you can find near the location of the event:</p></li>
+<li><p>Use the longitude and latitude coordinates of that event to find it on Google Maps. Using either street view or, if street view is not available, whatever images you can find near the location of the event, take a screencap and save the image (you will upload to Canvas).</p></li>
+<li><p>Using the information in the other columns, write 3-4 sentences in plain English about: a) the conflict in which that event took place; b) the violent event itself, just describe what exactly happened (as best as you can tell: who did what to whom, and why).</p></li>
+<li><p>Based on the images you captured, very briefly describe what you’re seeing in the image. What do you see? What does it look like?</p></li>
 </ol>
-<ul>
-<li>take a screencap and save the image (you will upload to Canvas).<br />
-</li>
-<li>Where did the event take place? What was the conflict about? Be VERY brief.</li>
-<li>VERY <em>briefly</em> describe what the location of the event looks like: nothing structured, just your reactions to what you’re seeing in the area. What do you see? What does it look like?</li>
-</ul>
+<p>Afghanistan is famously known for having a “fighting season”, in which combat is typically heaviest in a particular time of the year.</p>
+<ol start="4" style="list-style-type: decimal">
+<li><p>Count the number of violent events that took place in Afghanistan <em>per</em> month (<strong>grouped summary count</strong>). Note: You can use the <code>id</code> column to count the events. Make a barplot/chartplot/bar chart/column chart of the result and save it as an image to upload (<strong>plot</strong>).</p></li>
+<li><p>Look up the Afghanistan fighting season on Wikipedia, read about it, and compare your results to what you see on the barplot/bar chart/column chart in 2-3 sentences.</p></li>
+</ol>
+<p>Finally, looking at the whole dataset (not just Afghanistan):</p>
+<ol start="6" style="list-style-type: decimal">
+<li><p>The UCDP categorizes violent events into three violent event types. Look them up: what are those three types? What does each mean?</p></li>
+<li><p>Calculate the average number of deaths in a violent event (using the “best” estimate variable), <em>per</em> type of violent event (<strong>grouped summary statistics</strong>). Which type of violent event produces the most deaths, on average?</p></li>
+<li><p>Calculate the maximum number of deaths in a violent event (using “best” estimate) <em>per</em> country (<strong>grouped summary statistics</strong>). In which country were the most deaths recorded in a single violent event?</p></li>
+</ol>
 </div>

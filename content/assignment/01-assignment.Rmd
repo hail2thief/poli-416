@@ -1,15 +1,15 @@
 ---
-title: "Homework 1"
+title: "Homework 2"
 type: docs
 output:
   blogdown::html_page:
     toc: true
 editor_options: 
   chunk_output_type: console
-# menu:
-#   assignment:
-#     parent: Homeworks
-#     weight: 1
+menu:
+  assignment:
+    parent: Homeworks
+    weight: 2
 ---
 
 
@@ -17,7 +17,15 @@ editor_options:
 ## Tutorial
 
 
-Here's a [brief, kinda awkward tutorial](https://www.dropbox.com/s/6kc0g0xobuazlx2/filter-summary.mov?dl=0) on how to use Filter and Summary Statistics in Google Sheets. 
+Skills used: 
+
+- grouped summary counts
+- grouped summary statistics
+- plotting
+
+
+
+[My awkward Google Sheets video tutorials are here](https://www.dropbox.com/sh/rsj9qm67se619pm/AAD1wPt84O8yaIfSPcwN9edua?dl=0)
 
 
 ## Instructions
@@ -31,7 +39,7 @@ Answer the questions (below), and keep track of your answers somewhere (a notepa
 ## Data
 
 
-You're going to work with a random sample from the Uppsala Conflict Data Program at The Department of Peace and Conflict Research, Uppsala University in Oslo, Norway. The dataset is called the Geo-referenced Event Dataset (GED) which, as the title hints, provides detailed geo-referenced information on violent events around the world. 
+You're going to work with a random sample from the Uppsala Conflict Data Program at The Department of Peace and Conflict Research, Uppsala University in Oslo, Norway. The dataset is called the Geo-referenced Event Dataset (GED) which provides detailed geo-referenced information on violent events around the world. 
 
 - Download this: <i class="fas fa-download"></i> [UCDP GED Dataset](https://www.dropbox.com/s/6tthe5o22lgglkp/ucdp-ged-small.csv?dl=1)
 
@@ -45,7 +53,7 @@ tribble(~Variable, ~Description,
         "month", "Month event began",
         "day", "Day event began",
         "country", "Country of event",
-        "type_of_violence", "UCDP violence type\n(1 = state vs. rebel\n2 = rebel vs. rebel\n3 = violence against civilians)",
+        "type_of_violence", "UCDP violence type",
         "conflict_name", "Name of conflict",
         "side_a", "Side A",
         "side_b", "Side B",
@@ -54,7 +62,7 @@ tribble(~Variable, ~Description,
         "longitude", "Longitude",
         "low_death_estimate", "Low estimate of number of deaths",
         "high_death_estimate", "High estimate of number of deaths",
-        "best_death_estimate", "Best estimate (sum of all)") %>% 
+        "best_death_estimate", "Best estimate") %>% 
   pander::pandoc.table()
 
 ```
@@ -67,20 +75,35 @@ tribble(~Variable, ~Description,
 Using the dataset, answer the following questions:
 
 
-1. How many violent events took place in Israel in 2004?
+All of these events are geo-located, meaning they have latitude and longitude coordinates that identify their location in the world. Find a violent event that took place on your birthday (if there are none, try adding/subtracting a day, or month, until you find one).
 
 
-2. How **many more** violent events took place in Afghanistan during the Summer (June, July, August) than in the Winter (December, January, February)? 
+1. Use the longitude and latitude coordinates of that event to find it on Google Maps. Using either street view or, if street view is not available, whatever images you can find near the location of the event, take a screencap and save the image (you will upload to Canvas).  
 
 
-3. How many people died (according to "best estimate") in the worst event of state-based violence?
+2. Using the information in the other columns, write 3-4 sentences in plain English about: a) the conflict in which that event took place; b) the violent event itself, just describe what exactly happened (as best as you can tell: who did what to whom, and why).
 
 
-4. In what country was the most (according to "best estimate") violent event of non-state violence perpetrated? 
+3. Based on the images you captured, very briefly describe what you're seeing in the image. What do you see? What does it look like? 
 
 
-5. Find a violent event that took place on your birthday (if there are none, try adding/subtracting a day, or month, until you find one). Look up the long/lat coordinates of that event on Google Maps. Using either street view or, if street view is not available, whatever images you can find near the location of the event: 
+Afghanistan is famously known for having a "fighting season", in which combat is typically heaviest in a particular time of the year. 
 
-- take a screencap and save the image (you will upload to Canvas).  
-- Where did the event take place? What was the conflict about? Be VERY brief.
-- VERY *briefly* describe what the location of the event looks like: nothing structured, just your reactions to what you're seeing in the area. What do you see? What does it look like? 
+
+4. Count the number of violent events that took place in Afghanistan *per* month (**grouped summary count**). Note: You can use the `id` column to count the events. Make a barplot/chartplot/bar chart/column chart of the result and save it as an image to upload (**plot**). 
+
+
+5. Look up the Afghanistan fighting season on Wikipedia, read about it, and compare your results to what you see on the barplot/bar chart/column chart in 2-3 sentences. 
+
+
+Finally, looking at the whole dataset (not just Afghanistan):
+
+
+6. The UCDP categorizes violent events into three violent event types. Look them up: what are those three types? What does each mean?
+
+
+7. Calculate the average number of deaths in a violent event (using the "best" estimate variable), *per* type of violent event (**grouped summary statistics**). Which type of violent event produces the most deaths, on average? 
+
+
+8. Calculate the maximum number of deaths in a violent event (using "best" estimate) *per* country (**grouped summary statistics**). In which country were the most deaths recorded in a single violent event?
+
