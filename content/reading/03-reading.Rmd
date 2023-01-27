@@ -19,9 +19,9 @@ editor_options:
 # Slides
 
 
-- [Greed slides](/slides/03-greed.pdf)
+- [Greed slides](../../files/slides/03-greed.pdf)
 
-- [Terrain slides](/slides/03-terrain.pdf)
+- [Terrain slides](../../files/slides/03-terrain.pdf)
 
 
 
