@@ -13,24 +13,24 @@ output:
 ## Things you should know for the Midterm
 
 
-<!-- - ...how the new wave of Jihadi groups are similar and different to other armed actors in the past -->
-<!-- - ...the three different forms of warfare: conventional, SNC, irregular, and what each "looks" like -->
-<!-- - ...the role of the Cold War in how civil wars are fought, and the role of the superpowers in that era -->
-<!-- - ...what the "new" vs. "old" civil war debate was about -->
-<!-- - ...the different *kinds* of grievances that motivate violence -->
-<!-- - ...how *anomie* and changing demographics can contribute to violence -->
-<!-- - ...why identity and ethnicity can become more or less salient in different contexts, and the implications salience has to violence -->
-<!-- - ...what the **security dilemma** is and how it explains spirals of violence between groups -->
-<!-- - ...the ways in which ethnic wars are different from non-ethnic wars -->
-<!-- - ...why identity groups, and ethnic groups in particular, might be especially good at mobilizing for war -->
-<!-- - ...how colonial rule can exacerbate ethnic tensions and produce conflict -->
-<!-- - ...how Sunni and Shi'a relations were shaped by the US occupation, and why the US feared holding elections (the Cockburn reading) -->
-<!-- - ...the relationship between resources and conflict, and the characteristics that make some resources particularly likely to generate conflict -->
-<!-- - ...what the greed vs. grievance debate is about -->
-<!-- - ...how resource *lootability* and *commodity shocks* can makes conflict more or less likely, and how *opportunity costs* are part of the story -->
-<!-- - ...how different elements of geography influences civil war -->
-<!-- - ...how terrain, identity, and grievances can interact to generate conflict -->
-<!-- - ...why it is so difficult, based on the factors that predict where violence occurs, to determine whether greed or grievance is what motivates rebel actors -->
+- ...how the new wave of Jihadi groups are similar and different to other armed actors in the past
+- ...the three different forms of warfare: conventional, SNC, irregular, and what each "looks" like
+- ...the role of the Cold War in how civil wars are fought, and the role of the superpowers in that era
+- ...what the "new" vs. "old" civil war debate was about
+- ...the different *kinds* of grievances that motivate violence
+- ...how *anomie* and changing demographics can contribute to violence
+- ...why identity and ethnicity can become more or less salient in different contexts, and the implications salience has to violence
+- ...what the **security dilemma** is and how it explains spirals of violence between groups
+- ...the ways in which ethnic wars are different from non-ethnic wars
+- ...why identity groups, and ethnic groups in particular, might be especially good at mobilizing for war
+- ...how colonial rule can exacerbate ethnic tensions and produce conflict
+- ...how Sunni and Shi'a relations were shaped by the US occupation, and why the US feared holding elections (the Cockburn reading)
+- ...the relationship between resources and conflict, and the characteristics that make some resources particularly likely to generate conflict
+- ...what the greed vs. grievance debate is about
+- ...how resource *lootability* and *commodity shocks* can makes conflict more or less likely, and how *opportunity costs* are part of the story
+- ...how different elements of geography influences civil war
+- ...how terrain, identity, and grievances can interact to generate conflict
+- ...why it is so difficult, based on the factors that predict where violence occurs, to determine whether greed or grievance is what motivates rebel actors
 <!-- - ...the difference between selective and indiscriminate violence, the relative efficacy of each, and the factors that produce each kind -->
 <!-- - ...the role of collaboration and denunciation in how civil wars are fought -->
 <!-- - ...how territorial control, collaboration, and denunciation combine to produce either selective or indiscriminate violence -->
