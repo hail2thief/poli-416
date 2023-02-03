@@ -20,9 +20,9 @@ editor_options:
 # Slides
 
 
-- [Insurgency slides](/slides/04-tactics.pdf)
+- [Rebel tactics slides](../../files/slides/04-tactics.pdf)
 
-- [Recruitment slides](/slides/04-recruitment.pdf)
+<!-- - [Recruitment slides](/slides/04-recruitment.pdf) -->
 
 
 
