@@ -12,7 +12,7 @@ main:
     url: /reference/
     weight: 4
   - name: <i class="fab fa-slack"></i> Slack
-    url: https://pol126-w23.slack.com
+    url: https://pol126-w23.slack.com/
     weight: 5
     
 assignment:

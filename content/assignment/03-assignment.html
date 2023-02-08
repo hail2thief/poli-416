@@ -6,10 +6,10 @@ output:
     toc: true
 editor_options: 
   chunk_output_type: console
-# menu:
-#   assignment:
-#     parent: Homeworks
-#     weight: 3
+menu:
+  assignment:
+    parent: Homeworks
+    weight: 3
 ---
 
 <script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
@@ -17,6 +17,7 @@ editor_options:
 <div id="TOC">
 <ul>
 <li><a href="#instructions" id="toc-instructions">Instructions</a></li>
+<li><a href="#tutorial" id="toc-tutorial">Tutorial</a></li>
 <li><a href="#the-vietnam-war" id="toc-the-vietnam-war">The Vietnam War</a></li>
 </ul>
 </div>
@@ -25,22 +26,31 @@ editor_options:
 <h2>Instructions</h2>
 <p>Answer the questions (below), and keep track of your answers somewhere (a notepad?). You will input your answers into Canvas. <strong>Figure out the answers <em>BEFORE</em> opening Canvas</strong>, otherwise you’ll run out of time.</p>
 </div>
+<div id="tutorial" class="section level2">
+<h2>Tutorial</h2>
+<p>Skills used:</p>
+<ul>
+<li>grouped summary counts</li>
+<li>grouped summary statistics</li>
+</ul>
+<p><a href="https://www.dropbox.com/sh/rsj9qm67se619pm/AAD1wPt84O8yaIfSPcwN9edua?dl=0">My awkward Google Sheets video tutorials are here</a></p>
+</div>
 <div id="the-vietnam-war" class="section level2">
 <h2>The Vietnam War</h2>
-<p>Here, you’ll be working with hamlet level data on territorial control, selective violence, indiscriminate violence during the Vietnam War. Each row is a hamlet in a given month in the year 1969. Using the data (variable dictionary below), answer the following questions.</p>
-<p>Note: in 2-7 below you’ll need to find how many X (bombs, hamlets, etc.) <strong>total</strong> happened in some unit (e.g., hamlets, area of control, etc.). But remember you have multiple months of observations per unit. So you’ll need to add up all the X (e.g., bombs) in the unit (e.g., hamlet) to answer the question.</p>
+<p>Here, you’ll be working with hamlet level data on territorial control, selective violence, and indiscriminate violence during the Vietnam War. Each row is a hamlet in a given month in the year 1969. Using the data (variable dictionary below), answer the following questions.</p>
+<!-- Note: in 2-7 below you'll need to find how many X (bombs, hamlets, etc.) **total** happened in some unit (e.g., hamlets, area of control, etc.). But remember you have multiple months of observations per unit. So you'll need to add up all the X (e.g., bombs) in the unit (e.g., hamlet) to answer the question. -->
 <ul>
 <li>Download this: <i class="fas fa-download"></i> <a href="/files/vietnam.csv">Vietnam HES data</a></li>
 </ul>
 <ol style="list-style-type: decimal">
-<li><p>what was the Strategic Hamlet Program during the Vietnam War? Look it up, describe in two sentences.</p></li>
-<li><p>How many bomb sorties were launched against the most attacked hamlet in Vietnam? (Hint: think about what summary statistic you want to answer the question of “how many” – it’s not an average!).</p></li>
-<li><p>Look at how many hamlets that are in each control category. Overall, who had more control, the rebels, or the government?</p></li>
-<li><p>About how many more bomb sorties were aimed at places that had full rebel control than places where the government only had partial control?</p></li>
-<li><p>About how many cases of selective violence where there in hamlets where the government had full control?</p></li>
-<li><p>Where did rebels use more selective violence, where they had partial control or full control? And about how much more?</p></li>
-<li><p>How different where the hamlets were Vietcong used selective violence than the hamlets they didn’t use selective violence? Compare the average levels of urban, population, development index, and buddhism in places with and without selective violence.</p></li>
-<li><p>do anything else with this data. Tell me what you did and what you found.</p></li>
+<li><p>What was the Strategic Hamlet Program during the Vietnam War? Look it up, describe in four to five sentences. Tell us what the program <em>did</em> and what its intended <em>objective</em> was.</p></li>
+<li><p>Take the SUM of the bombing variable across the hamlet ID variable. HOW MANY bomb sorties were launched against the most attacked hamlet in Vietnam, across all the months for which data is available?</p></li>
+<li><p>Look at the PERCENT of hamlets in each control category. Overall, who had more control, the rebels, or the government?</p></li>
+<li><p>About HOW MANY MORE bomb sorties were aimed at places that had full rebel control than places where the government only had partial control?</p></li>
+<li><p>Take the SUM of selective terror events across the control variable. About HOW MANY cases of selective violence where there in hamlets where the government had full control?</p></li>
+<li><p>Take the SUM of selective terror events across the control variable. WHERE did rebels use more selective violence, where they had partial control or full control? And about how much more?</p></li>
+<li><p>How different where the hamlets were Vietcong used selective violence than the hamlets they didn’t use selective violence? Compare the AVERAGE levels of urban, population, development index, and buddhism in places with and without selective violence.</p></li>
+<li><p>Calculate the AVERAGE distance to the border across the areas of control variable. In general, what is the pattern? Do places under rebel control tend to be closer or further from the border?</p></li>
 </ol>
 <table style="width:72%;">
 <colgroup>
