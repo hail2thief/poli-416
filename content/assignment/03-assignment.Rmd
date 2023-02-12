@@ -85,13 +85,13 @@ library(pander)
 tribble(~Variable, ~Description, 
         "hamlet_id", "9-digit HES identifier",
         "month", "Month",
-        "selective_terror", "Did Vietcong use selective violence?",
+        "selective_terror", "Did Vietcong use selective violence? (1 = yes, 0 = no)",
         "control", "Who controlled hamlet?\n(1 = full state, 2 = partial state, 3 = contested, 4 = partial rebel, 5 = full rebel)",
         "bombed", "How many bombing sorties in hamlet?",
         "urban", "Is hamlet mostly urban?\n(1 = yes, 0 = no)",
         "pop", "Hamlet population",
         "border", "Distance to closest international border",
-        "dev_index", "Development index (low to high)",
+        "dev_index", "Development index (note: this is an index so the exact numbers are not interpretable. Lower numbers = less developed, larger numbers = more developed.)",
         "buddhist", "Predominantly Buddhist hamlet?\n(1 = yes, 0 = no)",
         "vietnamese", "Predominantly Vietnamese hamlet?\n(1 = yes, 0 = no)") %>% 
   pandoc.table()
