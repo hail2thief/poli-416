@@ -6,18 +6,12 @@ output:
     toc: true
 editor_options: 
   chunk_output_type: console
-# menu:
-#   assignment:
-#     parent: Homeworks
-#     weight: 4
+menu:
+  assignment:
+    parent: Homeworks
+    weight: 4
 ---
 
-
-
-## Tutorial
-
-
-[Here's what I showed in class](https://www.dropbox.com/s/b5t3tthxjxj32j3/create-new-variable.mov?dl=0).
 
 
 ## Instructions
@@ -26,6 +20,22 @@ editor_options:
 
 Answer the questions (below), and keep track of your answers somewhere (a notepad?). You will input your answers into Canvas. **Figure out the answers *BEFORE* opening Canvas**, otherwise you'll run out of time. 
 
+
+
+
+## Tutorial
+
+
+Skills used: 
+
+- grouped summary counts
+- grouped summary statistics
+- plotting
+- creating new variables
+- sorting
+
+
+[My awkward Google Sheets video tutorials are here](https://www.dropbox.com/sh/rsj9qm67se619pm/AAD1wPt84O8yaIfSPcwN9edua?dl=0)
 
 
 ## US Army Enlistment
@@ -67,7 +77,7 @@ tribble(~Variable, ~Description,
 2. A big problem with (1): that county might have the highest military service because many people enlisted there, **or** it might just be that there's a lot of people who live in that county and that's inflating the military service variable. Create a per-capita enlistment variable called `rate` that divides post-2001 enlistment by county population. Which county has the highest enlistment **rate**?
 
 
-3. What is the relationship between a county’s unemployment rate and its a military service **rate** (new variable you constructed in question 2)? Plot them together (x-axis = unemployment rate) and add a trend line so you can see the general trend. Roughly, what is that trend? 
+3. What is the relationship between a county’s unemployment rate and its a military service **rate** (new variable you constructed in question 2)? Plot them together (x-axis = unemployment rate, y-axis = service rate) and add a trend line so you can see the general trend. Roughly, what is that trend? Save the plot to upload. (note: once you have the scatterplot up, you can add a trend line by going to Customize -> Series -> scroll down to "trendline" checkbox)
 
 
 4. Look at the military bases variable. How many military bases does the state with the most bases have? 

@@ -6,30 +6,38 @@ output:
     toc: true
 editor_options: 
   chunk_output_type: console
-# menu:
-#   assignment:
-#     parent: Homeworks
-#     weight: 4
+menu:
+  assignment:
+    parent: Homeworks
+    weight: 4
 ---
 
 <script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
 
 <div id="TOC">
 <ul>
-<li><a href="#tutorial" id="toc-tutorial">Tutorial</a></li>
 <li><a href="#instructions" id="toc-instructions">Instructions</a></li>
+<li><a href="#tutorial" id="toc-tutorial">Tutorial</a></li>
 <li><a href="#us-army-enlistment" id="toc-us-army-enlistment">US Army Enlistment</a></li>
 <li><a href="#icasualties-data" id="toc-icasualties-data">iCasualties data</a></li>
 </ul>
 </div>
 
-<div id="tutorial" class="section level2">
-<h2>Tutorial</h2>
-<p><a href="https://www.dropbox.com/s/b5t3tthxjxj32j3/create-new-variable.mov?dl=0">Here’s what I showed in class</a>.</p>
-</div>
 <div id="instructions" class="section level2">
 <h2>Instructions</h2>
 <p>Answer the questions (below), and keep track of your answers somewhere (a notepad?). You will input your answers into Canvas. <strong>Figure out the answers <em>BEFORE</em> opening Canvas</strong>, otherwise you’ll run out of time.</p>
+</div>
+<div id="tutorial" class="section level2">
+<h2>Tutorial</h2>
+<p>Skills used:</p>
+<ul>
+<li>grouped summary counts</li>
+<li>grouped summary statistics</li>
+<li>plotting</li>
+<li>creating new variables</li>
+<li>sorting</li>
+</ul>
+<p><a href="https://www.dropbox.com/sh/rsj9qm67se619pm/AAD1wPt84O8yaIfSPcwN9edua?dl=0">My awkward Google Sheets video tutorials are here</a></p>
 </div>
 <div id="us-army-enlistment" class="section level2">
 <h2>US Army Enlistment</h2>
@@ -114,7 +122,7 @@ county</td>
 <ol style="list-style-type: decimal">
 <li><p>Which county had the highest post-2001 military service?</p></li>
 <li><p>A big problem with (1): that county might have the highest military service because many people enlisted there, <strong>or</strong> it might just be that there’s a lot of people who live in that county and that’s inflating the military service variable. Create a per-capita enlistment variable called <code>rate</code> that divides post-2001 enlistment by county population. Which county has the highest enlistment <strong>rate</strong>?</p></li>
-<li><p>What is the relationship between a county’s unemployment rate and its a military service <strong>rate</strong> (new variable you constructed in question 2)? Plot them together (x-axis = unemployment rate) and add a trend line so you can see the general trend. Roughly, what is that trend?</p></li>
+<li><p>What is the relationship between a county’s unemployment rate and its a military service <strong>rate</strong> (new variable you constructed in question 2)? Plot them together (x-axis = unemployment rate, y-axis = service rate) and add a trend line so you can see the general trend. Roughly, what is that trend? Save the plot to upload. (note: once you have the scatterplot up, you can add a trend line by going to Customize -&gt; Series -&gt; scroll down to “trendline” checkbox)</p></li>
 <li><p>Look at the military bases variable. How many military bases does the state with the most bases have?</p></li>
 </ol>
 </div>
