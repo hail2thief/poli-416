@@ -16,14 +16,18 @@ editor_options:
 ---
 
 
+
 # Slides
 
 
-- [Tuesday slides](/slides/05-coin.pdf)
-- [Thursday slides](/slides/05-coin-audience.pdf)
+- [COIN](../../files/slides/05-coin.pdf)
+
+- COIN tactics (will finish on Tuesday)
 
 
-# Reading
+
+
+# Readings
 
 [All readings can be accessed here.](https://www.dropbox.com/sh/pide0ytvjrnbp0q/AADaIbprAmBQERw4UwWleAVba?dl=0)
 
