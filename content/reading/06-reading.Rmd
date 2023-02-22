@@ -22,7 +22,7 @@ editor_options:
 
 - [COIN](../../files/slides/05-coin.pdf)
 
-- COIN tactics (will finish on Tuesday)
+- [COIN audience](../../files/slides/05-coin-audience.pdf)
 
 
 
