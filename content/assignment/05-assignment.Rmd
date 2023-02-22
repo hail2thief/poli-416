@@ -6,11 +6,13 @@ output:
     toc: true
 editor_options: 
   chunk_output_type: console
-# menu:
-#   assignment:
-#     parent: Homeworks
-#     weight: 5
+menu:
+  assignment:
+    parent: Homeworks
+    weight: 5
 ---
+
+
 
 
 
@@ -24,10 +26,25 @@ Answer the questions (below), and keep track of your answers somewhere (a notepa
 
 
 
+
+## Tutorial
+
+
+New skill used (*note: you will want to watch the new video before attempting the homework*):
+
+- summary statistics
+
+
+[My awkward Google Sheets video tutorials are here](https://www.dropbox.com/sh/rsj9qm67se619pm/AAD1wPt84O8yaIfSPcwN9edua?dl=0)
+
+
+
+
+
 ## Displacement in Colombia
 
 
-Let's look at this survey data from Colombia, which captures responses from people living in very rural areas that have been affected by the conflict, and includes both people who were and weren't displaced during the war (variable dictionary below). Every row here is a person who completed the survey.
+Let's look at this survey data I collected in Colombia as part of my dissertation research. The survey captures responses from people in rural areas that have been heavily affected by the conflict, and includes both people who were and weren't displaced during the war (variable dictionary below). *Every row here is a person who completed the survey.*
 
 - Download this: <i class="fas fa-download"></i> [Displacement survey](/files/displace.csv)
 
@@ -51,24 +68,32 @@ tribble(~Variable, ~Description,
 ```
 
 
-1. How many years has the average person in the sample been displaced?
+
+1. You can find many stories on the internet of people who have been displaced or are living as refugees in different parts of the world. Find one of these stories and, *in four to five sentences*, tell us about the person, what happened to them, and where they are now. **Include the url to the story in your entry**. 
 
 
-2. How large (number of people) is the largest household in the sample? 
-
-3. What is the relationship between how old a respondent is and how long they have been displaced? Make a scatterplot (points) with respondent age on x-axis and years since displacement on the y axis, and add a trend line. Save the plot, you will submit it. 
+Now, using the data, answer the following questions:
 
 
-4. (Based on graph in question 3) In general, people who are older tend to have been displaced _____
+2. How many years has the AVERAGE person in the sample been displaced? 
 
 
-5. About what percent of respondents who were displaced have **ALSO** been the victim of another form of violence beside displacement? Calculate the percent of respondents who have been victims of other forms of violence, filtering so you only look at respondents who have been displaced. 
+3. How large (number of people) is the LARGEST household in the sample? 
 
 
-6. About what percent of the sample would favor the legalization of coca production? Take “strong approve” and “approve” to both mean they would favor legalization. 
+4. What is the relationship between how old a respondent is and how long they have been displaced? Make a scatterplot (points) with respondent age on x-axis and years since displacement on the y axis, and add a trend line. *Save the plot, you will submit it. *
 
 
-7. ~~About what percent of respondents are seeking restitution of their lost property?~~ accidentally left this off the Canvas quiz, feel free to skip. 
+5. (Based on graph) In general, people who are older tend to have been displaced _____
 
 
-8. Now, compare the proportion of men and women who have managed to return to their community of origin. About how much more likely (how many percentage points more) are men to have returned to their origin community than women?
+6. About what PERCENT of respondents who were displaced have **ALSO** been the victim of another form of violence beside displacement? Calculate the PERCENT of respondents who have been victims of other forms of violence, then filter so you only look at respondents who have been displaced. 
+
+
+7. About what percent of the sample would favor the legalization of coca production? Take “strong approve” and “approve” to both mean they would favor legalization. 
+
+
+<!-- 7. About what percent of respondents are seeking restitution of their lost property? accidentally left this off the Canvas quiz, feel free to skip.  -->
+
+
+8. Now, compare the PERCENT of men and women who have managed to return to their community of origin. About how much more likely (**how many PERCENTAGE points more**) are men to have returned to their origin community than women?
