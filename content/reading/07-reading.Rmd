@@ -19,8 +19,8 @@ editor_options:
 # Slides
 
 
-- [Tuesday slides](/slides/06-colombia-I.pdf)
-- [Thursday slides](/slides/06-colombia-II.pdf)
+- [Tuesday slides](../../files/slides/06-colombia-I.pdf)
+- [Thursday slides](../../files/slides/06-colombia-II.pdf)
 
 
 # Reading
