@@ -1,0 +1,102 @@
+---
+title: "Homework 6"
+citeproc: true
+bibliography: /Users/juan/Dropbox/github/whistle2/master.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+type: docs
+output:
+  blogdown::html_page:
+    toc: true
+editor_options: 
+  chunk_output_type: console
+menu:
+  assignment:
+    parent: Homeworks
+    weight: 6
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+<div id="TOC">
+<ul>
+<li><a href="#instructions" id="toc-instructions">Instructions</a></li>
+<li><a href="#tutorial" id="toc-tutorial">Tutorial</a></li>
+<li><a href="#argentinas-dirty-war" id="toc-argentinas-dirty-war">Argentina’s Dirty War</a></li>
+</ul>
+</div>
+
+<div id="instructions" class="section level2">
+<h2>Instructions</h2>
+<p>Answer the questions (below), and keep track of your answers somewhere (a notepad?). You will input your answers into Canvas. <strong>Figure out the answers <em>BEFORE</em> opening Canvas</strong>, otherwise you’ll run out of time.</p>
+</div>
+<div id="tutorial" class="section level2">
+<h2>Tutorial</h2>
+<p><a href="https://www.dropbox.com/sh/rsj9qm67se619pm/AAD1wPt84O8yaIfSPcwN9edua?dl=0">My awkward Google Sheets video tutorials are here</a></p>
+</div>
+<div id="argentinas-dirty-war" class="section level2">
+<h2>Argentina’s Dirty War</h2>
+<p>I couldn’t find any good data on Peru (understudied!) so we’re going to look at Argentina instead. Our focus is on the role of ideology in the so-called “Dirty War”. The key question is: how did ideology shape the violence perpetrated by the state during the Dirty War?</p>
+<ol style="list-style-type: decimal">
+<li><p>Look up Argentina’s “Dirty War”. Describe it in 4-5 sentences, making sure to note what form the violence perpetrated by the state typically took. <em>Provide a URL or citation to your source</em>. (3 pts)</p></li>
+<li><p>Skim this excerpt from <a href="https://www.dropbox.com/s/qnhgs4d5sll6c7v/finchelstein-excerpt.pdf?dl=0">Finchelstein, Federico. The Ideological Origins of the Dirty War: Fascism, Populism, and Dictatorship in Twentieth Century Argentina. Oxford University Press, 2014</a>. In 4-5 sentences, describe aspects of the ideology of state perpetrators of violence during the Dirty War. <em>Provide direct quotes from the text to support your claim</em>.</p></li>
+<li><p>Look at <a href="/files/dirty_war_time.csv">this data</a> on the number of disappearances and executions over time in Argentina. Create a new variable that is the total number of victims in on each date (so: disappearances + executions). Make a <em>line chart/graph</em> of all three variables, with date on the x-axis and the violence indicators on the y-axis. Save it for submission. <em>When does total violence reach its peak</em>?</p></li>
+</ol>
+<p>Download this data on the violence perpetrated by Argentinian army officers (each row is an officer): <a href="/files/dirty_war.csv">dirty_war</a></p>
+<ol start="4" style="list-style-type: decimal">
+<li><p>Scharpf (2018) argues that, when it came to ideology, officers in the infantry were much more extreme than officers in the cavalry, and that this made infantry officers especially lethal. About how many more victims was the <em>MOST</em> violent officer in the Infantry responsible for than the most violent officer in the Cavalry?</p></li>
+<li><p>Scharpf (2018) similarly argues that, among the officer <em>ranks</em>, Brigadier Generals were especially ideological and likely to commit violence. About how many disappearances was the <em>AVERAGE</em> Brigadier General responsible for?</p></li>
+</ol>
+<table style="width:65%;">
+<colgroup>
+<col width="19%" />
+<col width="45%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">Variable</th>
+<th align="center">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">rankord</td>
+<td align="center">Rank of officer</td>
+</tr>
+<tr class="even">
+<td align="center">armybranch</td>
+<td align="center">Army branch of officer</td>
+</tr>
+<tr class="odd">
+<td align="center">age</td>
+<td align="center">Age of officer</td>
+</tr>
+<tr class="even">
+<td align="center">waittime</td>
+<td align="center">Time between graduation and
+first area command (in months)</td>
+</tr>
+<tr class="odd">
+<td align="center">comdur</td>
+<td align="center">Length of command (in months)</td>
+</tr>
+<tr class="even">
+<td align="center">planrepprop</td>
+<td align="center">Proportion of months serving
+under the 404/75 Directive</td>
+</tr>
+<tr class="odd">
+<td align="center">nvictims</td>
+<td align="center">Number of victims (disappeared
++ executed)</td>
+</tr>
+<tr class="even">
+<td align="center">ndisappear</td>
+<td align="center">Number of disappeared</td>
+</tr>
+<tr class="odd">
+<td align="center">nexecut</td>
+<td align="center">Number of executed</td>
+</tr>
+</tbody>
+</table>
+</div>

@@ -1,0 +1,314 @@
+rankord,armybranch,age,waittime,comdur,planrepprop,nvictims,ndisappear,nexecut
+Colonel,Artillery,47.5,311,23,1,130,76,54
+Colonel,Artillery,47.58333206176758,322,35,0.08571428805589676,22,21,1
+Colonel,Infantry,47.08333206176758,309,16,0,0,0,0
+Lt. Colonel,Infantry,43.58333206176758,286,24,1,386,347,39
+Lt. Colonel,Infantry,45.33333206176758,274,24,0.125,132,116,16
+Lt. Colonel,Infantry,46.25,274,11,0,5,4,1
+Lt. Colonel,Infantry,42.75,261,16,0,1,1,0
+Colonel,Infantry,45.58333206176758,310,24,1,540,446,94
+Colonel,Infantry,49.16666793823242,322,15,0.20000000298023224,62,59,3
+Colonel,Infantry,48.33333206176758,325,9,0,2,1,1
+Lt. Colonel,Infantry,43.66666793823242,274,11,0,0,0,0
+Lt. Colonel,Infantry,44.91666793823242,261,16,0,0,0,0
+Colonel,Artillery,46,286,13,1,76,70,6
+Colonel,Artillery,44.08333206176758,287,26,0.5384615659713745,173,164,9
+Colonel,Artillery,43.91666793823242,277,20,0,9,8,1
+Colonel,Artillery,44.91666793823242,285,16,0,1,1,0
+Colonel,Infantry,45.5,286,13,1,40,36,4
+Colonel,Infantry,44.16666793823242,287,11,1,7,7,0
+Colonel,Infantry,39.83333206176758,226,15,0.20000000298023224,3,3,0
+Colonel,Infantry,47,301,20,0,1,1,0
+Colonel,Infantry,42.91666793823242,273,16,0,1,1,0
+Colonel,Communications,46.33333206176758,286,13,1,19,16,3
+Colonel,Communications,46.66666793823242,287,11,1,46,42,4
+Colonel,Communications,44.83333206176758,286,15,0.20000000298023224,17,14,3
+Colonel,Communications,47.66666793823242,301,18,0,2,2,0
+Lt. Colonel,Cavalry,45,274,13,1,3,2,1
+Lt. Colonel,Cavalry,46.33333206176758,299,26,0.5384615659713745,5,4,1
+Lt. Colonel,Cavalry,45.25,277,20,0,0,0,0
+Lt. Colonel,Cavalry,45.75,285,16,0,0,0,0
+Colonel,Cavalry,47.41666793823242,322,13,1,2,2,0
+Colonel,Cavalry,47.58333206176758,311,26,0.5384615659713745,1,1,0
+Colonel,Cavalry,47.25,325,20,0,0,0,0
+Colonel,Cavalry,45,273,16,0,0,0,0
+Colonel,Cavalry,47.91666793823242,310,24,1,6,6,0
+Colonel,Cavalry,48.08333206176758,322,24,0.125,0,0,0
+Colonel,Cavalry,49.66666793823242,334,23,0,0,0,0
+Colonel,Cavalry,49.75,333,4,0,0,0,0
+Colonel,Cavalry,43.91666793823242,274,24,1,9,7,2
+Colonel,Cavalry,44.08333206176758,274,24,0.125,3,1,2
+Colonel,Cavalry,44.41666793823242,274,23,0,0,0,0
+Colonel,Cavalry,43.08333206176758,273,4,0,0,0,0
+Lt. Colonel,Artillery,43.75,286,24,1,0,0,0
+Lt. Colonel,Artillery,47.33333206176758,298,24,0.125,0,0,0
+Lt. Colonel,Artillery,44.25,274,25,0,0,0,0
+Lt. Colonel,Artillery,45.75,286,13,1,4,2,2
+Lt. Colonel,Artillery,44.08333206176758,287,11,1,4,4,0
+Lt. Colonel,Artillery,44.91666793823242,298,24,0.125,0,0,0
+Lt. Colonel,Artillery,46.16666793823242,274,23,0,0,0,0
+Lt. Colonel,Artillery,46.08333206176758,297,4,0,0,0,0
+Lt. Colonel,Engineering,46.08333206176758,286,24,1,46,36,10
+Lt. Colonel,Engineering,45.33333206176758,286,24,0.125,2,2,0
+Lt. Colonel,Engineering,45.41666793823242,274,25,0,0,0,0
+Major,Artillery,37.41666793823242,190,19,0.15789473056793213,0,0,0
+Major,Artillery,37.66666793823242,209,5,0,0,0,0
+Major,Artillery,35.33333206176758,178,13,0,0,0,0
+Colonel,Cavalry,49.41666793823242,322,24,1,0,0,0
+Colonel,Cavalry,47.66666793823242,322,25,0.11999999731779099,1,1,0
+Lt. Colonel,Artillery,43.75,286,13,1,69,50,19
+Lt. Colonel,Artillery,44.5,287,26,0.5384615659713745,148,132,16
+Lt. Colonel,Artillery,45.83333206176758,277,20,0,13,13,0
+Lt. Colonel,Artillery,44.75,273,16,0,0,0,0
+Lt. Colonel,Artillery,46.41666793823242,299,23,1,2,1,1
+Lt. Colonel,Artillery,45.75,274,24,0.125,5,5,0
+Lt. Colonel,Artillery,43.16666793823242,274,23,0,1,1,0
+Lt. Colonel,Artillery,45.58333206176758,285,4,0,0,0,0
+Brig. Gen.,NA,NA,NA,14,1,71,65,6
+Brig. Gen.,NA,NA,NA,23,0.47826087474823,81,75,6
+Brig. Gen.,NA,NA,NA,20,0,0,0,0
+Brig. Gen.,NA,NA,NA,14,1,25,21,4
+Brig. Gen.,NA,NA,NA,12,0.9166666865348816,22,20,2
+Brig. Gen.,NA,NA,NA,14,0,5,5,0
+Brig. Gen.,NA,NA,NA,26,0.9615384340286255,43,40,3
+Brig. Gen.,NA,NA,NA,11,0,4,4,0
+Brig. Gen.,NA,NA,NA,20,0,0,0,0
+Colonel,NA,NA,NA,12,1,28,26,2
+Colonel,NA,NA,NA,13,0,8,7,1
+Colonel,NA,NA,NA,12,1,3,3,0
+Colonel,NA,NA,NA,13,0.9230769276618958,0,0,0
+Brig. Gen.,NA,NA,NA,1,1,0,0,0
+Brig. Gen.,NA,NA,NA,12,1,48,31,17
+Brig. Gen.,NA,NA,NA,13,0.9230769276618958,19,17,2
+Brig. Gen.,NA,NA,NA,14,0,3,3,0
+Colonel,NA,NA,NA,12,1,0,0,0
+Colonel,NA,NA,NA,12,1,0,0,0
+Colonel,NA,NA,NA,13,0,1,1,0
+Brig. Gen.,Infantry,50.16666793823242,345,2,1,36,32,4
+Brig. Gen.,Cavalry,47.91666793823242,347,1,1,22,19,3
+Brig. Gen.,Cavalry,51.08333206176758,348,31,0.5806451439857483,218,210,8
+Brig. Gen.,Infantry,52.08333206176758,379,22,0,9,9,0
+Brig. Gen.,Infantry,52.75,396,13,0,0,0,0
+Colonel,Infantry,46.58333206176758,310,24,1,296,260,36
+Colonel,Infantry,47.66666793823242,322,24,0.125,62,60,2
+Colonel,Infantry,49.83333206176758,334,20,0,8,7,1
+Colonel,Cavalry,47.33333206176758,328,18,1,156,141,15
+Colonel,Cavalry,47.83333206176758,322,15,0.20000000298023224,24,23,1
+Colonel,Cavalry,47.5,313,32,0,3,2,1
+Colonel,Cavalry,50.16666793823242,333,4,0,0,0,0
+Colonel,NA,NA,NA,37,0.6486486196517944,44,41,3
+Colonel,NA,NA,NA,22,0,1,1,0
+Colonel,NA,NA,NA,13,0,0,0,0
+Colonel,Artillery,47.08333206176758,287,23,1,165,140,25
+Colonel,Artillery,49.66666793823242,286,24,0.125,62,57,5
+Colonel,Infantry,44.5,286,26,0,1,1,0
+Colonel,Infantry,44.58333206176758,288,1,0,0,0,0
+Colonel,Artillery,44.91666793823242,286,24,1,219,178,41
+Colonel,Artillery,45,298,15,0.20000000298023224,52,49,3
+Colonel,Artillery,43.41666793823242,277,20,0,5,5,0
+Colonel,Artillery,44.75,273,12,0,0,0,0
+Colonel,Artillery,44.91666793823242,273,4,0,0,0,0
+Brig. Gen.,NA,NA,NA,12,1,44,37,7
+Brig. Gen.,NA,NA,NA,20,0.6000000238418579,78,76,2
+Brig. Gen.,NA,NA,NA,16,0,6,6,0
+Maj. Gen.,NA,NA,NA,11,0,1,0,1
+Maj. Gen.,NA,NA,NA,13,0,0,0,0
+Lt. Colonel,Communications,46.16666793823242,286,13,1,155,86,69
+Lt. Colonel,Communications,46.08333206176758,287,26,0.5384615659713745,218,134,84
+Lt. Colonel,Communications,43.91666793823242,289,20,0,2,1,1
+Lt. Colonel,Communications,46.33333206176758,285,16,0,2,1,1
+Colonel,Artillery,47.75,322,13,1,42,25,17
+Colonel,Artillery,51.5,335,26,0.5384615659713745,45,33,12
+Colonel,Artillery,51.75,337,20,0,0,0,0
+Colonel,Artillery,50.91666793823242,345,16,0,0,0,0
+Lt. Colonel,Infantry,43.66666793823242,274,13,1,2,2,0
+Lt. Colonel,Engineering,47.75,299,26,0.5384615659713745,0,0,0
+Lt. Colonel,Engineering,44.66666793823242,277,27,0,0,0,0
+Lt. Colonel,Artillery,43.91666793823242,286,24,1,0,0,0
+Lt. Colonel,Artillery,45.08333206176758,286,24,0.125,1,1,0
+Lt. Colonel,Artillery,44,274,25,0,0,0,0
+Major,Engineering,42,226,39,0.692307710647583,6,4,2
+Major,Engineering,38.33333206176758,205,32,0,0,0,0
+Major,Engineering,38.25,201,4,0,0,0,0
+Major,Cavalry,44.91666793823242,274,1,1,0,0,0
+Major,Artillery,38.83333206176758,203,23,1,0,0,0
+Major,Cavalry,40.33333206176758,226,24,0.125,0,0,0
+Major,Communications,38.41666793823242,214,17,0,0,0,0
+Lt. Colonel,Artillery,45.75,286,24,1,0,0,0
+Lt. Colonel,Artillery,45.75,286,24,0.125,0,0,0
+Lt. Colonel,Artillery,48.33333206176758,298,23,0,0,0,0
+Lt. Colonel,Artillery,47.83333206176758,285,4,0,0,0,0
+Lt. Colonel,Cavalry,45.66666793823242,286,24,1,0,0,0
+Lt. Colonel,Cavalry,45.25,286,24,0.125,0,0,0
+Lt. Colonel,Cavalry,44.75,274,23,0,0,0,0
+Lt. Colonel,Cavalry,47.91666793823242,297,4,0,0,0,0
+Lt. Colonel,Cavalry,44.25,274,24,1,4,4,0
+Lt. Colonel,Cavalry,43.25,274,24,0.125,0,0,0
+Lt. Colonel,Cavalry,45.33333206176758,286,23,0,0,0,0
+Lt. Colonel,Cavalry,43.91666793823242,273,4,0,0,0,0
+Lt. Colonel,Cavalry,45,274,12,1,0,0,0
+Lt. Colonel,Cavalry,43.91666793823242,274,36,0.4166666567325592,0,0,0
+Lt. Colonel,Cavalry,46.33333206176758,286,11,0,0,0,0
+Lt. Colonel,Cavalry,43.25,273,16,0,0,0,0
+Lt. Colonel,Infantry,43.66666793823242,274,13,1,8,8,0
+Lt. Colonel,Infantry,45.83333206176758,287,26,0.5384615659713745,8,6,2
+Lt. Colonel,Infantry,47.66666793823242,289,20,0,0,0,0
+Lt. Colonel,Infantry,44.5,273,16,0,0,0,0
+Lt. Colonel,Infantry,44.25,274,24,1,20,13,7
+Lt. Colonel,Infantry,45.25,286,24,0.125,9,8,1
+Lt. Colonel,Infantry,46,274,23,0,2,0,2
+Lt. Colonel,Infantry,43.33333206176758,273,4,0,0,0,0
+Lt. Colonel,Artillery,48.58333206176758,310,13,1,6,3,3
+Lt. Colonel,Artillery,46.25,311,13,1,22,9,13
+Lt. Colonel,Artillery,47.91666793823242,300,13,0.07692307978868484,1,1,0
+Lt. Colonel,Artillery,51.33333206176758,325,20,0,3,2,1
+Lt. Colonel,Artillery,48.75,333,16,0,0,0,0
+Colonel,Infantry,46.5,310,24,1,35,19,16
+Colonel,Infantry,48.41666793823242,322,24,0.125,2,2,0
+Colonel,Infantry,50,322,23,0,0,0,0
+Colonel,Infantry,49.91666793823242,333,4,0,0,0,0
+Major,Communications,40.16666793823242,202,13,1,0,0,0
+Major,Communications,41.08333206176758,227,35,0.4000000059604645,2,2,0
+Major,Communications,36.41666793823242,190,27,0,0,0,0
+Lt. Colonel,Infantry,45.41666793823242,286,13,1,0,0,0
+Lt. Colonel,Infantry,45.16666793823242,299,26,0.5384615659713745,2,2,0
+Lt. Colonel,Infantry,45.08333206176758,301,20,0,0,0,0
+Lt. Colonel,Infantry,43.66666793823242,273,16,0,0,0,0
+Lt. Colonel,Infantry,44.16666793823242,274,13,1,1,1,0
+Lt. Colonel,Infantry,44.75,275,26,0.5384615659713745,0,0,0
+Lt. Colonel,Infantry,45.41666793823242,277,20,0,0,0,0
+Lt. Colonel,Infantry,43.5,273,16,0,0,0,0
+Lt. Colonel,Artillery,42.66666793823242,274,24,1,5,5,0
+Lt. Colonel,Infantry,47.5,323,26,0.5384615659713745,1,1,0
+Lt. Colonel,Artillery,44.33333206176758,274,24,0.125,0,0,0
+Lt. Colonel,Infantry,50,325,32,0,7,7,0
+Lt. Colonel,Artillery,45.33333206176758,286,25,0,7,7,0
+Lt. Colonel,Infantry,49.08333206176758,333,4,0,0,0,0
+Lt. Colonel,Infantry,44.83333206176758,286,12,1,0,0,0
+Lt. Colonel,Infantry,43.58333206176758,274,36,0.4166666567325592,1,1,0
+Lt. Colonel,Infantry,45.75,274,23,0,0,0,0
+Lt. Colonel,Infantry,46.5,297,4,0,0,0,0
+Major,Cavalry,40.91666793823242,226,24,1,2,2,0
+Major,Cavalry,40.83333206176758,226,24,0.125,0,0,0
+Major,Cavalry,37.75,202,23,0,0,0,0
+Major,Cavalry,38.66666793823242,213,4,0,0,0,0
+Brig. Gen.,Infantry,49.58333206176758,341,4,1,138,98,40
+Brig. Gen.,Infantry,49.25,345,8,1,357,255,102
+Brig. Gen.,Infantry,51.41666793823242,348,26,0.5,155,132,23
+Brig. Gen.,Infantry,50.91666793823242,374,22,0,26,24,2
+Brig. Gen.,Infantry,52.41666793823242,372,13,0,2,2,0
+Colonel,Engineering,46.75,310,13,1,18,18,0
+Colonel,Engineering,49.16666793823242,323,26,0.5384615659713745,14,12,2
+Colonel,Engineering,50.33333206176758,325,9,0,1,1,0
+Colonel,Engineering,50.58333206176758,322,23,0,0,0,0
+Colonel,Engineering,48.91666793823242,321,4,0,0,0,0
+Colonel,Infantry,47.16666793823242,310,24,1,7,6,1
+Colonel,Infantry,47.58333206176758,322,24,0.125,0,0,0
+Colonel,Infantry,49.25,334,25,0,0,0,0
+Lt. Colonel,Engineering,42.66666793823242,262,1,1,0,0,0
+Lt. Colonel,Engineering,49.25,323,23,1,8,3,5
+Lt. Colonel,Engineering,48.83333206176758,322,47,0.06382978707551956,0,0,0
+Lt. Colonel,Engineering,51.66666793823242,321,4,0,0,0,0
+Lt. Colonel,Infantry,45,262,32,0.75,691,626,65
+Lt. Colonel,Infantry,44.91666793823242,286,24,0.125,34,32,2
+Lt. Colonel,Infantry,44.08333206176758,274,23,0,0,0,0
+Lt. Colonel,Infantry,44.75,285,4,0,1,1,0
+Colonel,Cavalry,46.25,310,24,1,85,65,20
+Colonel,Cavalry,47.41666793823242,322,24,0.125,5,5,0
+Colonel,Cavalry,51.58333206176758,334,23,0,0,0,0
+Colonel,Infantry,46.25,297,4,0,0,0,0
+Colonel,Infantry,47.58333206176758,310,13,1,31,30,1
+Colonel,Infantry,48.83333206176758,323,26,0.5384615659713745,34,33,1
+Colonel,Infantry,50.5,325,20,0,2,2,0
+Colonel,Infantry,47,321,16,0,0,0,0
+Colonel,Infantry,47.91666793823242,324,23,1,114,96,18
+Colonel,Engineering,49.33333206176758,347,23,0.08695652335882187,24,24,0
+Colonel,Infantry,52.41666793823242,346,14,0,5,5,0
+Colonel,Artillery,51.5,360,13,0,1,0,1
+Colonel,Infantry,45.16666793823242,310,24,1,28,21,7
+Colonel,Infantry,50.41666793823242,322,24,0.125,3,2,1
+Colonel,Infantry,48.25,322,25,0,2,1,1
+Colonel,Artillery,49.66666793823242,323,23,1,14,7,7
+Colonel,Artillery,49.33333206176758,334,24,0.125,0,0,0
+Colonel,Artillery,47.58333206176758,334,11,0,0,0,0
+Colonel,Artillery,44.66666793823242,285,12,0,0,0,0
+Colonel,Artillery,51.08333206176758,333,4,0,0,0,0
+Colonel,Engineering,47.58333206176758,327,13,1,83,71,12
+Colonel,Engineering,50.33333206176758,335,26,0.5384615659713745,22,20,2
+Colonel,Engineering,50.58333206176758,349,9,0,1,1,0
+Colonel,Engineering,52.5,358,11,0,0,0,0
+Colonel,Engineering,51,345,16,0,0,0,0
+Colonel,Communications,49.58333206176758,322,8,1,23,19,4
+Colonel,Communications,50,342,16,1,96,87,9
+Colonel,Communications,48.41666793823242,334,24,0.125,33,31,2
+Colonel,Communications,51.33333206176758,346,11,0,1,1,0
+Colonel,Communications,49.08333206176758,333,16,0,1,1,0
+Colonel,Cavalry,46.75,322,13,1,43,39,4
+Colonel,Cavalry,48.5,335,12,1,51,49,2
+Colonel,Cavalry,49.5,347,23,0.08695652335882187,26,26,0
+Colonel,Cavalry,50.08333206176758,346,23,0,0,0,0
+Colonel,Cavalry,49.83333206176758,345,4,0,0,0,0
+Colonel,Artillery,48.83333206176758,336,22,1,53,45,8
+Colonel,Artillery,48.08333206176758,334,13,0.23076923191547394,5,5,0
+Colonel,Artillery,50.5,347,11,0,0,0,0
+Colonel,Artillery,49.58333206176758,346,23,0,0,0,0
+Colonel,Artillery,50.75,357,4,0,0,0,0
+Colonel,Infantry,48.5,322,13,1,92,85,7
+Colonel,Infantry,48.83333206176758,335,24,0.5833333134651184,73,71,2
+Colonel,Infantry,49.33333206176758,335,22,0,7,5,2
+Colonel,Infantry,48.5,345,16,0,0,0,0
+Colonel,Engineering,50.41666793823242,338,20,1,15,13,2
+Colonel,Infantry,47.5,334,24,0.125,4,4,0
+Colonel,Infantry,51.58333206176758,358,11,0,0,0,0
+Colonel,Artillery,51.91666793823242,357,12,0,0,0,0
+Colonel,Engineering,51.16666793823242,345,4,0,0,0,0
+Colonel,Infantry,50.25,336,12,1,62,57,5
+Colonel,Artillery,50.91666793823242,348,10,1,38,32,6
+Colonel,Artillery,51.58333206176758,346,15,0.20000000298023224,19,18,1
+Colonel,Cavalry,50,361,9,0,3,3,0
+Colonel,Infantry,50.5,346,23,0,0,0,0
+Colonel,Infantry,50.16666793823242,345,4,0,0,0,0
+Brig. Gen.,Infantry,47.91666793823242,341,13,1,49,43,6
+Brig. Gen.,Infantry,49.75,349,11,1,58,56,2
+Brig. Gen.,Infantry,50.75,360,12,0.0833333358168602,14,14,0
+Brig. Gen.,Infantry,50.75,372,24,0,6,6,0
+Brig. Gen.,Infantry,52.33333206176758,372,13,0,0,0,0
+Lt. Colonel,Communications,46.41666793823242,286,13,1,44,18,26
+Lt. Colonel,Communications,45.25,287,26,0.5384615659713745,39,21,18
+Lt. Colonel,Communications,45.41666793823242,289,20,0,0,0,0
+Lt. Colonel,Communications,44.16666793823242,273,16,0,1,0,1
+Colonel,NA,NA,NA,12,1,2,2,0
+Colonel,NA,NA,NA,12,1,2,2,0
+Colonel,NA,NA,NA,13,0,0,0,0
+Lt. Colonel,Infantry,43.33333206176758,263,23,1,0,0,0
+Lt. Colonel,Communications,44.16666793823242,286,24,0.125,0,0,0
+Lt. Colonel,Infantry,44.25,286,25,0,0,0,0
+Lt. Colonel,Engineering,45.25,274,24,1,25,23,2
+Lt. Colonel,Engineering,43.91666793823242,274,24,0.125,5,5,0
+Lt. Colonel,Engineering,45.25,274,11,0,0,0,0
+Lt. Colonel,Engineering,44,273,16,0,0,0,0
+Lt. Colonel,Infantry,45.75,274,13,1,0,0,0
+Lt. Colonel,Infantry,45.08333206176758,287,26,0.5384615659713745,3,3,0
+Lt. Colonel,Infantry,45.5,277,20,0,0,0,0
+Lt. Colonel,Infantry,43.83333206176758,285,16,0,0,0,0
+Lt. Colonel,Infantry,43.66666793823242,286,26,1,0,0,0
+Lt. Colonel,Infantry,45.33333206176758,276,22,0.04545454680919647,0,0,0
+Lt. Colonel,Infantry,46.16666793823242,286,23,0,2,2,0
+Lt. Colonel,Infantry,44.33333206176758,273,4,0,0,0,0
+Colonel,Engineering,45.83333206176758,310,24,1,1,1,0
+Colonel,Infantry,47.75,322,15,0.20000000298023224,1,1,0
+Colonel,Infantry,53.66666793823242,313,32,0,0,0,0
+Colonel,Infantry,49.33333206176758,345,4,0,0,0,0
+Lt. Colonel,Infantry,42.58333206176758,274,13,1,0,0,0
+Lt. Colonel,Infantry,44.25,275,26,0.5384615659713745,3,3,0
+Lt. Colonel,Infantry,45.5,277,20,0,0,0,0
+Lt. Colonel,Infantry,44.66666793823242,285,16,0,0,0,0
+Lt. Colonel,Infantry,44.66666793823242,286,13,1,0,0,0
+Lt. Colonel,Infantry,45,275,26,0.5384615659713745,0,0,0
+Lt. Colonel,Infantry,48.83333206176758,301,20,0,0,0,0
+Lt. Colonel,Infantry,46.83333206176758,273,16,0,0,0,0
+Lt. Colonel,Cavalry,44,286,24,1,2,2,0
+Lt. Colonel,Cavalry,45.5,298,35,0.08571428805589676,0,0,0
+Lt. Colonel,Cavalry,37.16666793823242,201,16,0,0,0,0
+Major,Cavalry,41,226,13,1,1,0,1
+Major,Cavalry,41.16666793823242,227,26,0.5384615659713745,1,1,0

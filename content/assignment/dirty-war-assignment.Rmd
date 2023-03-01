@@ -1,0 +1,80 @@
+---
+title: "Homework 6"
+citeproc: true
+bibliography: /Users/juan/Dropbox/github/whistle2/master.bib
+csl: ../../static/bib/chicago-syllabus-no-bib.csl
+type: docs
+output:
+  blogdown::html_page:
+    toc: true
+editor_options: 
+  chunk_output_type: console
+menu:
+  assignment:
+    parent: Homeworks
+    weight: 6
+---
+
+
+
+
+
+
+
+## Instructions
+
+
+
+Answer the questions (below), and keep track of your answers somewhere (a notepad?). You will input your answers into Canvas. **Figure out the answers *BEFORE* opening Canvas**, otherwise you'll run out of time. 
+
+
+
+
+## Tutorial
+
+
+
+[My awkward Google Sheets video tutorials are here](https://www.dropbox.com/sh/rsj9qm67se619pm/AAD1wPt84O8yaIfSPcwN9edua?dl=0)
+
+
+
+
+
+## Argentina's Dirty War
+
+
+I couldn't find any good data on Peru (understudied!) so we're going to look at Argentina instead. Our focus is on the role of ideology in the so-called "Dirty War". The key question is: how did ideology shape the violence perpetrated by the state during the Dirty War?
+
+
+1. Look up Argentina's "Dirty War". Describe it in 4-5 sentences, making sure to note what form the violence perpetrated by the state typically took. *Provide a URL or citation to your source*. (3 pts)
+
+
+2. Skim this excerpt from [Finchelstein, Federico. The Ideological Origins of the Dirty War: Fascism, Populism, and Dictatorship in Twentieth Century Argentina. Oxford University Press, 2014](https://www.dropbox.com/s/qnhgs4d5sll6c7v/finchelstein-excerpt.pdf?dl=0). In 4-5 sentences, describe aspects of the ideology of state perpetrators of violence during the Dirty War. *Provide direct quotes from the text to support your claim*.
+
+3. Look at [this data](/files/dirty_war_time.csv) on the number of disappearances and executions over time in Argentina. Create a new variable that is the total number of victims in on each date (so: disappearances + executions). Make a *line chart/graph* of all three variables, with date on the x-axis and the violence indicators on the y-axis. Save it for submission. *When does total violence reach its peak*?
+
+
+
+Download this data on the violence perpetrated by Argentinian army officers (each row is an officer): [dirty_war](/files/dirty_war.csv)
+
+
+4. Scharpf (2018) argues that, when it came to ideology, officers in the infantry were much more extreme than officers in the cavalry, and that this made infantry officers especially lethal. About how many more victims was the *MOST* violent officer in the Infantry responsible for than the most violent officer in the Cavalry?
+
+5. Scharpf (2018) similarly argues that, among the officer *ranks*, Brigadier Generals were especially ideological and likely to commit violence. About how many disappearances was the *AVERAGE* Brigadier General responsible for?
+
+
+```{r, echo=FALSE,message=FALSE,warning=FALSE,results="asis"}
+library(tidyverse)
+library(pander)
+tribble(~Variable, ~Description, 
+        "rankord", "Rank of officer",
+        "armybranch", "Army branch of officer",
+        "age", "Age of officer",
+        "waittime", "Time between graduation and first area command (in months)",
+        "comdur", "Length of command (in months)",
+        "planrepprop", "Proportion of months serving under the 404/75 Directive",
+        "nvictims", "Number of victims (disappeared + executed)",
+        "ndisappear", "Number of disappeared",
+        "nexecut", "Number of executed") %>% 
+  pandoc.table()
+```
