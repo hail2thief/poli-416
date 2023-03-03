@@ -19,8 +19,8 @@ editor_options:
 # Slides
 
 
-- [Tuesday slides](/slides/07-peru-I.pdf)
-- [Thursday slides](/slides/07-peru-II.pdf)
+- [Tuesday slides](../../files/slides/07-peru-I.pdf)
+- [Thursday slides](../../files/slides/07-peru-II.pdf)
 
 
 # Reading
