@@ -1,15 +1,15 @@
 ---
-title: "Homework 6"
+title: "Homework 7"
 type: docs
 output:
   blogdown::html_page:
     toc: true
 editor_options: 
   chunk_output_type: console
-# menu:
-#   assignment:
-#     parent: Homeworks
-#     weight: 6
+menu:
+  assignment:
+    parent: Homeworks
+    weight: 7
 ---
 
 <script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
@@ -19,7 +19,7 @@ editor_options:
 <li><a href="#instructions" id="toc-instructions">Instructions</a>
 <ul>
 <li><a href="#task-1-elephant-in-the-room" id="toc-task-1-elephant-in-the-room">Task 1: Elephant in the room</a></li>
-<li><a href="#task-2-catching-corruption" id="toc-task-2-catching-corruption">Task 2: Catching corruption</a></li>
+<li><a href="#task-2-detecting-corruption" id="toc-task-2-detecting-corruption">Task 2: Detecting corruption</a></li>
 </ul></li>
 </ul>
 </div>
@@ -29,7 +29,7 @@ editor_options:
 <p>Answer the questions (below), and keep track of your answers somewhere (a notepad?). You will input your answers into Canvas. <strong>Figure out the answers <em>BEFORE</em> opening Canvas</strong>, otherwise you’ll run out of time.</p>
 <div id="task-1-elephant-in-the-room" class="section level3">
 <h3>Task 1: Elephant in the room</h3>
-<p>Look at the political cartoon below, from 1996, depicting Colombian presidential candidate Ernesto Samper. Do some digging around online, and in 3-5 sentences (TOTAL) discuss the meaning and intention of <strong>each</strong> cartoon. Some guiding questions:</p>
+<p>Look at the political cartoon below, from 1996, depicting Colombian presidential candidate Ernesto Samper. Do some digging around online, and in 4-5 sentences (TOTAL) discuss the meaning and intention of <strong>each</strong> cartoon. Some guiding questions:</p>
 <ul>
 <li>What is each cartoon referencing? What point is the author trying to emphasize in each cartoon?</li>
 <li>Why an elephant? Why is it behind Samper?</li>
@@ -44,29 +44,29 @@ editor_options:
 <p><img src="/images/vladdo-samper.jpg" width="700" height="790"></p>
 <p>Cartoon by Vladimir Florez (“Vladdo”), 1996</p>
 <ol style="list-style-type: decimal">
-<li><p>Describe first cartoon.</p></li>
+<li><p>Explain first cartoon.</p></li>
 <li><p>Explain second cartoon.</p></li>
 </ol>
 </div>
-<div id="task-2-catching-corruption" class="section level3">
-<h3>Task 2: Catching corruption</h3>
+<div id="task-2-detecting-corruption" class="section level3">
+<h3>Task 2: Detecting corruption</h3>
 <p>Here we will use a dataset to learn about detecting fraud/corruption in data. This dataset is payment data of a division of a West Coast utility company. The variable of interest is <strong>Amount</strong>, which is the amount the company paid for different services.</p>
 <ul>
 <li>Download this: <i class="fas fa-download"></i> <a href="/files/benford.csv">Benford’s Law data</a></li>
 </ul>
 <p>State corruption plays a big role in the success of criminal organizations. Some of this corruption involves data and numbers (e.g., payments for services, money laundering, etc.). What tools do regulators have to detect corruption and fraud in data? One simple (but kinda clever) tool relies on <em>Benford’s Law</em>.</p>
 <ol start="3" style="list-style-type: decimal">
-<li>Google what Benford’s Law is and it’s role in the detection of fraud. In your own words, briefly describe how someone could use Benford’s Law to detect irregulariities in data.</li>
+<li>Google what Benford’s Law is and it’s role in the detection of fraud. In your own words, briefly describe Benford’s Law and how someone could use Benford’s Law to detect irregularities in data. (3-4 sentences)</li>
 </ol>
 <p>Let’s use Benford’s Law on the dataset above. Examples of Benford’s Law usually rely on the distribution of the first digit in a number, but you can also use the first two digits. With the dataset:</p>
 <ul>
 <li><p>Create a column called <code>first_digits</code> that shows the first two digits in the <code>Amount</code> column. You will need to use the function <code>LEFT()</code> (look it up!).</p></li>
-<li><p>Next, using a pivot table, COUNT the number of times each pair of first digits appears in the dataset. This is identical to what you did before where you tallied ethnic identity categories.</p></li>
+<li><p>Next, using a pivot table, COUNT the number of times each pair of first digits appears in the dataset.</p></li>
 </ul>
 <ol start="4" style="list-style-type: decimal">
 <li><p>How many times was there an amount that began with the digits “35”?</p></li>
 <li><p>Finally, make a barplot with the digits on the x-axis and the number of times each digit appears on the y-axis. It should <em>mostly</em> (but not quite) look like the Benford’s Law distribution. Save this – you will submit it.</p></li>
-<li><p>Eyeball the plot: there is a point near the middle of the distribution that clearly violates Benford’s Law – it’s a pair of digits that is present an abnormal amount of times in the data. What pair of digits is it? Write them as a number (e.g., 23).</p></li>
+<li><p>There is a pair of digits that violates Benford’s Law. What pair of digits is it? Write them as a number (e.g., 23).</p></li>
 </ol>
 </div>
 </div>

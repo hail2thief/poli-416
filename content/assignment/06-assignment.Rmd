@@ -1,15 +1,15 @@
 ---
-title: "Homework 6"
+title: "Homework 7"
 type: docs
 output:
   blogdown::html_page:
     toc: true
 editor_options: 
   chunk_output_type: console
-# menu:
-#   assignment:
-#     parent: Homeworks
-#     weight: 6
+menu:
+  assignment:
+    parent: Homeworks
+    weight: 7
 ---
 
 
@@ -28,7 +28,7 @@ Answer the questions (below), and keep track of your answers somewhere (a notepa
 ### Task 1: Elephant in the room
 
 
-Look at the political cartoon below, from 1996, depicting Colombian presidential candidate Ernesto Samper. Do some digging around online, and in 3-5 sentences (TOTAL) discuss the meaning and intention of **each** cartoon. Some guiding questions:
+Look at the political cartoon below, from 1996, depicting Colombian presidential candidate Ernesto Samper. Do some digging around online, and in 4-5 sentences (TOTAL) discuss the meaning and intention of **each** cartoon. Some guiding questions:
 
 - What is each cartoon referencing? What point is the author trying to emphasize in each cartoon?
 - Why an elephant? Why is it behind Samper? 
@@ -45,14 +45,14 @@ Cartoon by Vladimir Florez ("Vladdo"), 1996
 
 
 
-1. Describe first cartoon. 
+1. Explain first cartoon. 
 
 
 2. Explain second cartoon. 
 
 
 
-### Task 2: Catching corruption
+### Task 2: Detecting corruption
 
 
 Here we will use a dataset to learn about detecting fraud/corruption in data. This dataset is payment data of a division of a West Coast utility company. The variable of interest is **Amount**, which is the amount the company paid for different services. 
@@ -64,14 +64,14 @@ Here we will use a dataset to learn about detecting fraud/corruption in data. Th
 State corruption plays a big role in the success of criminal organizations. Some of this corruption involves data and numbers (e.g., payments for services, money laundering, etc.). What tools do regulators have to detect corruption and fraud in data? One simple (but kinda clever) tool relies on *Benford's Law*. 
 
 
-3. Google what Benford's Law is and it's role in the detection of fraud. In your own words, briefly describe how someone could use Benford's Law to detect irregulariities in data. 
+3. Google what Benford's Law is and it's role in the detection of fraud. In your own words, briefly describe Benford's Law and how someone could use Benford's Law to detect irregularities in data. (3-4 sentences)
 
 
 Let's use Benford's Law on the dataset above. Examples of Benford's Law usually rely on the distribution of the first digit in a number, but you can also use the first two digits. With the dataset:
 
 - Create a column called `first_digits` that shows the first two digits in the `Amount` column. You will need to use the function `LEFT()` (look it up!). 
 
-- Next, using a pivot table, COUNT the number of times each pair of first digits appears in the dataset. This is identical to what you did before where you tallied ethnic identity categories. 
+- Next, using a pivot table, COUNT the number of times each pair of first digits appears in the dataset.
 
 4. How many times was there an amount that began with the digits "35"?
 
@@ -79,5 +79,5 @@ Let's use Benford's Law on the dataset above. Examples of Benford's Law usually 
 5. Finally, make a barplot with the digits on the x-axis and the number of times each digit appears on the y-axis. It should *mostly* (but not quite) look like the Benford's Law distribution. Save this -- you will submit it. 
 
 
-6. Eyeball the plot: there is a point near the middle of the distribution that clearly violates Benford's Law -- it's a pair of digits that is present an abnormal amount of times in the data. What pair of digits is it? Write them as a number (e.g., 23). 
+6. There is a pair of digits that violates Benford's Law. What pair of digits is it? Write them as a number (e.g., 23). 
 
