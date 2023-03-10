@@ -19,7 +19,7 @@ editor_options:
 # Slides
 
 
-- [Week's slides (both days)](/slides/08-crime-I.pdf)
+- [Week's slides (both days)](../../files/slides/08-crime-I.pdf)
 
 
 # Reading
