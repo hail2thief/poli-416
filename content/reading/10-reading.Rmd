@@ -19,7 +19,7 @@ editor_options:
 # Slides
 
 
-- [Week's slides (both days)](/slides/09-termination.pdf)
+- [Week's slides (both days)](../../files/slides/09-termination.pdf)
 
 
 # Reading
